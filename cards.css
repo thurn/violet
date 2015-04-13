@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.air {
+  background-color: #E0E0E0;
+}
+
+.fire {
+  background-color: #FF5722;
+}
+
+.earth {
+  background-color: #4CAF50;
+}
+
+.water {
+  background-color: #00BCD4;
+}
+
+.card {
+  width: 216px;
+  height: 319px;
+  display: inline-block;
+  float: left;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.titleLine {
+  width: 210px;
+  height: 24px;
+  position: relative;
+  background-color: white;
+  border: 1px solid black;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  padding-right: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  top: 5px;
+  left: 0px;
+  z-index: 1;
+  font-family: 'Libre Baskerville';
+}
+
+.titleLine2 {
+  width: 210px;
+  height: 24px;
+  position: relative;
+  background-color: white;
+  border: 1px solid black;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  padding-right: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  top: 5px;
+  left: 0px;
+  z-index: 1;
+  font-family: 'Libre Baskerville';
+}
+
+.manaCost {
+  padding-left: 5px;
+}
+
+.imageContainer {
+  position: absolute;
+  background-color: white;
+  top: 20px;
+  height: 150px;
+  width: 216px;
+}
+
+.image {
+  position: absolute;
+  top: 0px;
+  width: 216px;
+  height: 150px;
+  opacity: 0.85;
+}
+
+.text {
+  font-family: 'Roboto';
+  position: absolute;
+  top: 170px;
+  width: 206px;
+  height: 110px;
+  padding: 5px;
+  opacity: 0.7;
+  background-color: white;
+  font-size: 12px;
+}
+
+.targetLine {
+  margin-bottom: 8px;
+}
+
+.targetKeyword {
+  font-weight: 700;
+}
+
+.typeLine {
+  font-family: 'Libre Baskerville';
+  position: relative;
+  top: 267px;
+  left: 0px;
+  padding: 5px;
+  width: 200px;
+  text-align: center;
+  font-size: 12px;
+}
+
+.diceRoll {
+  font-weight: 700;
+}
