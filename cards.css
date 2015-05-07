@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   border: 0;
+  -webkit-print-color-adjust: exact;
 }
 
 .air {
@@ -22,7 +23,7 @@ body {
 
 .card {
   width: 216px;
-  height: 319px;
+  height: 310px;
   display: inline-block;
   float: left;
   border: 2px solid black;
@@ -41,7 +42,7 @@ body {
   padding-top: 2px;
   padding-bottom: 2px;
   padding-left: 5px;
-  top: -12px;
+  top: -26px;
   left: 0px;
   z-index: 1;
   font-family: 'Libre Baskerville';
@@ -50,8 +51,8 @@ body {
 .imageContainer {
   position: relative;
   background-color: white;
-  top: 0px;
-  height: 140px;
+  top: -15px;
+  height: 135px;
   width: 216px;
 }
 
@@ -59,16 +60,16 @@ body {
   position: relative;
   top: 0px;
   width: 216px;
-  height: 140px;
+  height: 135px;
   opacity: 0.85;
 }
 
 .text {
   font-family: 'Roboto';
   position: relative;
-  top: -20px;
+  top: -35px;
   width: 206px;
-  height: 110px;
+  height: 125px;
   padding: 5px;
   opacity: 0.7;
   background-color: white;
@@ -87,12 +88,13 @@ body {
 .typeLine {
   font-family: 'Libre Baskerville';
   position: relative;
-  top: -21px;
+  top: -38px;
   left: 0px;
   padding: 5px;
   width: 200px;
   text-align: center;
   font-size: 12px;
+  font-weight: 700;
 }
 
 .diceRoll {
@@ -103,12 +105,44 @@ body {
   position: relative;
   top: -2px;
   left: 8px;
+  z-index: 2;
 }
 
 .cost {
-  background-color: white;
+  background-color: white !important;
+  opacity: 1 !important;
   padding: 4px 4px 0 4px;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
   border: 1px solid black;
+}
+
+.textCost {
+  font-size: 10px;
+  position: relative;
+  top: -4px;
+  padding-bottom: 5px;
+}
+
+.inlineCost {
+  padding-top: 0;
+}
+
+.inlineCostLine {
+  position: relative;
+  top: -8px;
+}
+
+.inlineCard {
+  border: 1px solid black;
+  padding-left: 4px;
+  padding-right: 4px;
+  margin-top: 5px;
+  position: relative;
+  top: 2px;
+}
+
+.inlineText {
+  position: relative;
+  top: -6px;
 }
