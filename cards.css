@@ -104,7 +104,8 @@ body {
 .costLine {
   position: relative;
   top: -2px;
-  left: 8px;
+  left: 0;
+  padding-left: 10px;
   z-index: 2;
 }
 
@@ -145,4 +146,22 @@ body {
 .inlineText {
   position: relative;
   top: -6px;
+}
+
+.setNumber {
+  float: right;
+  margin-top: 3px;
+  margin-right: 1px;
+  padding-top: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border: 1px solid black;
+  border-radius: 50px;
+  font-size: 10px;
+  font-familiy: 'Roboto';
+  font-weight: 700;
+  position: relative;
+  top: -26px;
+  z-index: 5;
+  background-color: #CCCCCC;
 }
