@@ -5,8 +5,79 @@
     <link href="./cards.css" type="text/css" rel="stylesheet">
     <link href='./baskerville.css' rel='stylesheet' type='text/css'>
     <link href='./roboto.css' rel='stylesheet' type='text/css'>
+    <style type="text/css">
+      .card {
+        margin: 20px;
+      }
+    </style>
   </head>
   <body>
+    <div class="fire card">
+      <div class="costLine">
+        <span class="cost">&#9314;</span>
+        <span class="cost">&#10030;</span>
+      </div>
+      <div class="imageContainer">
+        <img class="image" src="placeholder.jpg">
+      </div>
+      <span class="setNumber">1</span>
+      <span class="titleLine">
+        <span class="title">Immediate Effect</span>
+      </span>
+      <div class="text">
+          <p><strong>Target</strong> a visible unit within <strong>Range</strong>
+          25. Deal 2 damage to it.</p>
+          <p>&#9316; &#8594; Deal 2 damage to target.</p>
+      </div>
+      <div class="typeLine">
+        Spell &#8226; Immediate
+      </div>
+    </div>
+    <div class="earth card">
+      <div class="costLine">
+        <span class="cost">&#9313;</span>
+        <span class="cost">&#10144;</span>
+      </div>
+      <div class="imageContainer">
+        <img class="image" src="placeholder.jpg">
+      </div>
+      <span class="setNumber">1</span>
+      <span class="titleLine">
+        <span class="title">Choice Card</span>
+      </span>
+      <div class="text">
+          <strong>Target</strong> an ally. <strong>Pick 1</strong>:
+          <div class="choices">
+              <p>&#10030; &#8594; Target makes attacks at +2 this turn.</p>
+              <p>&#10030; , &#9312; &#8594; Target gains 2 health.</p>
+          </div>
+      </div>
+      <div class="typeLine">
+        Spell &#8226; Immediate
+      </div>
+    </div>
+    <div class="air card">
+      <div class="costLine">
+        <span class="cost">&#9313;</span>
+        <span class="cost">3&#10711;</span>
+        <span class="cost textCost">Discard a card</span>
+      </div>
+      <div class="imageContainer">
+        <img class="image" src="placeholder.jpg">
+      </div>
+      <span class="setNumber">1</span>
+      <span class="titleLine">
+        <span class="title">3-Turn Card</span>
+      </span>
+      <div class="text">
+          <p><b>Target</b> self. Friendly units make attacks at +4.</p>
+          <p><b>Temporary</b> <i>(When the last marker is removed from this
+          card, discard it.)</i></p>
+      </div>
+      <div class="typeLine">
+        Spell &#8226; Ongoing
+      </div>
+    </div>
     <div class="water card">
       <div class="costLine">
         <span class="cost">&#9315;</span>
@@ -16,34 +87,18 @@
       </div>
       <span class="setNumber">1</span>
       <span class="titleLine">
-        <span class="title">Example Card 1</span>
+        <span class="title">Activated Card</span>
       </span>
       <div class="text">
-          <strong>Target</strong> self. Target makes attacks at +2.<br />
-          &#10144; , &#9312; &#8594; Instead, target makes attacks at +4.<br />
-          &#10030; , 2&#10711; &#8649; <strong>Target</strong> a visible square within <strong>Range</strong> 30. Deal 2d12 damage to unit in target square.<br />
+          <p><strong>Target</strong> self. Target makes attacks at +2 this turn.
+          Put 3 charge markers on this card.</p>
+          <p>&#10030; , Remove a charge marker &#8649; <strong>Target</strong> a
+          visible square within <strong>Range</strong> 30. Deal 2d12 damage to
+          unit in target square.</p>
+          <p><b>Temporary</b></p>
       </div>
       <div class="typeLine">
         Spell &#8226; Ongoing
-      </div>
-    </div>
-    <div class="fire card">
-      <div class="costLine">
-        <span class="cost">&#9314;</span>
-      </div>
-      <div class="imageContainer">
-        <img class="image" src="placeholder.jpg">
-      </div>
-      <span class="setNumber">1</span>
-      <span class="titleLine">
-        <span class="title">Example Card 2</span>
-      </span>
-      <div class="text">
-          <strong>Target</strong> a visible unit within <strong>Range</strong> 25. Deal 2 damage to it.<br />
-          &#9316; &#8594; Deal 2 damage to target.<br />
-      </div>
-      <div class="typeLine">
-        Spell &#8226; Immediate
       </div>
     </div>
   </body>

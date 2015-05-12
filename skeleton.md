@@ -1,7 +1,7 @@
 Templating:
   - Activate ability (1 time)
   - Activate ability (Any number of times)
-  - Choice between two or more activated effects (OR)
+  - Choice between two or more effects (OR)
   - Add additional effects by paying a cost 1 time
   - Add additional effects by paying a cost multiple times
   - Cards with a "cooldown" period
