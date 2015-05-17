@@ -1,4 +1,24 @@
-## C.2 - Air Mechanics
+School Archetypes:
+Air: Temporary Effects
+Fire: Immediate Effects
+Earth: Ongoing Effects
+Water: Activated Effects
+
+Card Archetypes:
+"Kicker" - pay cost, add extra effect
+"Action Activated" - pay action to activate
+"Cooldown Activated" - Only usable every N turns
+"Immediate Effect" - One-time effect
+"Conditional Immediate" - One-time effect if some condition is met
+"Conditional Kicker" - Extra effect if some condition is met
+"Conditional Activate" - Activate only if some condition is met
+"Free Choice" - pick one of multiple effects for a single cost
+"Cost Choice" - pick one of multiple effects for different costs
+"Mana Activated" - pay cost, activate any number of times
+"Limited Use Activated" - Only usable a limited number of times
+"Limited Turns" - Effect lasts for a limited number of turns
+
+## C.2 - Water Mechanics
 
 Haste Matters
   Spells which get better if the unit haste this turn.
@@ -73,7 +93,7 @@ Gambling Draw
   Spells which let you discard a card to draw a card
 
 
-## C.5 - Water Mechanics
+## C.5 - Air Mechanics
 
 Lightning bolt matters
   Spells that get better with lightning bolt
