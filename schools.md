@@ -1,8 +1,8 @@
 School Archetypes:
-Air: Temporary Effects
-Fire: Immediate Effects
-Earth: Ongoing Effects
-Water: Activated Effects
+Air: Temporary Effects (Secondary: Immediate Effects)
+Fire: Immediate Effects (Secondary: Temporary Effects)
+Earth: Ongoing Effects (Secondary: Activated Effects)
+Water: Activated Effects (Secondary: Ongoing Effects)
 
 Card Archetypes:
 "Kicker" - pay cost, add extra effect
