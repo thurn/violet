@@ -1,11 +1,11 @@
 Base Game: 100 cards, sets 1 through 5.
 
 Air
-  1: Temporary -
-  1: Temporary -
-  1: Temporary -
-  1: Immediate -
-  1: Immediate -
+  1: Temporary - Move after bolt (this turn)
+  1: Temporary - Bonus reaction damage (this turn)
+  1: Temporary - Improve cover (this turn)
+  1: Immediate - Negate Spell
+  1: Immediate - Negate Spell (Conditionally)
   2: Temporary -
   2: Temporary -
   2: Temporary -
@@ -14,8 +14,8 @@ Air
   3: Temporary -
   3: Temporary -
   3: Temporary -
-  3: Immediate -
-  3: Immediate -
+  3: Immediate - Negate Spell (Alt Cost)
+  3: Immediate - Negate Spell (Conditionally)
   4: Temporary -
   4: Temporary -
   4: Temporary -
@@ -24,8 +24,8 @@ Air
   5: Temporary -
   5: Temporary -
   5: Temporary -
-  5: Immediate -
-  5: Immediate -
+  5: Immediate - Negate Spell (Kicker)
+  5: Immediate - Negate Spell (Conditionally)
 
 Fire
   1: Immediate -

@@ -97,16 +97,16 @@ Gambling Draw
 
 Lightning bolt matters
   Spells that get better with lightning bolt
-Move after focus
-  Spells that allow for movement after focusing
+Move after bolt
+  Spells that allow for movement after bolting
 Enhanced line of sight
   Spells that grant expanded line of sight
 Bonus Damage
   Spells that grant extra damage to attacks conditionally (on reaction attacks, vs. enemies with no cover, vs. damaged enemies, etc).
 Improve cover
   Spells which magnify the effects of cover
-Nullify spell
-  Spells which nullify another spell (or a specific type of spell)
+Negate spell
+  Spells which negate another spell (or a specific type of spell)
 Additional reactions
   Spells which grant an additional reaction
 Draw cards
