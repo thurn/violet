@@ -1,0 +1,19 @@
+- Absorb spell power into your own power
+- Breathe out acid
+- Surround self in acid
+- Rain acid down on enemies
+- Add bonus aim to another spell
+- Make weapons overcome a specific type of damage reduction
+- Everthing within a radius gets double movement
+- Turn self into semi-fluid form
+- Heavy rain in one area
+- Create a flask of water that damages lawful enemies
+- Glowing skin, resist evil damage
+- Body shines really bright, blinds enemies, hurts undead
+- Breathe out fire that makes a fire creature
+- Turn fire/snow/water/wood into a creature
+- Delay teleportation effects in a given area
+- Immunity to cold damage in a given radius
+- Aura which gives bonus defense vs. dragons
+- Create antimagic field around target
+-
