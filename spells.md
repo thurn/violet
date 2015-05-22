@@ -1,3 +1,14 @@
+# Concepts
+- Anti-magic
+- Damage typee: Fire, acid, electric, cold
+- Abilities: Breath weapon
+- Conditions: Fear, Blinded, Stunned, Entangled, Prone
+- Darkness
+- Alignment: Lawful enemies, evil enemies, chaotic enemies
+- Skills: Balancing, Climbing
+- Savings Throws: Will, Fortitude, Reflex
+
+# Spells
 - Absorb spell power into your own power
 - Breathe out acid
 - Surround self in acid
@@ -16,4 +27,46 @@
 - Immunity to cold damage in a given radius
 - Aura which gives bonus defense vs. dragons
 - Create antimagic field around target
+- Instantly cast any low-level spell
+- Lightning arcs between two creatures
+- Armor made of shadows, bonus vs. holy/good spells
+- Don't provoke reactions with ranged attacks
+- Turn into a giant bulette
+- Turn into a wolf
+- Bonus to overcoming spell resistance of a specific enemy
+- Teleport to a special healing plane
+- Blue mist that protects from fire damage
+- Evasion from breath weapons
+- Holy aura removes fear from enemies
+- Give self an aura that causes fear in enemies
+- Cause blood vessels to shot out of enemy and block its area
+- Blood shoots out of enemy
+- Turn trees into allies
+- Crushing guilt for sins in enemy
+- Turn skeleton into ally
+- Rainstorm which damages chaotic creatures
+- Flask of water which damages chaotic enemies
+- Protective slime around target which causes attacker to take damage
+- Make enemy's weapon attack that enemy instead
+- Cause enemy's next spell to backfire/target them
+- Get really good at balancing/climbing
+- Swap positions of two creatures
+- Bal of lightning rolls around the battlefield
+- Body bursts into protective flames
+- Steel bands entangle enemy
+- Prevent resurrection of enemy
+- Ram of force knocks over creature
+- Song which improves Will save
+- Hands turn into claws
+- Throw a bunch of smoke at enemy
+- Curse enemy with bad attacks or saves
+- Surround enemy with circle of wind
+- Become a werebear/boar/tiger/rat/wolf
+- Create a sword which annhilates anything on contact
+- Black flames cause nausea
+- Create an area of total darkness
+- Sword made out of living teeth
+- Attack each enemy in range one time
+- Set blade on fire, it does extra damage and sheds light
+- Attacks become hypnotic and daze enemies
 -
