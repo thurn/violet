@@ -1,12 +1,15 @@
 # Concepts
 - Anti-magic
-- Damage typee: Fire, acid, electric, cold
+- Damage typee: Fire, acid, electric, cold, sonic
 - Abilities: Breath weapon
-- Conditions: Fear, Blinded, Stunned, Entangled, Prone
+- Conditions: Fear, Blinded, Stunned, Entangled, Prone, Nauseated, Intoxicated
+- Poison
 - Darkness
 - Alignment: Lawful enemies, evil enemies, chaotic enemies
-- Skills: Balancing, Climbing
+- Skills: Balancing, Climbing, Hiding
 - Savings Throws: Will, Fortitude, Reflex
+- Size categories
+- Resurrection
 
 # Spells
 - Absorb spell power into your own power
@@ -69,4 +72,42 @@
 - Attack each enemy in range one time
 - Set blade on fire, it does extra damage and sheds light
 - Attacks become hypnotic and daze enemies
+- Cone of fire fills an area
+- Blessing grants allies a morale bonus to attacks
+- Skin becomes platinum and gains magic resistance
+- Breath which blinds enemies
+- Spit blinding liquid at subject
+- Grant ally ability to see in the dark
+- Ball of bright light which dazzles enemies
+- Cause target to enter a battle rage
+- Windstorm blows out lights and knocks down enemies
+- Turn enemy's blood to water
+- Glowing crystal sucks blood from enemies, draining constitution
+- Eyes turn into black holes, kill target by looking at it, turns into a bodak
+- Spikes erupt from your body, can attack with them
+- Body shoots fire in 5 feet in all directions
+- Turn body into a Huge warforged titan
+- Bolt of positive energy, dealing evil creatures damage
+- Every round, shot a ray which dazes enemies
+- Boulders appear and crush enemy
+- A fine mist which reduces saves vs. poison/disease
+- Plants grow thorns and attack
+- Make creature's blood burn, deals fire damage
+- Bee buzzes around target distracting it
+- Scream of sound causes sonic damage
+- Barrier of sound protects you, damages creatures that try to cross
+- Cover area of ground with magical spikes
+- Chameleon-like color changing
+- Turn creatures into stone statues
+- Shout holy words, damage enemies far away from your deity
+- Cause enemies in hearing range to become drunk
+- Magical missiles which bounce around
+- Use another creature's vision as your own
+- Give yourself sweet horns and gore some people
+- Ray deals cold
+- Mind-focusing ray grants saving throw bonus
+- Glittering rain causes bravery
+- React to an ally being knocked to 0 with healing
+- Start slowly crushing enemy's heart
+- Cause fallen ally to suffer no resurrection penalty
 -
