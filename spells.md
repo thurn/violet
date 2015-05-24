@@ -1,17 +1,21 @@
 # Concepts
 - Anti-magic
+- Savings Throws
 - Damage typee: Fire, acid, electric, cold, sonic
 - Abilities: Breath weapon
-- Conditions: Fear, Blinded, Stunned, Entangled, Prone, Nauseated, Intoxicated
+- Conditions: Fear, Blinded, Stunned, Entangled, Prone, Nauseated, Intoxicated, Infected, Dazed
 - Poison
-- Darkness
+- Ability score damage, types of damage
+- Darkness, Light sources, torches
+- Charging Enemies
 - Alignment: Lawful enemies, evil enemies, chaotic enemies
 - Skills: Balancing, Climbing, Hiding
 - Savings Throws: Will, Fortitude, Reflex
 - Size categories
 - Resurrection
+- Magical tatoos
 
-# Spells
+# Spell Compendium
 - Absorb spell power into your own power
 - Breathe out acid
 - Surround self in acid
@@ -110,4 +114,47 @@
 - React to an ally being knocked to 0 with healing
 - Start slowly crushing enemy's heart
 - Cause fallen ally to suffer no resurrection penalty
+- Turn fire into cold
+- Make room freezing cold, cold spells do extra damage
+- Creature's equipment bursts into flame
+- Comet strikes the earth
+- Dark cone blinds or reduces aim
+- Gain temporary health from enemy deaths
+- Infect creatures in area
+- Infect creature by touching it
+- Get damage reduction of a specific type as a reaction
+- Holy text gives morale bonus to save
+- Aura of cold damages nearby creatures
+- Turn enemy into spongy liquid
+- Undo enemy shapeshift
+- Charge with bonus attack but worse defense
+- Black tentacles hide you and defend you
+- Really loud noises distract spellcasters and make hearing hard
+- Turn target's sweat/blood to ice
+- Better criticals and damage against flanked enemy
+- Crown makes creatures like you and get good at attacking
+- Speed up time for an object, making it age fast
+- Give enemy bad luck
+- Jet black dagger makes enemy bad at dodging
+- Rats burst out of target's body
+- Weapon deals wounds that can't be healed
+- Hands become blades
+- Whirlwind blasts out from hand towards enemy, knocks enemies over
+- Cleanse a region of air of pollutants
+- bolt of darkness damages and dazes
+- Black flames on hand, damage with touch or throw
+- Huge mass of branches and logs fall on area
+- Weapon creates a sonic boom on every hit
+- Black fire that causes creatures that hit you to be damaged
+- Turn into a death dragon that can project a cone of fear
+- Target gets immediately resurrected when killed
+- Cause an explosion when you are killed
+- Aura of decay which makes wounds worse, people bleed out faster
+- Project illusory duplicate of yourself/allies
+- Improved range of sight
+- Sphere of fast-moving air kocks enemies prone/gets them swept up
+- Drain target of water
+- Golden aura stops ally from bleeding out
+- White nimbus makes target think they are invincible
+- Firey demon skin prevents cold, iron, good damage
 -
