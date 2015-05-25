@@ -4,7 +4,10 @@
 - Damage typee: Fire, acid, electric, cold, sonic
 - Abilities: Breath weapon
 - Conditions: Fear, Blinded, Stunned, Entangled, Prone, Nauseated, Intoxicated, Infected, Dazed
+  Sleep, Paralysis, Slow, Pinned, On Fire, Charmed, Frozen, Deafened
+- Incorporeal, ethereal, undead
 - Poison
+- Concentration
 - Ability score damage, types of damage
 - Darkness, Light sources, torches
 - Charging Enemies
@@ -12,8 +15,109 @@
 - Skills: Balancing, Climbing, Hiding
 - Savings Throws: Will, Fortitude, Reflex
 - Size categories
+- Teleportation
 - Resurrection
 - Magical tatoos
+- Dispell magic
+- Critical hits
+- Nonlethal damage
+- Creatue types: colors, big categories are better, constructs
+- Range categories: personal, touch, close, medium, long
+
+# Magic
+
+Cancel: Counter target spell
+Disorient: Creature gets -7/-0 until end of turn
+Essence Scatter: Counter target creature spell
+Flashfreeze: Counter target red or green spell
+Jump: Target creature gains flying
+Negate: Counter target noncreature spell
+Twincast: Copy target instant or sorcery spell
+Divination: Draw two cards
+Fabricate: Search your library for an artifact
+Mind Spring: Draw X cards
+Ponder: Look at top 3 of library, put back in any order
+Sleep: Tap all creatures target player controls
+Time Warp: Take an extra turn after this one
+Tome Scour: Opponent puts 5 cards into graveyard
+Traumatize: Put half library into graveyard
+Ice Cage: Enchanted creature can’t attack/block/activate abilities until it is targeted
+Levitation: All creatures get flying
+Mind Control: Control enchanted creature
+Telepathy: Opponents reveal their hands
+Aetherspouts: Attacking creatures get put on top or bottom of opponent’s library
+Encrust: Permanent doesn’t untap and its abilities can’t be activated
+Void Snare: Return target nonland permanent to its owner’s hand
+Angel’s Mercy: Gain 7 life
+Celestial Purge: Exile black or red permanent
+Divine Verdict: Destroy attacking/blocking creature
+Fog: Prevent combat damage this turn
+Giant Growth: Creature gets +3/+3 this turn
+Glorious Charge: Creatures get +1/+1 this turn
+Harm’s Way: Redirect 2 damage
+Might of Oaks: Creature gets +7/+7 until end of turn
+Naturalize: Destroy artifact or enchantment
+Silence: Opponents can’t cast spells this turn
+Tempest of Light: Destroy all enchantments
+Windstorm: X damage to each creature with flying
+Bountiful Harvest: Gain life for each land
+Howl of the Night Pack: Summon a Wolf for each Forest
+Nature’s Spiral: Return permanent to hand
+Open the Vaults: Return artifacts and enchantments to battlefield
+Overrun: Creatures get +3/+3 and trample
+Planar Cleansing: Destroy nonland permanents
+Rampant Growth: Search library for basic land, put onto battlefield
+Solemn Offering: Destroy artifact or enchantment, gain 4 life
+Armored Ascension: Creature gets +1/+1 for each plains, has flying
+Entangling Vines: Enchanted creature doesn’t untap
+Holy Strength: Enchanted creature gets +1/+2
+Honor of the Pure: White creatures get +1/+1
+Indestructibility: Permanent is indestructible
+Lifelink: Creature has lifelink
+Oakenform: Enchanted creature gets +3/+3
+Pacifism: Enchanted creature can’t attack or block
+Back to Nature: Destroy all enchantments
+Battle Mastery: Enchanted creature has double-strike
+Marked by Honor: Enchanted creature gets +2/+2 and has vigilance
+Ignite Disorder: 3 damage divided between 1-3 white/blue creatures
+Kindled Fury: Target gets +1/0 and first strike until end of turn
+Lightning Bolt: 3 damage to creature/player
+Seismic Strike: Damage to creature = to mountains you have
+Shatter: Destroy artifact
+Trumpet Blast: Attacking creatures get +2/+0 until end of turn
+Act of Treason: Control creature until end of turn
+Burning Inquiry: Each player draws 3, then discards 3 at random
+Earthquake: X damage to each creature without flying
+Fireball: X damage evenly between any number of targets, +1 cost per target
+Panic attack: 3 target creatures can’t block this turn
+Pyroclasm: 2 damage to each creature
+Yawning Fissure: Each opponent sacrifices a land
+Firebreathing: For R, creature gets +1/+0 until end of turn
+Manabarbs: Damage players this turn when they tap for mana
+Act on Impulse: Exile the top 3 cards of library, you can play them until end of turn
+Circle of Flame: When a creature without flying attacks you, deal 1 damage to it
+Doom Blade: Destroy nonblack creature
+Tendrils of Corruption: Deal X damage to creature, you gain X life, X is amount of swamps
+Assassinate: Destroy tapped creature
+Consume Spirit: Deals X damage, you gain X life
+Deathmark: Destroy target green or white creature
+Diabolic Tutor: Search library for a card and put it into your hand
+Duress: Opponent reveals hand, you discard a non-creature, non-land card
+Mind Rot: Target player discards two cards
+Mind Shatter: Target player discards X cards at random
+Sign in Blood: Target player draws 2 cards and loses 2 life
+Megrim: When opponents discard a card, deal 2 damage to them
+Sanguine Blood: When you gain life, opponent loses life
+Soul Bleed: Creature’s controller loses 1 life at upkeep
+Underworld Dreams: 1 damage when opponent draws cards
+Unholy Strength: Creature gets +2/+1
+Weakness: Creature gets -2/-1
+Eternal Thirst: Gain +1/+1 when an opponent’s creature dies
+Feast on the Fallen: Get a +1/+1 counter if an opponent lost life last turn
+Necrobite: Target creature gains deathtouch
+Necromancer’s Stockpile: Discard a creature card: draw a card
+Stab Wound: Enchanted creature gets -2/-2
+Stain the Mind: Search target player’s graveyard, hand, and library for cards with a given name
 
 # Spell Compendium
 - Absorb spell power into your own power
@@ -157,4 +261,81 @@
 - Golden aura stops ally from bleeding out
 - White nimbus makes target think they are invincible
 - Firey demon skin prevents cold, iron, good damage
--
+- Globe of really dry air damages enemies
+- Detect presence of specific enemy
+- Turn armor in diamonds
+- Skulls fall out of the sky, spooky song, strength damage
+- Fill target's mind with screams of insanity, disrupt concentration
+- Breath weapons which dispells magic
+- Wall which dispells magic
+- Chant which makes it hard to concentrate
+- Loud note which causes sonic damage
+- Target speaks gibberish, can't cast spells
+- Black mist dazes enemies and blocks sight
+- Scales on ally give it bonuses to str, con, immunity to some conditions
+- Blast of dragon breath: acid, electricity, fire, cold, sleep, slow, paralysis
+- Dragon eyes so you can see really well
+- Dragon skin, protects you from certain damage types
+- Fill target's lungs with water
+- Improved counterspell from connection to the arcane
+- Block a tunnel with rock for a short time
+- Place on the earth erupts and damages targets in the area
+- Bands shoot out from a wall, pinning a target there
+- Slime plate armor
+- Sheath of energy that hurts ghosts
+- Floating silver spheres can aborb spells
+- Electric spark does a small amount of damage
+- Two adjacent targets connected by loop of electricity
+- Transform body into a particular element
+- Fist gets green fire, sets creatures on fire
+- Silver aura around armor makes it resist a type of element
+- Black needle of energy drains mana from enemy
+- Sphere of immunity to a particular type of energy
+- Spheres of particular types of energy can attack or energy
+- Field absorbs mana of other spells and then casts one of your own spells
+- Swirling vortex of one energy type
+- Staff which entangles enemies when you hit them
+- Cocoon of force, can't get in or out
+- Damage earth creatures, create a hole in the ground
+- Glare at an enemy paralyzes them with fear
+- See the critical area of your enemy and then hit it
+- Path of flame which lights everything on fire in the path, destroys doors
+- Pull the water out of an enemy and make a water elemental
+- Minature hurricane protects you
+- Floating eye you can cast your spells through
+- Grow vampire fangs
+- Holy saints bless target with immunity to nonlethal damage, charm, compulsion
+- Target gets stronger against bigger enemies
+- Sharp ice shoots up from the ground
+- Blue mark on opponent lets you see the weak points in their armor
+- Throwing stars made out of fire
+- Flaming spiders crawl all over enemy
+- Bursts of flame shoot up from the ground
+- Circle of flames shoots out from you
+- Subject covered in magic fire that doesn't hurt it but hurts others
+- Turn one of your fists into a big stone fist
+- Get a dagger of fire
+- Arms turn into firey whips, can't cast other spells
+- Dazzling light flash which blinds
+- Rip flesh off of target's bones
+- Break a bone of target
+- Chant which helps you concentrate
+- Name a creature type, weapon glows blue and is good at kililng that
+- Invisible claws yo
+- Giant blue energy missiles always hit
+- Clear glass impassable barrier
+- Wave of water pushes back targets
+- Golden aura that prevents death and heals
+- Allies get defense bonuses if they don't move
+- Blue ray freezes enemy, damaging, immobilizing
+- Freezing mist rises and damages and slows all creatures within
+- Make a gem which explodes when you throw it
+- Teleport to the location of a specially prepared gem
+- Turn into an incorporeal ghost
+- Green ray that paralyzes or sickens
+- Glyph which paralyzes enemies that come near it
+- Pebbles in your hand that turn into boulders when you throw them
+- Turn target into glass
+- Silver glow makes you good a hiding and dodging
+- Skull-shaped cloud of gray energy means subject can't heal
+- Loud peal of thunder stuns, deafened, and/or knocked prone
