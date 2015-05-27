@@ -1,16 +1,22 @@
 # Concepts
 - Anti-magic
 - Savings Throws
+- Searching
+- Traps
+- Flying
+- Stealth
 - Damage typee: Fire, acid, electric, cold, sonic
 - Abilities: Breath weapon
 - Conditions: Fear, Blinded, Stunned, Entangled, Prone, Nauseated, Intoxicated, Infected, Dazed
-  Sleep, Paralysis, Slow, Pinned, On Fire, Charmed, Frozen, Deafened
+  Sleep, Paralysis, Slow, Pinned, On Fire, Charmed, Frozen, Deafened, Shaken, Dazzled, Fatigued,
+  Exhausted, Sickened, Blur, Displacement, Invisible, Poisoned
 - Incorporeal, ethereal, undead
 - Poison
 - Concentration
 - Ability score damage, types of damage
 - Darkness, Light sources, torches
-- Charging Enemies
+- Charging Enemies, Tripping Enemies
+- Resting
 - Alignment: Lawful enemies, evil enemies, chaotic enemies
 - Skills: Balancing, Climbing, Hiding
 - Savings Throws: Will, Fortitude, Reflex
@@ -23,6 +29,13 @@
 - Nonlethal damage
 - Creatue types: colors, big categories are better, constructs
 - Range categories: personal, touch, close, medium, long
+- Things that scale with "caster level"
+- Magical interactions: rain puts out fire
+- Always have a "coarse category" (~4 things) and a "fine category" (~30 things).
+  - creature types
+  - spell types
+  - damage types
+  - types have vulnerabilities, e.g. cold is vulnerable to fire
 
 # Magic
 
@@ -339,3 +352,89 @@ Stain the Mind: Search target player’s graveyard, hand, and library for cards 
 - Silver glow makes you good a hiding and dodging
 - Skull-shaped cloud of gray energy means subject can't heal
 - Loud peal of thunder stuns, deafened, and/or knocked prone
+- Bright light shines on enemies, they're easier to hit
+- Rain of rocks fall on enemies and damages them
+- Hail falls on enemies, cold damages them, extra hailstones per level
+- Bonus to save against spells opposite from  your alignment
+- Zone of warding keeps enemies out and stuns them if they try to enter it
+- Sweet melody improves another spellcaster's casting ability
+- Scary melody makes targets shaken
+- Eyes become hawk-like, you get good at seeing and range
+- Quite whisper heals any one condition and cures some damage
+- Pull vitality from another warrior into yourself, dealing damage and healing
+- Hands turn transparent and you give some of your health to an ally
+- Red fire outlines creatures, making them easier to hit
+- Drain heat from all living creatures in area, dealig cold damage and gaining temporary hit points
+- Wave of exhaustion over creature
+- Magical call distracts creaturees, can't focus on people other than you, they're slowed
+- Soft whisper which puts enemies to sleep
+- Fixed rainstorm makes it hard to hear, see, search, attack, puts out fire
+- Blood-red chain appears, lashes out at enemies and trips them
+- Eyes glow red, your next shot is a critical hit (wasted if you miss)
+- Launch into an inspiring melody, temporarily boost caster level of nearby allies
+- Target gets hypothermia, takes cold damage, becomes fatigued
+- Battleaxe made out of jagged ice appears
+- Massive claw made of ice appears, can make attacks
+- Ice bursts through ground in area, turning it into rubble, dealing damage, making it slippery
+- Massive shard of ice blasts from your hand. It you hit, deals cold damage, if you miss, showers target with shards
+- Ice lance like in Frozen, Attack target +4, if you hit, deals massive damage, pins in place
+- Illusion of pit trap
+- Steely glare causes enemies to freeze in fear
+- Spiral of sparkling motes urge target to action, prevent it from Holding
+- Spell makes you feel invincible, ignore first attack that would take you below 1 health
+- Funeral-dirge-like melody boosts casting power of evil-aligned spellcasters
+- A giant pillar of flame strikes a target, dealing damage now and again over subsequent rounds, they can take an action to extinguish)
+- Hundreds of maggots erupt from flesh of enemy, dealing constitution damage, need to save each round
+- Spiral of dark motes slow and distract enemy, cause it to lose an action
+- Short chant and hand motion inspires courage in allies, improves blessing
+- Instantly teleport to a safe location when a condition is met
+- Turn bones into iron, giving a big armor bonus
+- Become immune to non-magical metal
+- Your teeth sharpen momentarily, an ally's weapon doubles its critical threat range
+- Turn an enemy slowly into a tree
+- Earth swallows you up in a safe underground space
+- Blue beam strikes target, weakening it and slowing it, hurting its attack strength
+- Restore a recently-killed ally to unconsciousness immediately after death
+- Golden ray hurts undead
+- Cloak of shadows and negative energy protects creature from healing and positive energy
+- Symnbols of warding cover a creature, it becomes to death spells and negative energy effects
+- Silver radiance that you expend as a ray that damages enemies later
+- Dance down the hallway, don't provoke reactions while moving
+- Lightning ring around you gives you electricity resistance and damages adjacent creatures, can fire lightning bolts
+- Give ally lion's heart, immunity to fear effects
+- Roar like a lion, sonic damage, stun enemies, allies get morale bonus
+- Movement speed increases as long as you take no other actions
+- Subject's pupil's are specked with slivers of starlight, gains low-light vision
+- Glowing silver runes around ally's head improve defenses against mind-affecting spells
+- Crystal rod erupts in a beam of radiance that dazzles, blinds, and damages
+- Eyes glow with unearthly radiance, creates light, creatures near you are dazzled
+- Cause enemy to scream insanely, can't do anything else and is easy to hit
+- Whispers in enemy's mind cause hysteria, panic, hallucinations
+- Cloud of sparkling, billowing mist rolls in, causes cover and spells to fail
+- Gray fog tinged with dark streaks, toxic fog causes non-lethal damage
+- Chaos powers give a flickering yellow field of anarchic energy and resistance against lawful/evil/good/chaotic
+- Give a creature the cold subtype, making it immune to cold and vulnerable to fire.
+- Favored enemy becomes marked with a glowing rune, easier to attack
+- Turn cave into mouth of stone which bites enemies
+- Blow a cloud of spores that sinks into opponent's brain, intelligence damage
+- Make a metal object run like liquid
+- Red mist fills target's lungs, prevents breathing, they eventually fall unconscious
+- Infect subject with poison that saps willpower and wisdom
+- Force subject to charge and attack you, ignoring all other targets
+- Clear ally's mind to help break free from mind-affecting spell
+- Bolt of shimmering moonlight strikes enemy, causing strength damage, bonus vs. undead
+- Motes of electricity fly off at different targets
+- Cone of firey moonlight damages targets, bonus vs undead, revealing invisible and disguised
+- Target can root itself to the ground as an action, can't be moved or knocked over
+- Steaming volcanic vents emit boiling steam which damages and blinds, conceals
+- Light flows from your body into your ally's, you take a stat penalty, they gain the same
+- Breathe out a cone of nauseating vapors which nauseate enemies for several rounds
+- Black crackling energy surrounds you, every living creature near you loses life, undead heal
+- Nearby shadows fly up and entangle your targets, they can't see well, but are concealed
+- Target enters a sleepwalking nightmare state
+- A touch from your hand spreads darkness and disrupts a creature's life force, dealing damage and panicking undead.
+- A field of shadows encloses your body, improving saving throws
+- Corona of sunlight surrounds you, illuminates, fling it at enemies to do damage
+- Avalanche of snow out of midair, buries enemies, deals damage, have to dig themselves out
+- Gain a gaze attack which kills enemies or inspires fear on save
+- Orb of acid shoots from palm, dealing acid damage and sickens enemies.
