@@ -36,6 +36,8 @@
   - spell types
   - damage types
   - types have vulnerabilities, e.g. cold is vulnerable to fire
+- Object/Tile Properties: On Fire, Ice-covered, Movable, In Darkness, Broken, Destroyed
+    Waterlogged, electrified, acidic, snow-covered, oil-covered, metallic, wooden, living
 
 # Magic
 
@@ -437,4 +439,9 @@ Stain the Mind: Search target player’s graveyard, hand, and library for cards 
 - Corona of sunlight surrounds you, illuminates, fling it at enemies to do damage
 - Avalanche of snow out of midair, buries enemies, deals damage, have to dig themselves out
 - Gain a gaze attack which kills enemies or inspires fear on save
-- Orb of acid shoots from palm, dealing acid damage and sickens enemies.
+- Orb of acid/fire/cold/sound/electricity shoots from palm, dealing acid damage and sickens enemies.
+- Face is overlaid with the face of a snow owl and you gain wisdom
+- Speak soft words to your companion, golden radiance infuses him, wipes away all conditions and heals
+- Tiny blade of force speeds towards a target, striking it for damage, then  you can attack with in on subsequent turns
+- Shadowy shapes form around you and rush at your target. Deals wisdom and dexterity damage
+- Create a illustory duplicate of whichever enemy threatening it seems most dangerous, flanks enemy
