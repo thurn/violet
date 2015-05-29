@@ -445,3 +445,30 @@ Stain the Mind: Search target player’s graveyard, hand, and library for cards 
 - Tiny blade of force speeds towards a target, striking it for damage, then  you can attack with in on subsequent turns
 - Shadowy shapes form around you and rush at your target. Deals wisdom and dexterity damage
 - Create a illustory duplicate of whichever enemy threatening it seems most dangerous, flanks enemy
+- Sprinkle silver dust that expands into a bubble that protects you
+- Cover your body with moss and ivy, making you into a plant, can't be mind controlled, put to sleep, paralyzed, etc
+- Black thorns emerge from your skin, they're covered in poison and poison people who attack you
+- A floating eye with a rainbow iris appears and sends a beam of light at an enemy, can fire beams on subsequent rounds.
+- Send out a ray of a random color, each color has a different effect (fire, acid, electricity, poison, turn to stone, insanity, sent to another plane).
+- Protection from Negative/Positive energy, gain damage resistance from a protective field
+- Force a target to mimic your actions
+- Your feet and your allies' feet glow with a yellow nimbus, increasing their movement speed
+- "Store" another spell as a potion, so you can use it later
+- Needle-sharp quills emerge from your skin and fly outward in every direction, damaging based on enemy size.
+- A blaze of multicolored light fills an area with rainbow-colored beams, dazing creatures within the blast area and damaging them.
+- Inflame existing fire, making it burn much hotter and bigger
+- Ray of swirling, multicolored light, each color deals a different type of damage (fire, acid, electricity, poison, cold, sonic, force)
+- Crackling ray makes enemy clumsy, stiffens their joins, hurting dexterity
+- Shimmering field appears around you with small motes of silver, protecting you against enemy rays
+- Rays that make enemy dizzy/sick/weaker/slower/tired/dumb/etc
+- Ray that causes damage fire/acid/electricity/cold
+- Tear a temporary hole in reality, basically a black hole, sucks everything into it
+- Rebuke target, causing it to be shaken and unable to cast spells without concentration check
+- Create a magical feedback loop, target explodes with sparks, takes damage for each spell currently affecting it
+- Recite a sacred passage, allies get a luck bonus, extra luck if they believe in the same god
+- Red seawater rushes in and knocks everybody over, nauseates them, hurts fire creatures
+- Glittering net of sparks makes enemies see you as non-threatening or one of their own
+- A sound like a gong creates an area that spellcastesrs cannot enter without permission, need to Will save to enter the area
+- A barely perceptible hum, creature targeted gets pushed back, damaged if it's against a wall
+- Cocoon forms around subject, healing it and protecting it, subject can't move
+-
