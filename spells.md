@@ -5,16 +5,32 @@
 - Traps
 - Flying
 - Stealth
+- Dying, unconscious, bleeding out
+- Unarmed attacks, improvised attacks, throwing stuff
 - Damage typee: Fire, acid, electric, cold, sonic
 - Abilities: Breath weapon
 - Conditions: Fear, Blinded, Stunned, Entangled, Prone, Nauseated, Intoxicated, Infected, Dazed
   Sleep, Paralysis, Slow, Pinned, On Fire, Charmed, Frozen, Deafened, Shaken, Dazzled, Fatigued,
-  Exhausted, Sickened, Blur, Displacement, Invisible, Poisoned
+  Exhausted, Sickened, Blur, Displacement, Invisible, Poisoned, Confused, Diseased, Feebleminded,
+  Insane, Prone, Cowering, Helpless
 - Incorporeal, ethereal, undead
 - Poison
-- Concentration
+- Concentration, distracting enemies
+- Bull rush, charge
+- Potions?
+- Draw weapons
+- Feint
+- Scrolls?
 - Ability score damage, types of damage
 - Darkness, Light sources, torches
+- Breaking objects, e.g. doors
+- Breaking enemy weapons
+- Stealing enemy weapons
+- Disarm enemy
+- Trip enemy
+- Changing weapons
+- Flying
+- Creature size
 - Charging Enemies, Tripping Enemies
 - Resting
 - Alignment: Lawful enemies, evil enemies, chaotic enemies
@@ -38,101 +54,66 @@
   - types have vulnerabilities, e.g. cold is vulnerable to fire
 - Object/Tile Properties: On Fire, Ice-covered, Movable, In Darkness, Broken, Destroyed
     Waterlogged, electrified, acidic, snow-covered, oil-covered, metallic, wooden, living
+- Damaging enemy weapons
+- Tumbling and dodging
+- Disarming enemies
 
 # Magic
 
-Cancel: Counter target spell
-Disorient: Creature gets -7/-0 until end of turn
-Essence Scatter: Counter target creature spell
-Flashfreeze: Counter target red or green spell
-Jump: Target creature gains flying
-Negate: Counter target noncreature spell
-Twincast: Copy target instant or sorcery spell
-Divination: Draw two cards
-Fabricate: Search your library for an artifact
-Mind Spring: Draw X cards
-Ponder: Look at top 3 of library, put back in any order
-Sleep: Tap all creatures target player controls
-Time Warp: Take an extra turn after this one
-Tome Scour: Opponent puts 5 cards into graveyard
-Traumatize: Put half library into graveyard
-Ice Cage: Enchanted creature can’t attack/block/activate abilities until it is targeted
-Levitation: All creatures get flying
-Mind Control: Control enchanted creature
-Telepathy: Opponents reveal their hands
-Aetherspouts: Attacking creatures get put on top or bottom of opponent’s library
-Encrust: Permanent doesn’t untap and its abilities can’t be activated
-Void Snare: Return target nonland permanent to its owner’s hand
-Angel’s Mercy: Gain 7 life
-Celestial Purge: Exile black or red permanent
-Divine Verdict: Destroy attacking/blocking creature
-Fog: Prevent combat damage this turn
-Giant Growth: Creature gets +3/+3 this turn
-Glorious Charge: Creatures get +1/+1 this turn
-Harm’s Way: Redirect 2 damage
-Might of Oaks: Creature gets +7/+7 until end of turn
-Naturalize: Destroy artifact or enchantment
-Silence: Opponents can’t cast spells this turn
-Tempest of Light: Destroy all enchantments
-Windstorm: X damage to each creature with flying
-Bountiful Harvest: Gain life for each land
-Howl of the Night Pack: Summon a Wolf for each Forest
-Nature’s Spiral: Return permanent to hand
-Open the Vaults: Return artifacts and enchantments to battlefield
-Overrun: Creatures get +3/+3 and trample
-Planar Cleansing: Destroy nonland permanents
-Rampant Growth: Search library for basic land, put onto battlefield
-Solemn Offering: Destroy artifact or enchantment, gain 4 life
-Armored Ascension: Creature gets +1/+1 for each plains, has flying
-Entangling Vines: Enchanted creature doesn’t untap
-Holy Strength: Enchanted creature gets +1/+2
-Honor of the Pure: White creatures get +1/+1
-Indestructibility: Permanent is indestructible
-Lifelink: Creature has lifelink
-Oakenform: Enchanted creature gets +3/+3
-Pacifism: Enchanted creature can’t attack or block
-Back to Nature: Destroy all enchantments
-Battle Mastery: Enchanted creature has double-strike
-Marked by Honor: Enchanted creature gets +2/+2 and has vigilance
-Ignite Disorder: 3 damage divided between 1-3 white/blue creatures
-Kindled Fury: Target gets +1/0 and first strike until end of turn
-Lightning Bolt: 3 damage to creature/player
-Seismic Strike: Damage to creature = to mountains you have
-Shatter: Destroy artifact
-Trumpet Blast: Attacking creatures get +2/+0 until end of turn
-Act of Treason: Control creature until end of turn
-Burning Inquiry: Each player draws 3, then discards 3 at random
-Earthquake: X damage to each creature without flying
-Fireball: X damage evenly between any number of targets, +1 cost per target
-Panic attack: 3 target creatures can’t block this turn
-Pyroclasm: 2 damage to each creature
-Yawning Fissure: Each opponent sacrifices a land
-Firebreathing: For R, creature gets +1/+0 until end of turn
-Manabarbs: Damage players this turn when they tap for mana
-Act on Impulse: Exile the top 3 cards of library, you can play them until end of turn
-Circle of Flame: When a creature without flying attacks you, deal 1 damage to it
-Doom Blade: Destroy nonblack creature
-Tendrils of Corruption: Deal X damage to creature, you gain X life, X is amount of swamps
-Assassinate: Destroy tapped creature
-Consume Spirit: Deals X damage, you gain X life
-Deathmark: Destroy target green or white creature
-Diabolic Tutor: Search library for a card and put it into your hand
-Duress: Opponent reveals hand, you discard a non-creature, non-land card
-Mind Rot: Target player discards two cards
-Mind Shatter: Target player discards X cards at random
-Sign in Blood: Target player draws 2 cards and loses 2 life
-Megrim: When opponents discard a card, deal 2 damage to them
-Sanguine Blood: When you gain life, opponent loses life
-Soul Bleed: Creature’s controller loses 1 life at upkeep
-Underworld Dreams: 1 damage when opponent draws cards
-Unholy Strength: Creature gets +2/+1
-Weakness: Creature gets -2/-1
-Eternal Thirst: Gain +1/+1 when an opponent’s creature dies
-Feast on the Fallen: Get a +1/+1 counter if an opponent lost life last turn
-Necrobite: Target creature gains deathtouch
-Necromancer’s Stockpile: Discard a creature card: draw a card
-Stab Wound: Enchanted creature gets -2/-2
-Stain the Mind: Search target player’s graveyard, hand, and library for cards with a given name
+Counter target spell
+Counter target creature spell
+Counter target red or green spell
+Counter target noncreature spell
+Copy target instant or sorcery spell
+Draw two cards
+Search your library for an artifact
+Draw X cards
+Look at top 3 of library, put back in any order
+Take an extra turn after this one
+Enchanted creature can’t attack/block/activate abilities until it is targeted
+Control enchanted creature
+Redirect 2 damage
+Destroy artifact or enchantment
+Opponents can’t cast spells this turn
+Destroy all enchantments
+Gain life for each land
+Search library for basic land, put onto battlefield
+Destroy artifact or enchantment, gain 4 life
+Enchanted creature can’t attack or block
+Destroy all enchantments
+Destroy artifact
+Control creature until end of turn
+Each player draws 3, then discards 3 at random
+X damage to each creature without flying
+Damage players this turn when they tap for mana
+Exile the top 3 cards of library, you can play them until end of turn
+When a creature without flying attacks you, deal 1 damage to it
+Destroy nonblack creature
+Destroy tapped creature
+Deals X damage, you gain X life
+Destroy target green or white creature
+Search library for a card and put it into your hand
+Target player discards two cards
+Target player discards X cards at random
+Target player draws 2 cards and loses 2 life
+When opponents discard a card, deal 2 damage to them
+When you gain life, opponent loses life
+Creature’s controller loses 1 life at upkeep
+1 damage when opponent draws cards
+Gain +1/+1 when an opponent’s creature dies
+Get a +1/+1 counter if an opponent lost life last turn
+Discard a creature card: draw a card
+Return permanent to its owner's hand
+Draw two cards, discard a card
+Prevent damage this turn
+Look at top 5 cards of library, put back in any order
+Counter target spell unles controller pays 3
+Return target card from your discard pile to your hand
+When a player plays a blue spell, pay 1 to gain 1 life
+When you deal damage to an opponent draw a card
+When a creature dies, draw a card
+Search your library for a blue instant spell, put it into your hand
+
 
 # Spell Compendium
 - Absorb spell power into your own power
@@ -468,7 +449,27 @@ Stain the Mind: Search target player’s graveyard, hand, and library for cards 
 - Recite a sacred passage, allies get a luck bonus, extra luck if they believe in the same god
 - Red seawater rushes in and knocks everybody over, nauseates them, hurts fire creatures
 - Glittering net of sparks makes enemies see you as non-threatening or one of their own
-- A sound like a gong creates an area that spellcastesrs cannot enter without permission, need to Will save to enter the area
+- A sound like a gong creates an area that spellcasters cannot enter without permission, need to Will save to enter the area
 - A barely perceptible hum, creature targeted gets pushed back, damaged if it's against a wall
 - Cocoon forms around subject, healing it and protecting it, subject can't move
+- Protective spell leaves a tattoo-like mark, protects from next adverse condition
+- Touch soothes a machine, repairing it
+- Duplicate the effect of a spell from last round
+- Loud cry unleashes a bolt of sonic energy, dealing damage to each creature and shatters objects
+- Brief prayer gives the target another save attempt against e.g. mind control
+- Bring a dead ally temporarily back to life
+- Reflect projectiles back towards your enemies
+- Immediately after an ally dies, your vapors pull their soul back, restoring them to life with no penalties.
+- Propel yourself forward in a single deadly charge
+- A holy glowing red aura surrounds you which gives you temporary health and strength
+- Fill your allies with combat madness, giving them extra attacks, bonuses.
+- Ring of swirling metal blades around you
+- Instant word which gives you a burst of luck
+- Great fountains rise up, sending waves in every direction, knocking prone creatures in their path, puts out fires.
+- Ray shoots out, the air smells like hot metal. Corrodes metal is touches, damages weapons.
+- A rosy glow gives you an armor bonus, learn health and status of creatures.
+- Green radiance spreads from your hands, makes an area where attacks are not possible.
+- Spray sand from your fingers in a powerful blast, nonlethal damage and stun
+- Stone erupts from the earth and swallows a target in an airtight coffin that's hard to break out of
+- Massive electrical discharge deals damage to a large area
 -
