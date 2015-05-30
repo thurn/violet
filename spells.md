@@ -1,10 +1,12 @@
 # Concepts
+- Skills & Checks
 - Anti-magic
 - Savings Throws
 - Searching
 - Traps
 - Flying
 - Stealth
+- Noise attracting attention
 - Dying, unconscious, bleeding out
 - Unarmed attacks, improvised attacks, throwing stuff
 - Damage typee: Fire, acid, electric, cold, sonic
@@ -472,4 +474,27 @@ Search your library for a blue instant spell, put it into your hand
 - Spray sand from your fingers in a powerful blast, nonlethal damage and stun
 - Stone erupts from the earth and swallows a target in an airtight coffin that's hard to break out of
 - Massive electrical discharge deals damage to a large area
--
+- Jet of roaring flame bursts from your hand, damaging creatures along its path
+- Bodies of enemies break out in boils, blotches, lesions, and cysts.
+- Subject takes a deep, refreshing breath, removing fatigue and improving constitution
+- Target glows with a black aura, blocks its senses
+- Ribbonlike shadows explode towards a point, creatuers that fail a will save are entangled and need a strength check to move
+- Shadows rise from the ground to envelop you, give you a hide bonus and concealment, can slip through solid barriers
+- Subject becomes made out of shadow, making them partially incorporeal
+- Intense bright light illusion blinds and dazzles enemies
+- Blast of ribbon-like shadows explode onto target, damaging and dazing
+- Pull target into the Plane of Shadow, frightens them
+- Translucent shards of arcane energy blast the area, damaging every round
+- Loud thrumming vibration builds to a crescendo, turns floor into rubble and damages
+- A low chant and a warm glow passes to subject, giving them immunity to exhaustion, fatigue, abilitiy damage
+- Supernatural distraction, makes enemies unable to maintain focus
+- Snap your fingers, an enemy bursts into flames, keeps burning and taking damage.
+- Undead enemies perceive you as a fellow undead
+- Trace a complicated sigil on a door, preventing opening.
+- Make a floating skull that watches for creatures and sets off an alarm
+- Slashing ribbon of pure darkness and negative energy, damaging enemy creatures
+- Yellow nimbus, can slide allies around
+- Wave of green slime explodes outward, spreads to cover the whole area
+- Red glow, makes other enemies attack the target
+- Target can immediately make an attack
+- Series of slow, deep breaths, calming, sniper-like aim.
