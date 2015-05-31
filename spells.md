@@ -5,7 +5,7 @@
 - Searching
 - Traps
 - Flying
-- Stealth
+- Stealth, Sneak Attacks
 - Noise attracting attention
 - Dying, unconscious, bleeding out
 - Unarmed attacks, improvised attacks, throwing stuff
@@ -498,3 +498,22 @@ Search your library for a blue instant spell, put it into your hand
 - Red glow, makes other enemies attack the target
 - Target can immediately make an attack
 - Series of slow, deep breaths, calming, sniper-like aim.
+- Focus awareness, short chant, your attacks become sneak attacks
+- Magical snowballs erupt and deal cold damage to everyone within area
+- Words of the spell detonate in a screaming bellow, causing sonic damage and deafening
+- Final words become a deep, rumbling hum. Cone of powerful sound deals sonic damage, doesn't work inside a silence spell.
+- Loud cracking sound deals 1 point of damage and may deafen enemies
+- A low droning that improves your concentration
+- Shrill, piercing cry, pure sonic energy which pierces through targets
+- Ancient word and begin casting another spell, this spell enhances that one
+- Mysterious phrases with finger motion, imbue your hands with magical energy that crackles and glows a soft orange. You hold the chard of a touch spell, can cast later.
+- Arcane words, envision your mind as a maze. Can use a spell later as a swift action, but only for 1 round.
+- A violet spray springs from your fingertips, reduces subject's spell resistance
+- Conjure a featureless black sphere of nothingness. Matter disappears on contact.
+- Pour the power of the spell into your enemy's body, it obeys your commands
+- Poison a target, dealing Strength damage
+- Flesh glows yellow and thickens, like a carapace. Grants armor, good at hiding
+- Mass of green-white forms resembling tortured spirits, blocking one side of the wall
+- A gigantic wooden javelin strikes your target
+- Burst of golden energy spreads from you, stabilizes the dying, healing a bit, damaging undead
+-
