@@ -62,59 +62,59 @@
 
 # Magic
 
-Counter target spell
-Counter target creature spell
-Counter target red or green spell
-Counter target noncreature spell
-Copy target instant or sorcery spell
-Draw two cards
-Search your library for an artifact
-Draw X cards
-Look at top 3 of library, put back in any order
-Take an extra turn after this one
-Enchanted creature can’t attack/block/activate abilities until it is targeted
-Control enchanted creature
-Redirect 2 damage
-Destroy artifact or enchantment
-Opponents can’t cast spells this turn
-Destroy all enchantments
-Gain life for each land
-Search library for basic land, put onto battlefield
-Destroy artifact or enchantment, gain 4 life
-Enchanted creature can’t attack or block
-Destroy all enchantments
-Destroy artifact
-Control creature until end of turn
-Each player draws 3, then discards 3 at random
-X damage to each creature without flying
-Damage players this turn when they tap for mana
-Exile the top 3 cards of library, you can play them until end of turn
-When a creature without flying attacks you, deal 1 damage to it
-Destroy nonblack creature
-Destroy tapped creature
-Deals X damage, you gain X life
-Destroy target green or white creature
-Search library for a card and put it into your hand
-Target player discards two cards
-Target player discards X cards at random
-Target player draws 2 cards and loses 2 life
-When opponents discard a card, deal 2 damage to them
-When you gain life, opponent loses life
-Creature’s controller loses 1 life at upkeep
-1 damage when opponent draws cards
-Gain +1/+1 when an opponent’s creature dies
-Get a +1/+1 counter if an opponent lost life last turn
-Discard a creature card: draw a card
-Return permanent to its owner's hand
-Draw two cards, discard a card
-Prevent damage this turn
-Look at top 5 cards of library, put back in any order
-Counter target spell unles controller pays 3
-Return target card from your discard pile to your hand
-When a player plays a blue spell, pay 1 to gain 1 life
-When you deal damage to an opponent draw a card
-When a creature dies, draw a card
-Search your library for a blue instant spell, put it into your hand
+- Counter target spell
+- Counter target creature spell
+- Counter target red or green spell
+- Counter target noncreature spell
+- Copy target instant or sorcery spell
+- Draw two cards
+- Search your library for an artifact
+- Draw X cards
+- Look at top 3 of library, put back in any order
+- Take an extra turn after this one
+- Enchanted creature can’t attack/block/activate abilities until it is targeted
+- Control enchanted creature
+- Redirect 2 damage
+- Destroy artifact or enchantment
+- Opponents can’t cast spells this turn
+- Destroy all enchantments
+- Gain life for each land
+- Search library for basic land, put onto battlefield
+- Destroy artifact or enchantment, gain 4 life
+- Enchanted creature can’t attack or block
+- Destroy all enchantments
+- Destroy artifact
+- Control creature until end of turn
+- Each player draws 3, then discards 3 at random
+- X damage to each creature without flying
+- Damage players this turn when they tap for mana
+- Exile the top 3 cards of library, you can play them until end of turn
+- When a creature without flying attacks you, deal 1 damage to it
+- Destroy nonblack creature
+- Destroy tapped creature
+- Deals X damage, you gain X life
+- Destroy target green or white creature
+- Search library for a card and put it into your hand
+- Target player discards two cards
+- Target player discards X cards at random
+- Target player draws 2 cards and loses 2 life
+- When opponents discard a card, deal 2 damage to them
+- When you gain life, opponent loses life
+- Creature’s controller loses 1 life at upkeep
+- 1 damage when opponent draws cards
+- Gain +1/+1 when an opponent’s creature dies
+- Get a +1/+1 counter if an opponent lost life last turn
+- Discard a creature card: draw a card
+- Return permanent to its owner's hand
+- Draw two cards, discard a card
+- Prevent damage this turn
+- Look at top 5 cards of library, put back in any order
+- Counter target spell unles controller pays 3
+- Return target card from your discard pile to your hand
+- When a player plays a blue spell, pay 1 to gain 1 life
+- When you deal damage to an opponent draw a card
+- When a creature dies, draw a card
+- Search your library for a blue instant spell, put it into your hand
 
 
 # Spell Compendium
@@ -516,4 +516,16 @@ Search your library for a blue instant spell, put it into your hand
 - Mass of green-white forms resembling tortured spirits, blocking one side of the wall
 - A gigantic wooden javelin strikes your target
 - Burst of golden energy spreads from you, stabilizes the dying, healing a bit, damaging undead
--
+- Spell takes effect later when ally is in need. Kicks in when they reach half hit points.
+- Inflict wracking hunger pangs on target, takes nonlethal damage and is fatigued
+- Two daggers raise from your outstretched hand, glowing dimly, can attack adjacent opponents
+- Glittering ray composed of writhing insects hits target, sensation of insects biting it, AC penalty, can't concentrate
+- Steal all of the air from your target's lungs, causing it to be shaken for a short amount of time
+- Transform your body into living stone, giving you damage reduction and immunity to many conditions, more strength, less dexterity
+- A single note of perfect pitch at a stone object or stone creature, shattering it
+- A stone sphere appears in the hallway and bears down on your foe, you can direct its movement with a move action, deals damage to everyone in the squares it goes to
+- Arms of solid rock burst out of the ground and trap immobilize everyone in their area and damage them
+- Black elemental storm cloud appears oveer your enemies, causing various random effects (whirlwinds, chunks of rock, rain (reducing visibility), flames
+- Wall of storm around you, blocks electricity and ranged attacks
+- Draw power from the earth itself, enhancing your strength while you are touching the earth
+- Jolt of electricity and smell of ozone, target is stunned for a few rounds
