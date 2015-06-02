@@ -1,4 +1,5 @@
 # Concepts
+- Copy Edge of the Empire Combat System
 - Skills & Checks
 - Anti-magic
 - Savings Throws
@@ -529,3 +530,26 @@
 - Wall of storm around you, blocks electricity and ranged attacks
 - Draw power from the earth itself, enhancing your strength while you are touching the earth
 - Jolt of electricity and smell of ozone, target is stunned for a few rounds
+- A razor-sharp stalagmite bursts from the ground to impale your foe
+- Blue ring of runes constricts target's neck, it can't use its breath weapon
+- Cause stagnant swamp water to flood target's lungs, fall into a coughing fit
+- Black blade of negative energy appears and attacks your opponents at a distanc, drains levels on hit, but heals undead
+- Trace a symbol which attacks the minds of spellcasters, lose their highest level spell
+- Channel the energy of another spell into healing magic
+- Grant allies greater insight, give a flanking attack bonus
+- Luminous ray acts as a range finder, makes it easier to hit the target
+- Black mist forms and sweeps up to form a small cloud above target, minature thunder peals from the cloud, follows the subject dealing 1 point of damage per round
+- Create a shimmering spear-like force that you can extend or retract
+- Explosion of water rushes out from a point, bowling over your enemies. Gets better if there's a source of water in range.
+- Armor plating like a tortoise forms aroudn creature, giving defensive bonus
+- Purple light reaches out to deliver lunacy with your touch, dazing and clouding the mind of a target
+- Place another spell on a magical sigil, can trigger it later on demand
+- Targets stand still as statues, medium and smaller creatures become paralyzed by an illusion, attacks give them a new save
+- You and your target switch positions and apperances, only works if you look similar
+- Turn natural rock into red-hot lava, causing massive damage to creatures that fall in
+- Detect subtle vibrations of your opponents and know where they are
+- Make it so you can cast another spell 3 times
+- Control the actions of any humanoid, better if you can communicate with it, get a save if you order self-destructive actions
+- Gigantic wave, a wall of water that moves inexorably towards your target. Creatures are swept along.
+- Tunnel convulses and crushes everything inside
+- Burst of white energy destroys spells which contain or constrain, negates charm, hold, magical barriers
