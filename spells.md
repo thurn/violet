@@ -8,6 +8,7 @@
 - Flying
 - Stealth, Sneak Attacks
 - Noise attracting attention
+- Mana cost determines opposed effects, e.g. water vs. fire
 - Dying, unconscious, bleeding out
 - Unarmed attacks, improvised attacks, throwing stuff
 - Damage typee: Fire, acid, electric, cold, sonic
@@ -553,3 +554,35 @@
 - Gigantic wave, a wall of water that moves inexorably towards your target. Creatures are swept along.
 - Tunnel convulses and crushes everything inside
 - Burst of white energy destroys spells which contain or constrain, negates charm, hold, magical barriers
+- Weapon's light shifts to shed a grey radiance, it has a bonus against undead and deals extra damage
+- Crystal blue aura springs up around each ally, fortifying them against the undead.
+- A familiar and soothing some helps you retain your focus and concentration
+- Call upon the forces of evil, a heavy rain begins to fall, reducing hearing, visibility, damaging good creatures
+- Curse of bad luck on target
+- Target grows thick tree roots that anchor it to the ground and provide it with healing
+- Ally gains holy fury, bonus to attack and morale, extra attacks
+- Tendrils of purple darkness surround you and conceal you from your enemies
+- Accept a brief embrace of death, gain many benefits of being undead, immunity to many conditions, cure spells damage you
+- Sounds of battle ring in your ears. The subject gains fast healing every round.
+- Vines burst out and attack and entangle a target
+- Toss a ball of silk, turns into a 5-foot wide glob of goo. Target gets stuck in place.
+- Eyes glaze over momentarily, target sees an inspiring vision, gives an inspiration bonus
+- A school of piranhas swims through the air, tear apart enemies who come into range
+- Purple mist swirls around your opopnent, lowering its damage reduction
+- Terrible cry of malice and anger, anybody caught in the area suffers excruciating pain and becomes panicked
+- Translucent wall appears, anything passing through the wall has its magic negated
+- Wall of moving iron gears and cogs, damages nearby creatures
+- Barrier of ominous shadow obscurees vision, counters "light" type spells of lower level
+- Cascade of brilliant white energy springs up into a wall, cannot be passed through by evil creatures
+- Blinding flash of light springs into being, causing a wall of dazzling yellow-white light to come into being, dazzles creatures that pass through it
+- Vertical curtain of whirling limbs, try to grab things that come close to them.
+- A rush of hot air brings a swirling wall of blowing sand, blocks ranged attacks, can be moved through with difficulty, deafens and blinds creatures as they move through, can't speak or breathe
+- Black smoke swirls into existence as a dark wall, can't be see through, can be nauseated if you try to move through it
+- A wall springs up composed of a sheet of water rising vertically, calm as a lake on a windless day. Provides cover, can swim through
+- Cry of victory and jab your weapon into the air, get a morale bonus and good at charging
+- Water whirls into the air like a tornado of fluid, can direct the movement, sucks up creatures
+- Mournful wail sends out a pulse of sorrow and sadness
+- Hands glow slightly, transfer glow to the target weapon, gets to deal some elemental damage
+- Pass hands over weapon, glows with a blue-gold radiance. Gives it greater damage.
+- Rust-brown glow engulfs your weapon, it transforms into a different weapon
+-
