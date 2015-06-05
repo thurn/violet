@@ -8,6 +8,7 @@
 - Flying
 - Stealth, Sneak Attacks
 - Noise attracting attention
+- Touch attacks, Ranged Touch Attacks
 - Mana cost determines opposed effects, e.g. water vs. fire
 - Dying, unconscious, bleeding out
 - Unarmed attacks, improvised attacks, throwing stuff
@@ -585,4 +586,15 @@
 - Hands glow slightly, transfer glow to the target weapon, gets to deal some elemental damage
 - Pass hands over weapon, glows with a blue-gold radiance. Gives it greater damage.
 - Rust-brown glow engulfs your weapon, it transforms into a different weapon
--
+- Warm orange fire radiates, aiding your allies and harming others. Heals allies, harms enemies.
+- Evoke the powers of the sky, wind picks up around you, wraps itself around your allies' missiles, sending them to their targets more surely
+- Make a sound like whistling wind, inscribe a snowflake shape into the air, cold damage and fatigue your opponent
+- Clutch at the air, ice and snow appear around your foe. It takes cold damage each round.
+- A black shroud of magical energy surrounds you rhands. On a touch attack, deal strength and constitution damage
+- Shining steel manacles appear around target's wrists and ankles, imprisoning it
+- Foe is wracked with agaonizing pain, falls prone and is blinded and helpless
+- Cry with malice and clench your first. Laying a hand upon an enemy, you deal damage.
+- Call out with a sickly moan, your weapon becomes translucent, bypasses armor
+- Invoke a divine shield to protect you as you close, get a defense bonus against chosen enemy
+- Inscribe a ward in the air, protecting an area from intrusion
+- Utter a few words of power, creating a zone where all invisible creatures are made visible
