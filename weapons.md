@@ -49,13 +49,12 @@
 - Movement Cost (Pay X movement to fire or reload)
 - Caliber
 
-- rifles: load slowly, accurate
-- muskets: load quickly, inaccurate
+Wands
 
-- Pocket Pistol, single shot
-- Smoothbore pistols, fire faster, not accurate
-- Revolvers
-- Specialized marksmen using rifles
-- Blunderbuss, short range smooth-bore
-- Carbines, shorter barrels
--
+Staffs
+
+Rods
+
+Orbs
+
+Tome-
