@@ -21,6 +21,13 @@ body {
   height: 100%;
 }
 
+.imageBlock {
+  max-width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 @media (min-width: 1000px) {
   .content {
     position: inherit;
