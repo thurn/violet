@@ -1,6 +1,11 @@
 # Concepts
 - Copy Edge of the Empire Combat System
 - Skills & Checks
+  - Agility, Brawn, Cunning, Presence, Willpower, Intellect
+  - Strength, Constitution, Dexterity, Wisdom, Intelligence, Charisma
+  - Health, Movement Speed, Aim, Willpower
+  - Might, Knowledge, Willpower, Awareness
+  - AGILITY, CONSTITUTION, WILLPOWER
 - Anti-magic
 - Savings Throws
 - Searching

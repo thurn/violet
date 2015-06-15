@@ -9,6 +9,16 @@ body {
   font-family: 'Libre Baskerville';
 }
 
+table {
+  border-spacing: 0px;
+  border-collapse: collapse;
+}
+
+td,th {
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
 .content {
   max-width: 600px;
   position: fixed;

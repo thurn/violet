@@ -126,6 +126,42 @@
       cards.
   </p>
 
+  <h1>Attributes</h1>
+  <p>
+      All units in Spellseeker have 3 common attribute scores which describe
+      their ability to perform various game actions. These attributes are:
+      <ul>
+        <li>
+          <b>Agility</b>, which captures the unit's reflexes and
+          dexterity. Units with a higher agility have better aim.
+        </li>
+        <li>
+          <b>Constitution</b>, which captures the unit's fortitude and
+          strength. Units with a higher constitution have more health.
+        </li>
+        <li>
+          <b>Awareness</b>, which captures the unit's intelligence and
+          willpower. Units with a higher awareness are more resistant to certain
+          types of mental attacks and illusions.
+        </li>
+      </ul>
+  </p>
+
+  <h2>Attribute Checks</h2>
+  <p>
+      Many game situations call for an <b>attribute check</b> to resolve the
+      outcome of a particular action. In order to make an attribute check, start
+      with the unit's attribute score and add any bonuses or penalties to the
+      score as appropriate to get an <b>attribute target</b>. Finally, roll a
+      20-sided die. If the number rolled is <b>lower then or equal to</b> the
+      attribute target, the result of check was success.
+  </p>
+  <p>
+      For example, a unit attacking might have an Agility of 13 and may have a
+      +2 bonus to the attack. Adding in the bonus means the agility target is
+      15, so the unit must roll 15 or less to score a hit.
+  </p>
+
 
   <h1>Cards</h1>
   <p>
@@ -169,22 +205,81 @@
 
   <h1>Combat</h1>
   <p>
-
+      Combat takes place on a standard grid (potentially three-dimensional), and
+      primarily involves resolving attacks. There are five steps involved in
+      making an attack: checking line of sight, checking range, checking cover,
+      rolling for a hit, and rolling for damage.
   </p>
 
   <h2>Line of Sight</h2>
   <p>
-
+      A unit can only attack or cast a spell which targets an enemy if it has
+      line of sight from its current square to a square containing that
+      enemy. Similarly, area attacks and area attack spells require line of
+      sight to the target square of the attack.
+  </p>
+  <p>
+      Line of sight exists if a line can be drawn from one of the closest
+      corners of the square containing the attacker to one of the closest
+      corners of the square containing the defender without running through a
+      full cover square (partial cover never obstructs line of sight). Running
+      along the edge or through the corner of a full cover square is not enough
+      to obstruct line of sight, the line must intersect the interior of the
+      barrier.
+  </p>
+  <p>
+      In the examples below, orange squares represent full cover barriers. White
+      squares are ones where the units at A and B respectively have line of
+      sight, and grey squares are ones where they do not have line of sight.
+  </p>
+  <p>
+    <img class="imageBlock" src="lineOfSight.png" />
   </p>
 
   <h2>Cover</h2>
   <p>
-
+      Various pieces of the environment can provide cover to make units harder
+      to hit. There are two types of cover, called <b>partial cover</b> and
+      <b>full cover</b>, which grant different levels of protection. A unit is
+      in cover if a line drawn from an attacker-chosen corner of the attacker's
+      square to a defender-chosen corner of the defender's square intersects the
+      interior of an obstacle, with the type of cover depending on the type of
+      the obstacle. Unlike line of sight, cover is not symmetrical. Below, light
+      blue squares have full cover from the unit at A in the first example and
+      from the unit at B in the second example. Note that A has full cover from
+      B, but not vice versa.
+  </p>
+  <p>
+    <img class="imageBlock" src="cover.png" />
+  </p>
+  <p>
+      Attacks against a unit in full cover are made at a <b>-8 penalty</b> to
+      hit. Attacks against a unit in partial cover are made at a <b>-4
+      penalty</b> to hit. Some attacks, called <b>area attacks</b>, ignore
+      cover.
   </p>
 
   <h2>Range</h2>
   <p>
-
+      Weapons and spells have a <b>maximum range</b> of 16 squares, beyond which
+      they cannot hit. They can also have a <b>short range multipler</b> or a
+      <b>long range multiplier</b> which impact their accuracy at various
+      distances. All weapons have the same accuracy at a distance of 8 squares.
+      Shots closer than that are called "short range" and shots further away
+      than that are called "long range".
+  </p>
+  <p>
+      To find the range bonus or penalty for a shot, multiply the range
+      multiplier by the absolute distance away from 8 squares. For example, if
+      a weapon has a "1x short range" multipler and a shot is being taken from
+      2 squares away from the target, the aim bonus is +6. Range penalties also
+      exist. For example, a "-2x long range" multiplier imposes a penalty on
+      long range shots. A shot taken from 10 squares away with such a weapon
+      would have a -4 penalty to aim.
+  </p>
+  <p>
+      <a href="#-appendix-a-common-range-modifiers">Appendix A</a> contains a
+      complete range bonus and penalty table for several common weapon types.
   </p>
 
   <h2>Hits</h2>
@@ -245,7 +340,115 @@
   <p>
   </p>
 
-  <h1>Appendix A: Hit Probabilities</h1>
+  <h1>Appendix A: Common Range Modifiers</h1>
+  <p>
+    <table>
+      <tr>
+        <th>Range to Target</th>
+        <th>Sniper Rifle<br />(-1x short range)</th>
+        <th>Assault Rifle<br />(1x short range)</th>
+        <th>Shotgun<br />(2x short range,<br />-2x long range)</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>-7</td>
+        <td>+7</td>
+        <td>+14</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>-6</td>
+        <td>+6</td>
+        <td>+12</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>-5</td>
+        <td>+5</td>
+        <td>+10</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>-4</td>
+        <td>+4</td>
+        <td>+8</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>-3</td>
+        <td>+3</td>
+        <td>+6</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>-2</td>
+        <td>+2</td>
+        <td>+4</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>-1</td>
+        <td>+1</td>
+        <td>+2</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>0</td>
+        <td>0</td>
+        <td>-2</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>0</td>
+        <td>0</td>
+        <td>-4</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>0</td>
+        <td>0</td>
+        <td>-6</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td>0</td>
+        <td>0</td>
+        <td>-8</td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td>0</td>
+        <td>0</td>
+        <td>-10</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td>0</td>
+        <td>0</td>
+        <td>-12</td>
+      </tr>
+      <tr>
+        <td>15</td>
+        <td>0</td>
+        <td>0</td>
+        <td>-14</td>
+      </tr>
+      <tr>
+        <td>16</td>
+        <td>0</td>
+        <td>0</td>
+        <td>-16</td>
+      </tr>
+    </table>
+  </p>
+
+  <h1>Appendix B: Hit Probabilities</h1>
   <p>
 
   </p>
