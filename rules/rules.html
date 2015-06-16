@@ -57,7 +57,7 @@
       All units have a movement speed. When a unit takes a turn, it gains <i
       class="move"></i> (movement points) equal to its movement speed. Units can
       move a number of squares by spending an equal number of movement points,
-      but moves must be continouous (it's not possible to partially move and
+      but moves must be continuous (it's not possible to partially move and
       then decide to move further or to abort the movement halfway
       through). Units cannot move into blocked squares.
   </p>
@@ -136,7 +136,7 @@
           dexterity. Units with a higher agility have better aim.
         </li>
         <li>
-          <b>Constitution</b>, which captures the unit's fortitude and
+          <b>Fortitude</b>, which captures the unit's constitution and
           strength. Units with a higher constitution have more health.
         </li>
         <li>
@@ -153,8 +153,9 @@
       outcome of a particular action. In order to make an attribute check, start
       with the unit's attribute score and add any bonuses or penalties to the
       score as appropriate to get an <b>attribute target</b>. Finally, roll a
-      20-sided die. If the number rolled is <b>lower then or equal to</b> the
-      attribute target, the result of check was success.
+      20-sided die. If the number rolled is <b>lower than or equal to</b> the
+      attribute target, the result of check was success. A typical attribute
+      score for a unit is a value in the 12 to 14 range.
   </p>
   <p>
       For example, a unit attacking might have an Agility of 13 and may have a
@@ -168,7 +169,7 @@
       Cards in Spellseeker are the basis of the game. They are the reward for
       successful adventuring -- killing enemies results in new cards for the
       player to add to their spell deck. There are various card types present in
-      the gamee:
+      the game:
       <ul>
         <li>
           <b>Spell</b> Cards can be cast by the player by paying the
@@ -262,7 +263,7 @@
   <h2>Range</h2>
   <p>
       Weapons and spells have a <b>maximum range</b> of 16 squares, beyond which
-      they cannot hit. They can also have a <b>short range multipler</b> or a
+      they cannot hit. They can also have a <b>short range multiplier</b> or a
       <b>long range multiplier</b> which impact their accuracy at various
       distances. All weapons have the same accuracy at a distance of 8 squares.
       Shots closer than that are called "short range" and shots further away
@@ -271,7 +272,7 @@
   <p>
       To find the range bonus or penalty for a shot, multiply the range
       multiplier by the absolute distance away from 8 squares. For example, if
-      a weapon has a "1x short range" multipler and a shot is being taken from
+      a weapon has a "1x short range" multiplier and a shot is being taken from
       2 squares away from the target, the aim bonus is +6. Range penalties also
       exist. For example, a "-2x long range" multiplier imposes a penalty on
       long range shots. A shot taken from 10 squares away with such a weapon
@@ -284,7 +285,24 @@
 
   <h2>Hits</h2>
   <p>
-
+      To determine if an attack is a hit, the attacker makes a standard <a
+      href="#-attribute-checks">agility attribute check</a>, applying the
+      various modifiers as appropriate. On success, the attack is a hit. The
+      most common modifiers that affect attack accuracy are:
+      <ul>
+        <li>
+          Range, with the specific modifier depending on the weapon, see
+          <a href="#-range">Range</a>.
+        </li>
+        <li>
+          Cover, -4 penalty if the target has partial cover and -8 if the target
+          is in full cover, see <a href="#-cover">Cover</a>.
+        </li>
+        <li>
+          If the attack is a <a href="#-reactions">reaction attack</a>, the
+          attacker takes a -4 penalty to hit.
+        </li>
+      </ul>
   </p>
 
   <h2>Damage</h2>

@@ -5,7 +5,7 @@
 - Fire: Action
 - Effective Range: Medium
 - Movement Cost: 0
-- Damage: Low
+- Damage: Low (1-2 base)
 
 ## Assault Rifle
 - Reload: Action
@@ -13,27 +13,27 @@
 - Effective Range: Medium
 - Magazine Capacity: 4
 - Movement Cost: 0
-- Damage: Medium
+- Damage: Medium (2-4 base)
 
 ## Sniper Rifle
 - Reload: Action
 - Fire: Move + Action
 - Effective Range: Long
 - Magazine Capacity: 5
-- Damage: High
+- Damage: High (3-5 base) (high crit chance)
 
 ## Shotgun
 - Reload: Action
 - Fire: Action
 - Effective Range: Short
 - Magazine Capacity: 4
-- Damage: Medium
+- Damage: Medium (3-5 base)
 
 ## Submachine Gun
 - Reload: Move + Action
 - Fire: Action
 - Magazine Capacity: 3
-- Damage: High
+- Damage: High (3-5 base) (low crit chance)
 
 ## Rocket Launcher
 - Reload: Move + Action
