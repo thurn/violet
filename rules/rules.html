@@ -70,7 +70,7 @@
       <a href="#-line-of-sight">Line of Sight</a> is checked for each square
       during movement, and entering the line of sight of an enemy who has taken
       the <a href="#-hold-action">Hold action</a> can immediately provoke a
-      <a href="#-reactions">Reaction</a>.
+      <a href="#-reactions-and-the-stack">Reaction</a>.
   </p>
   <p>
       Distance is calculated by counting the squares on the path between the
@@ -93,9 +93,8 @@
 
   <h3>Sprint Action</h3>
   <p>
-      The unit gains <i class="move"></i> equal to its movement speed, which
-      it can spend to move. This is in addition to its normal movement for
-      the turn.
+      The unit gains <i class="move"></i> equal to its movement speed and can
+      make a second movement in addition to its normal movement for the turn.
   </p>
 
   <h3>Attack Action</h3>
@@ -115,7 +114,7 @@
   <p>
       The unit stays on watch, prepared to respond to enemy activity. It may get
       an opportunity for a reaction to enemy activity. See <a
-      href="#-reactions">Reactions</a>.
+      href="#-reactions-and-the-stack">Reactions</a>.
   </p>
 
   <h2>End of Turn Step</h2>
@@ -172,7 +171,12 @@
       the game:
       <ul>
         <li>
-          <b>Spell</b> Cards can be cast by the player by paying the
+          <b>Action</b> cards describe the basic actions in the game. They serve
+          as reminders of the possible actions which can be taken after a move,
+          and cannot be discarded or interacted with in any other way.
+        </li>
+        <li>
+          <b>Spell</b> cards can be cast by the player by paying the
           appropriate costs during their turn, or at certain other times (See <a
           href="#-spellcasting">Spellcasting</a> for more information). Spells
           have two possible subtypes:
@@ -202,6 +206,37 @@
           speed.
         </li>
       </ul>
+  </p>
+
+  <h1>Reactions and the Stack</h1>
+  <p>
+  When a unit casts a spell, activates an activated effect, makes an attack, or
+  moves within the sight of an enemy for the first time on a turn, the effect
+  does not resolve immediately. Instead, the effect is put into an ephemeral
+  area called <b>the stack</b> to allow enemy units to respond. The unit
+  creating the initial effect is called the <b>initator</b>, and if an enemy
+  responds, the initiator is said to have <b>provoked </b> a <b>reaction</b>.
+  </p>
+  Any enemy units which have taken the <a href="#-hold-action">Hold</a> action
+  within sight of the initiator get an opportunity to react first.  They can
+  cast any number of spells, activate any number of activated effects, or Attack
+  the initiator. A unit can make a maximum of one Attack per Hold action, and
+  the attack must be made as a reaction. These actions do not happen
+  immediately, but are also put onto the stack for later resolution.
+  </p>
+  <p>
+  After the Holding units are finished taking actions, <b>priority</b> is passed
+  to the opposing side. Units on this side which a are within sight of the
+  initiator, including the initiator, can cast any number of spells and activate
+  any number of activated effects, but they <u>cannot</u> Attack.
+  </p>
+  <p>
+  After these units have finished, priority is again passed, and the process
+  repeats, with the Holding units again able to react. Priority continues
+  passing in this manner between both sides until one side passes. At that
+  point, all the effects on the stack are resolved in reverse order, starting
+  with the most recently added, until finally the initiating effect is allowed
+  to continue.
   </p>
 
   <h1>Combat</h1>
@@ -299,8 +334,8 @@
           is in full cover, see <a href="#-cover">Cover</a>.
         </li>
         <li>
-          If the attack is a <a href="#-reactions">reaction attack</a>, the
-          attacker takes a -4 penalty to hit.
+          If the attack is a <a href="#-reactions-and-the-stack">reaction
+          attack</a>, the attacker takes a -4 penalty to hit.
         </li>
       </ul>
   </p>
@@ -321,7 +356,21 @@
 
   <h2>Health, Unconsciousness, and Death</h2>
   <p>
-
+  Units have a base number of <b>health points</b> equal to their fortitude
+  attribute, which represents the amount of damage they can sustain before
+  falling <b>unconscious</b>. Health can be increased by certain spells and
+  equipment. When a unit falls unconscious, it remains at 0 health and cannot
+  sustain further damage or take any actions. Each turn, the unit has a risk of
+  permanently <b>dying</b>.
+  </p>
+  <p>
+  Instead of taking normal moves and actions, an unconscious unit makes a <a
+  href="#-attribute-checks">Fortitude check</a> each turn. The check is
+  initially made at +5 bonus, but this modifier decreases by 1 for each
+  additional turn the unit remains unconscious and can eventually become
+  negative. If the check fails, the unit dies permanently. If the unit is healed
+  above 0 health, it stops needing to make these checks and can once again
+  function normally.
   </p>
 
   <h1>Spellcasting</h1>
@@ -340,11 +389,6 @@
   </p>
 
   <h2>Effect Resolution</h2>
-  <p>
-
-  </p>
-
-  <h2>Reactions</h2>
   <p>
 
   </p>
