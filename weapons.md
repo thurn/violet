@@ -6,6 +6,7 @@
 - Effective Range: Medium
 - Movement Cost: 0
 - Damage: Low (1-2 base)
+- 2d4 = 5 damage average
 
 ## Assault Rifle
 - Reload: Action
@@ -14,6 +15,7 @@
 - Magazine Capacity: 4
 - Movement Cost: 0
 - Damage: Medium (2-4 base)
+- 2d8 = 9 damage average
 
 ## Sniper Rifle
 - Reload: Action
@@ -21,25 +23,28 @@
 - Effective Range: Long
 - Magazine Capacity: 5
 - Damage: High (3-5 base) (high crit chance)
+- 2d12 = 13 damage average
 
 ## Shotgun
 - Reload: Action
 - Fire: Action
 - Effective Range: Short
 - Magazine Capacity: 4
-- Damage: Medium (3-5 base)
+- Damage: High (3-5 base)
+- 2d12 = 13 damage average
 
 ## Submachine Gun
 - Reload: Move + Action
 - Fire: Action
 - Magazine Capacity: 3
 - Damage: High (3-5 base) (low crit chance)
+- 2d12 = 13 damage average
 
 ## Rocket Launcher
 - Reload: Move + Action
 - Fire: Move + Action
 - Magazine Capacity: 2
-- Damage: Very High
+- Damage: Very High (6 damage)
 
 # Basic Properties
 - Damage
