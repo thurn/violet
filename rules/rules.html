@@ -27,12 +27,14 @@
   <h1>Gameplay Overview</h1>
 
   <p>
-    Gameplay is turn-oriented. The player controls a squad of warriors
+    Gameplay is turn-oriented. The player controls a team of warriors
     individually referred to as <b>units</b>. A turn consists of the
     <b>beginning of turn</b> step, followed by each unit a player controls
     making a <b>move</b> (paid for with <i class="move"></i> movement points)
     and then taking an <b>action</b> (represented by the <i class="action"></i>
-    symbol), finally followed by the <b>end-of-turn</b> step.
+    symbol), finally followed by the <b>end-of-turn</b> step. While it is their
+    turn, units are said to be on the <b>active team</b>, and their enemies are
+    said to be on the <b>inactive team</b>.
   </p>
 
   <p>
@@ -45,7 +47,7 @@
 
   <h2>Beginning of Turn Step</h2>
   <p>
-      At the beginning of a player's turn, the player draws a card. Next, each
+      At the beginning of the player's turn, the player draws a card. Next, each
       unit the player controls gains 1 <b>mana</b> (<i
       class="m1"></i>). Finally, one <i class="time"></i> (time marker) is
       removed from each card in play with one or more <i class="time"></i> on
@@ -218,25 +220,26 @@
   responds, the initiator is said to have <b>provoked </b> a <b>reaction</b>.
   </p>
   Any enemy units which have taken the <a href="#-hold-action">Hold</a> action
-  within sight of the initiator get an opportunity to react first.  They can
-  cast any number of spells, activate any number of activated effects, or Attack
-  the initiator. A unit can make a maximum of one Attack per Hold action, and
-  the attack must be made as a reaction. These actions do not happen
-  immediately, but are also put onto the stack for later resolution.
+  within sight of the initiator (on the inactive team) get an opportunity to
+  react first.  They can cast any number of spells, activate any number of
+  activated effects, or Attack the initiator. A unit can make a maximum of one
+  Attack per Hold action, and the attack must be made as a reaction. These
+  actions do not happen immediately, but are also put onto the stack for later
+  resolution.
   </p>
   <p>
   After the Holding units are finished taking actions, <b>priority</b> is passed
-  to the opposing side. Units on this side which a are within sight of the
+  to the active team. Units on this team which are within sight of the
   initiator, including the initiator, can cast any number of spells and activate
   any number of activated effects, but they <u>cannot</u> Attack.
   </p>
   <p>
-  After these units have finished, priority is again passed, and the process
-  repeats, with the Holding units again able to react. Priority continues
-  passing in this manner between both sides until one side passes. At that
-  point, all the effects on the stack are resolved in reverse order, starting
-  with the most recently added, until finally the initiating effect is allowed
-  to continue.
+  After these units have finished, priority is again passed back to the inactive
+  team, and the process repeats, with the Holding units on the inactive team
+  again able to react. Priority continues passing in this manner between both
+  teams until one team passes. At that point, all the effects on the stack are
+  resolved in reverse order, starting with the most recently added, until
+  finally the initiating effect is allowed to continue.
   </p>
 
   <h1>Combat</h1>
@@ -375,22 +378,89 @@
 
   <h1>Spellcasting</h1>
   <p>
-
+  Spells in Spellseeker are represented by spell cards. Each spell card belongs
+  to one of the four <b>schools</b> of magic: air, fire, water, or earth. Each
+  unit must select one of the four schools to specialize in and can <u>only</u>
+  cast spells from their chosen school.
+  </p>
+  <p>
+  All spell cards also have a <b>cost</b> printed on them, which must be paid
+  before the spell can be played. The most common type of cost is a <b>mana
+  cost</b>. In order to cast such a spell, the unit must spend mana equal to the
+  cost from its <b>mana pool</b>. Units add 1 mana to their pool during the
+  <a href="#-beginning-of-turn-step">beginning of turn step</a> and can have a
+  maximum of 10 mana stored.
   </p>
 
   <h2>Spell Decks</h2>
   <p>
-
+  Spells are drawn from a Spell Deck which is constructed before the game
+  begins. The spell deck consists of 40 cards and cannot contain more than 4
+  copies of the same card. The player begins with no cards in hand, and draws a
+  new spell card during the <a href="#-beginning-of-turn-step">beginning of turn
+  step</a>.
+  </p>
+  <p>
+  If the spell deck is empty, no further spell cards can be drawn, but the game
+  continues as normal. During the <a href="#-end-of-turn-step">end of turn
+  step</a>, if the player has more than 5 cards in hand, they discard down to a
+  maximum of 5 cards.
+  </p>
+  <p>
+  Enemies of the player cast spells using spell cards as well, but do not
+  have a spell deck. Enemies simply have a fixed starting hand of spell cards
+  and a mana pool to cast spells with, and do not draw additional cards.
   </p>
 
   <h2>Spell Timing</h2>
   <p>
-
+  Spells can be cast by a unit at any time during its turn. They can also be
+  cast as a reaction during the enemy turn if the unit takes the Hold action
+  (see <a href="#-reactions-and-the-stack">Reactions and the Stack</a>. Spells
+  with <i class="action"></i> or <i class="move"></i> in their costs require the
+  unit to spend its action for the turn or some of its movement points for the
+  turn respectively to cast the spell and cannot be cast as a reaction.
   </p>
 
   <h2>Effect Resolution</h2>
   <p>
+  Casting a spell or activating an activated effect follows a sequence of steps:
+  <ol>
+    <li>
+      The player announced which unit is casting the spell or activating the
+      activated effect and the name of the effect, revealing the card if
+      necessary.
+    </li>
+    <li>
+      The player pays any costs required. If they wish to add any optional
+      effects (see <a href="#-reading-a-spell-card">Reading a Spell Card</a>,
+      they announce which ones at this time and pay any costs associated with
+      them as well. If the spell offers a choice of multiple different effects,
+      they announce which effect will be used.
+    </li>
+    <li>
+      The player selects a target for the spell which meets the spell's
+      targeting requirements, if any.
+    </li>
+    <li>
+      The effect is put onto the <a href="#-reactions-and-the-stack">stack</a>
+      to be eventually resolved.
+    </li>
+  </ol>
+  </p>
 
+  <p>
+  After the stack is resolved, the text instructions on the spell card are
+  followed in the order in which they are printed. Choices like targeting are
+  again checked for legality, and instructions on a spell card which attempt to
+  interact with no-longer-legal targets do not resolve.
+  </p>
+
+  <p>
+  If two effects are created simultaneously, effects created by the active team
+  go on the stack first in <b>timestamp order</b>, meaning that effects created
+  by spell cards played earlier go onto the stack first. Effects created by the
+  inactive team are then added to the stack in the same order.
   </p>
 
   <h2>Reading a Spell Card</h2>
