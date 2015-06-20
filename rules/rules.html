@@ -109,7 +109,7 @@
   <p>
       The unit reloads their equipped weapon. Weapons must be reloaded
       occasionally to ensure that they don't run out of ammunition. See
-      <a href="#-guns">Guns</a>.
+      <a href="#-gun-types">Gun Types</a>.
   </p>
 
   <h3>Hold Action</h3>
@@ -409,17 +409,19 @@
   <p>
   Enemies of the player cast spells using spell cards as well, but do not
   have a spell deck. Enemies simply have a fixed starting hand of spell cards
-  and a mana pool to cast spells with, and do not draw additional cards.
+  and do not draw additional cards. Enemies do have mana pools which refill over
+  time, sometimes at a rate other than 1 mana per turn.
   </p>
 
   <h2>Spell Timing</h2>
   <p>
-  Spells can be cast by a unit at any time during its turn. They can also be
-  cast as a reaction during the enemy turn if the unit takes the Hold action
-  (see <a href="#-reactions-and-the-stack">Reactions and the Stack</a>. Spells
-  with <i class="action"></i> or <i class="move"></i> in their costs require the
-  unit to spend its action for the turn or some of its movement points for the
-  turn respectively to cast the spell and cannot be cast as a reaction.
+  Spells can be cast by a unit at any time while its team is active. They can
+  also be cast as a reaction during the enemy turn if the unit takes the Hold
+  action (see <a href="#-reactions-and-the-stack">Reactions and the
+  Stack</a>). Spells with <i class="action"></i> or <i class="move"></i> in their
+  costs require the unit to spend its action for the turn or some of its
+  movement points for the turn respectively to cast the spell, and cannot be cast
+  as a reaction.
   </p>
 
   <h2>Effect Resolution</h2>
@@ -432,11 +434,14 @@
       necessary.
     </li>
     <li>
+      If the spell offers a choice of multiple different effects, they announce
+      which effect or effects will be used.
+    </li>
+    <li>
       The player pays any costs required. If they wish to add any optional
-      effects (see <a href="#-reading-a-spell-card">Reading a Spell Card</a>,
+      effects (see <a href="#-reading-a-spell-card">Reading a Spell Card</a>),
       they announce which ones at this time and pay any costs associated with
-      them as well. If the spell offers a choice of multiple different effects,
-      they announce which effect will be used.
+      them as well.
     </li>
     <li>
       The player selects a target for the spell which meets the spell's
@@ -477,7 +482,7 @@
   <p>
   </p>
 
-  <h2>Guns</h2>
+  <h2>Gun Types</h2>
   <p>
   </p>
 

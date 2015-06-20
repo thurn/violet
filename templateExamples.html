@@ -3,6 +3,7 @@
   <head>
     <title>Cards</title>
     <link href="./cards.css" type="text/css" rel="stylesheet">
+    <link href="./symbols.css" type="text/css" rel="stylesheet">
     <link href='./baskerville.css' rel='stylesheet' type='text/css'>
     <link href='./roboto.css' rel='stylesheet' type='text/css'>
     <style type="text/css">
@@ -18,19 +19,23 @@
         <i class="cost action"></i>
       </div>
       <div class="imageContainer">
-        <img class="image" src="placeholder.jpg">
+        <img class="image" src="images/fireJet.jpeg">
       </div>
       <span class="setNumber">1</span>
       <span class="titleLine">
-        <span class="title">Immediate Effect</span>
+        <span class="title">Fire Jet</span>
       </span>
       <div class="text">
-          <p><strong>Target</strong> a visible unit within <strong>Range</strong>
-          25. Deal 2 damage to it.</p>
-          <p><i class="m5"></i> <i class="arrow"></i> Deal 2 damage to target.</p>
+        <p>
+          A jet of white-hot flame shoots from your outstretched hand towards an
+          enemy, striking it for 2d4 fire damage.
+        </p>
+        <p>
+          <i class="mN"></i>: Deal N additional fire damage to the target enemy.
+        </p>
       </div>
       <div class="typeLine">
-          Spell <i class="dot"></i> Immediate
+          Spell <i class="dot"></i> Attack
       </div>
     </div>
     <div class="earth card">
@@ -39,19 +44,21 @@
         <i class="cost action"></i>
       </div>
       <div class="imageContainer">
-        <img class="image" src="placeholder.jpg">
+        <img class="image" src="images/healingAura.jpg">
       </div>
       <span class="setNumber">1</span>
       <span class="titleLine">
-        <span class="title">Choice Card</span>
+        <span class="title">Healing Aura</span>
       </span>
       <div class="text">
-          <strong>Target</strong> an ally. <strong>Pick 1</strong>:
-          <div class="choices">
-              <p><i class="arrow"></i> Target makes attacks at +2 this turn.</p>
-              <p><i class="action"></i> , <i class="m1"></i> <i class="arrow"></i>
-              Target gains 2 health.</p>
-          </div>
+        <p>
+          A diffuse white glow envelops your ally, renewing their strength. Pick
+          1:
+        </p>
+        <ul>
+          <li>Your ally makes attacks at +2 to hit this turn.</li>
+          <li>Your ally heals 5.</li>
+        </ul>
       </div>
       <div class="typeLine">
           Spell <i class="dot"></i> Immediate
@@ -64,46 +71,52 @@
         <span class="cost textCost">Discard a card</span>
       </div>
       <div class="imageContainer">
-        <img class="image" src="placeholder.jpg">
+        <img class="image" src="images/valorousChant.jpg">
       </div>
       <span class="setNumber">1</span>
       <span class="titleLine">
-        <span class="title">3-Turn Card</span>
+        <span class="title">Valorous Chant</span>
       </span>
       <div class="text">
-          <p>Friendly units make attacks at +4.</p>
-          <p>Whenever a friendly unit scores a hit, it deals 4 extra
-          damage to the target.</p>
-          <p><b>Temporary</b> <i>(When the last marker is removed from this
-          card, discard it.)</i></p>
+          <p>
+          Your stirring song evokes feelings of strength and bravery in your
+          comrades
+          </p>
+          <p>
+          Your allies make attacks at +4 to hit. When an ally scores a hit, they
+          deal 4 extra damage to the target.
+          </p>
+
       </div>
       <div class="typeLine">
-          Spell <i class="dot"></i> Ongoing
+          Spell <i class="dot"></i> Temporary
       </div>
     </div>
     <div class="water card">
       <div class="costLine">
         <i class="cost m4"></i>
+        <span class="cost">3<i class="charge"></i></span>
       </div>
       <div class="imageContainer">
-        <img class="image" src="placeholder.jpg">
+        <img class="image" src="images/stormFront.jpg">
       </div>
       <span class="setNumber">1</span>
       <span class="titleLine">
-        <span class="title">Activated Card</span>
+        <span class="title">Storm Front</span>
       </span>
       <div class="text">
-          <p><strong>Target</strong> self. Target makes attacks at +2.
-          Put 3 charge markers on this card.</p>
-          <p><i class="action"></i> , Remove a charge marker
-          <i class="doubleArrow"></i> <strong>Target</strong> a visible square
-          within <strong>Range</strong> 30. Deal 2d12 damage to unit in target
-          square.</p>
-          <p><b>Temporary</b> <i>(When the last marker is removed from this
-          card, discard it.)</i></p>
+          <p>
+            You summon into being a massive thundercloud, ready to hurl
+            lightning bolts at your enemies on command.
+          </p>
+          <p>
+          <i class="action"></i> , <i class="charge"></i>
+          <i class="doubleArrow"></i> Attack an enemy unit, dealing 2d10
+          electricity damage on hit.
+          </p>
       </div>
       <div class="typeLine">
-          Spell <i class="dot"></i> Ongoing
+          Spell <i class="dot"></i> Temporary
       </div>
     </div>
   </body>

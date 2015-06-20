@@ -112,3 +112,9 @@
   content: "\24C3";
   font-style: normal;
 }
+
+.charge::after {
+  content: "\2600";
+  font-style: normal;
+  font-size: 90%;
+}

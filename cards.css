@@ -77,6 +77,11 @@ body {
   padding-top: 18px;
 }
 
+.text ul {
+  margin: 0;
+  padding-left: 15px;
+}
+
 .targetLine {
   margin-bottom: 8px;
 }
@@ -111,7 +116,7 @@ body {
 .cost {
   background-color: white !important;
   opacity: 1 !important;
-  padding: 4px 4px 0 4px;
+  padding: 2px 4px 0 4px;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
   border: 1px solid black;
