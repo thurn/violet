@@ -56,12 +56,13 @@
 
   <h2>Movement and Distance</h2>
   <p>
-      All units have a movement speed. When a unit takes a turn, it gains <i
-      class="move"></i> (movement points) equal to its movement speed. Units can
-      move a number of squares by spending an equal number of movement points,
-      but moves must be continuous (it's not possible to partially move and
-      then decide to move further or to abort the movement halfway
-      through). Units cannot move into blocked squares.
+      When a unit takes a turn, it gains <i class="move"></i> (movement points)
+      equal to its <b>movement speed</b> (half its <a
+      href="#-attributes">Agility attribute</a>, rounded down). Units can move a
+      number of squares by spending an equal number of movement points, but
+      moves must be continuous (it's not possible to partially move and then
+      decide to move further or to abort the movement halfway through). Units
+      cannot move into blocked squares.
   </p>
   <p>
       Some actions, such as attacking with certain weapons, have a <b>speed
@@ -109,7 +110,7 @@
   <p>
       The unit reloads their equipped weapon. Weapons must be reloaded
       occasionally to ensure that they don't run out of ammunition. See
-      <a href="#-gun-types">Gun Types</a>.
+      <a href="#-weapon-subtypes">Weapon Subtypes</a>.
   </p>
 
   <h3>Hold Action</h3>
@@ -509,17 +510,90 @@
     <img class="imageBlock" src="templating.png" />
   </p>
 
-  <h2>Spell Schools</h2>
-  <p>
-
-  </p>
-
   <h1>Equipment</h1>
   <p>
+  Equipment represents the weapons, armor, and other tools that units bring
+  with them into combat. Equipment cards are received as a reward for combat
+  success much in the same way as spell cards, but equipment belongs to a
+  specific unit and cannot be changed during gameplay, only configured outside
+  of an individual encounter. Units are limited to at most one piece of
+  equipment with a given equipment type.
+  </p>
+  <h2>Equipment Types</h2>
+  <p>
+  The following equipment types are available in Spellseeker:
+  <ul>
+    <li>Weapon</li>
+    <li>Armor</li>
+    <li>Boots</li>
+    <li>Helmet</li>
+    <li>Ring</li>
+    <li>Gloves</li>
+    <li>Amulet</li>
+    <li>Cloak</li>
+    <li>Miscellaneous</li>
+  </ul>
   </p>
 
-  <h2>Gun Types</h2>
+  <h2>Weapon Subtypes</h2>
   <p>
+  Within the category of weapons, different subtypes are available. The subtype
+  of a weapon indicates its general characteristics, but the specific details
+  vary substantially. The following table compares typical values for the weapon
+  subtypes:
+  </p>
+  <p>
+    <table>
+      <tr>
+        <th>Weapon</th>
+        <th>Magazine Capacity</th>
+        <th>Range Bonus/Penalty</th>
+        <th>Standard Damage</th>
+        <th>Speed Penalty</th>
+      </tr>
+      <tr>
+        <td>Pistol</td>
+        <td>Unlimited</td>
+        <td>1x short range</td>
+        <td>2d4</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td>Assault Rifle</td>
+        <td>4</td>
+        <td>1x short range</td>
+        <td>2d8</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td>Sniper Rifle</td>
+        <td>5</td>
+        <td>-1x short range, 1x long range</td>
+        <td>2d12</td>
+        <td>-6 <i class="move"></i></td>
+      </tr>
+      <tr>
+        <td>Shotgun</td>
+        <td>4</td>
+        <td>2x short range, -2x long range</td>
+        <td>2d12</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td>Submachine Gun</td>
+        <td>3</td>
+        <td>1x short range</td>
+        <td>2d12</td>
+        <td>-2 <i class="move"></i></td>
+      </tr>
+      <tr>
+        <td>Rocket Launcher</td>
+        <td>1</td>
+        <td>None</td>
+        <td>15</td>
+        <td>None</td>
+      </tr>
+    </table>
   </p>
 
   <h1>Appendix A: Common Range Modifiers</h1>
