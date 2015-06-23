@@ -1,4 +1,5 @@
 # Concepts
+- Levels?
 - Copy Edge of the Empire Combat System
 - Skills & Checks
   - Agility, Brawn, Cunning, Presence, Willpower, Intellect
@@ -8,22 +9,38 @@
   - AGILITY, CONSTITUTION, WILLPOWER
 - Anti-magic
 - Savings Throws
-- Searching
+- Item backstories
+- Money, Equipment costs
+- Tracking enemies
+- Mounts, riding horses, riding dragons
+- Searching, Spotting
+- Attack types:
+  Gaze, Breath, Claw, Bite
+- Things which impede normal movement
+- Temporary hit points
+- Falling, Swimming, Climbing, Acrobatics, Grappling, Bull Rush, Jumping
 - Traps
-- Flying
+- Flying, falling damage
+- Alternate senses: scent, tremorsense, awesome hearing, etc
 - Stealth, Sneak Attacks
 - Noise attracting attention
 - Touch attacks, Ranged Touch Attacks
 - Mana cost determines opposed effects, e.g. water vs. fire
 - Dying, unconscious, bleeding out
 - Unarmed attacks, improvised attacks, throwing stuff
-- Damage typee: Fire, acid, electric, cold, sonic
+- Invisible, Inaudible, Fighting invisible enemies
+- Damage types: Fire, acid, electric, cold, sonic
+  - Piercing, bludgeoning, slashing
+  - Damage reduction
 - Abilities: Breath weapon
 - Conditions: Fear, Blinded, Stunned, Entangled, Prone, Nauseated, Intoxicated, Infected, Dazed
   Sleep, Paralysis, Slow, Pinned, On Fire, Charmed, Frozen, Deafened, Shaken, Dazzled, Fatigued,
   Exhausted, Sickened, Blur, Displacement, Invisible, Poisoned, Confused, Diseased, Feebleminded,
   Insane, Prone, Cowering, Helpless
 - Incorporeal, ethereal, undead
+- Changing form into a gas
+- Fear:
+  - Frightened, Panicked, Shaken
 - Poison
 - Concentration, distracting enemies
 - Bull rush, charge
@@ -67,6 +84,16 @@
 - Damaging enemy weapons
 - Tumbling and dodging
 - Disarming enemies
+- Special materials:
+  * adamatine, darkwood, dragonhide, mithral
+  * special interactions, like silver hurts vampires
+- Items have *hardness* and *hitpoints*
+- Armor grants HP bonus
+- Damage type immunities/reductions
+- Condition immunities
+- Harder to hit
+- Attrbute boosts
+- Hard to move from position
 
 # Magic
 

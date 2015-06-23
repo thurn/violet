@@ -1,13 +1,3 @@
-- Special materials:
-  * adamatine, darkwood, dragonhide, mithral
-- Items have *hardness* and *hitpoints*
-- Armor grants HP bonus
-- Damage type immunities/reductions
-- Condition immunities
-- Harder to hit
-- Attrbute boosts
-- Hard to move from position
-
 # Magic Item Compendium
 
 ## Armor and Shield Properties
@@ -33,4 +23,56 @@
 - Small embossing, makes you appear in a different place from where you are
 - Hard and shiny finish with protective glyphs, evasion against breath weapons
 - Armor weighs less than normal, carry more, no dexterity penalty
+- Translucent armor, holy symbols glowing white, backlash damage against incorporeal attackers
+- Pale, almost transparent exterior, creates a 10-foot spherical wall which blocks spells
+- A stylized elemental motif, flanges and spikes, protection against a specific type of energy
+- Elemental motifs, waves, flames, rock formations, billows of wind in bright enamel, activate for elemental energy immunity
+- Dark in color, viewers see fleeting grotesque images. When you activate it, you create an aura of terror in a 20-foot radius around you, creatures see their worst nightmares (will save)
+- Exudes a slick of fine oil, scintillating sheen and pungent scent. Move through things that impede movement
+- Surface is covered with a pattern of tiny indentations, magically protects from bludgeoning damage
+- Faint golden sheen, embossed with healing runes, depiction of an open eye. When activated, heals damage, can happen automatically
+- Reinforced with plates and rivets, not heavier, activate for temporary hit points
+- Spirals and reliefs of fanged mouths, heal when a spell targets you
+- Tendrils of dense black smoke stream from every opening, makes you hard to see and sneaky
+- Realistic visage of a scarred, horned demon, twitches. Activate to frighten or panic
+- Seamless and tightly bound layers, steadies your thoughts, bonus to Will
+- Slick and supple, abstract tracery in silvery metal, gain Mobility
+- Silvery armor, light and flexible to the touch, enhancement bonus to speed
+- Shimmers with various hues, feels slick to the touch, grants resistance against energy attacks, radiates light you when get attacked
+- Surface roils with pent-up energy. When you take 10+ damage, it damages the attacker
+- Sculpted visage of a dragon on this gleaming armor, embellishments like claws and wings, when you're hit by a small projectile, it gets reflected back towards target
+- Faint blue sheen. Can invest self into armor to increase armor class.
+- Rough surface, covered with tiny points like spearheads, turns away piercing weapons
+- Silvery arabesques, vibrates with a restless energy, quickens your movements a few times per day
+- Sturdier armor, grants extra fortitude
+- Blood-red armor, lined with a chalky substance, you stabilize immediately when dying, can't be blood drained by a vampire
+- Platinum, pulses with an air of invincibility. Avoid injury by manipulating time for a round
+- Faint, sunset-colored sheen. Translucent, easier to cast spells in.
+- Dull gray, unremarkable, hard to focus on, activate to make yourself inaudible and invisible
+- Made up of smooth overlapping strips, can change size freely
+- Etched to look like a tree, arms are boughs, can step into a tree and exit from another
+
+## Specific Armor & Shields
+
+- Riot of red, yellow, and orange leaves, durable as steel, once per day you can cause the leaves to scatter and you to disappear, becoming a gaseous form
+- Set with numerous polished green stones in concentric rings, can transform into a wall of force
+- Shaggy black fur, like a great bear. Really good at grappling, activate for Con bonus, get scent powers, sprout claws
+- Made of worn dragon scales, resistance to energy type associated with dragon, good at riding dragons, featherfall
+- Filthy-looking, black crystal shard, gnomic runes, eroma of fresh earth. Activate a stoneskin effect
+- Rubbery black hide, scales, thin slime, generates an electricity shield, can touch attack people to shock them
+- Skeleton bone armor, protection against bludgeoning weapons
+- Hide of a single gfox, patches of red fur, really good at stealth, get intelligence bonus, hard to track
+- Shaped and fitted sections of sewn-togetehr ghoul flesh, make "ghoul touch" attacks
+- Layer of gigantic golden feathers, shimmering, good at charisma, can sprout wings
+- Black chain links, lengths of barbed chain, dangling chains can make melee attacks
+- Miniscule rings, pale green color, extends green roots into your skin, grants you fast healing if you're in bright light
+- Delicate-looking, silver-white alloy that gleams like starlight, activate to fill space with billowing silver mist, grants concealment
+- White, flat, perfectly smooth, blue crystal in center, 20 foot radius wall of force above you
+- White down and long gray owl feathers, sweeping horns, good at listening, stealth, spotting, sprout wings
+- Deep green scales of a giant snake, fanged reptilian heads, gemlike slighted eyes, get good reflexes
+- finely crafted, engaged with a holy warrior healing a wounded beggar, channel destructive power into healing
+- A hundred strips of mithral, different sizes, riveted together in a patchwork, terrorizes enemies of the dwarves on sight
+- heavy wooden, emblazoned with a gory handprint, decorated with blood, bull rush an opponent that has attacked you
+- Striped fur, smelling thickly of some great beast, Good at climbing, hiding, jumping, stealth, activate for dexterity, activate for scent ability, activate claws
+- Prepared from vampire skin, flanes, spikes, skull-like face, damage reduction against magic and silver
 -
