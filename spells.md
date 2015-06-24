@@ -1,5 +1,6 @@
 # Concepts
 - Levels?
+  - level drain, negative levels
 - Copy Edge of the Empire Combat System
 - Skills & Checks
   - Agility, Brawn, Cunning, Presence, Willpower, Intellect
@@ -7,31 +8,37 @@
   - Health, Movement Speed, Aim, Willpower
   - Might, Knowledge, Willpower, Awareness
   - AGILITY, CONSTITUTION, WILLPOWER
+- Illusions, mind-affecting spells
 - Anti-magic
 - Savings Throws
 - Item backstories
+- Berserker rage type state
 - Money, Equipment costs
 - Tracking enemies
 - Mounts, riding horses, riding dragons
 - Searching, Spotting
+- Silence spells negate some stuff
 - Attack types:
   Gaze, Breath, Claw, Bite
 - Things which impede normal movement
 - Temporary hit points
-- Falling, Swimming, Climbing, Acrobatics, Grappling, Bull Rush, Jumping
+- Falling, Swimming, Climbing, Acrobatics, Grappling, Bull Rush, Jumping, Grasping attacks
 - Traps
 - Flying, falling damage
 - Alternate senses: scent, tremorsense, awesome hearing, etc
+  * enemy senses: do they see? hear? etc
 - Stealth, Sneak Attacks
 - Noise attracting attention
 - Touch attacks, Ranged Touch Attacks
 - Mana cost determines opposed effects, e.g. water vs. fire
 - Dying, unconscious, bleeding out
 - Unarmed attacks, improvised attacks, throwing stuff
-- Invisible, Inaudible, Fighting invisible enemies
+- Invisible, Inaudible, Fighting invisible enemies, Blindsight
 - Damage types: Fire, acid, electric, cold, sonic
   - Piercing, bludgeoning, slashing
   - Damage reduction
+  - Damage "absorption"
+  - fire -> fire, water -> cold, air -> electricity, earth -> acid
 - Abilities: Breath weapon
 - Conditions: Fear, Blinded, Stunned, Entangled, Prone, Nauseated, Intoxicated, Infected, Dazed
   Sleep, Paralysis, Slow, Pinned, On Fire, Charmed, Frozen, Deafened, Shaken, Dazzled, Fatigued,
@@ -45,21 +52,24 @@
 - Concentration, distracting enemies
 - Bull rush, charge
 - Potions?
+- Effects on enemy proximity, e.g. glow when they're close
 - Draw weapons
 - Feint
 - Scrolls?
 - Ability score damage, types of damage
-- Darkness, Light sources, torches
+- Darkness, Light sources, torches, darkvision
 - Breaking objects, e.g. doors
 - Breaking enemy weapons
+  * rust effect
 - Stealing enemy weapons
-- Disarm enemy
+- Disarm enemy, Shield bash
 - Trip enemy
+- Surprise round, flatfooted
 - Changing weapons
 - Flying
 - Creature size
 - Charging Enemies, Tripping Enemies
-- Resting
+- Resting, sleeping, sleeping in armor/with weapons
 - Alignment: Lawful enemies, evil enemies, chaotic enemies
 - Skills: Balancing, Climbing, Hiding
 - Savings Throws: Will, Fortitude, Reflex
@@ -68,7 +78,7 @@
 - Resurrection
 - Magical tatoos
 - Dispell magic
-- Critical hits
+- Critical hits, special magical effects on critical hits/good rolls
 - Nonlethal damage
 - Creatue types: colors, big categories are better, constructs
 - Range categories: personal, touch, close, medium, long
@@ -86,7 +96,11 @@
 - Disarming enemies
 - Special materials:
   * adamatine, darkwood, dragonhide, mithral
+  * adamatine, cold iron, alchemical silver
   * special interactions, like silver hurts vampires
+  * overcome damage reduction of certain creatures
+- Augment crystals
+- Weapon customization, crafting, add different attributes
 - Items have *hardness* and *hitpoints*
 - Armor grants HP bonus
 - Damage type immunities/reductions

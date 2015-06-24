@@ -63,16 +63,44 @@
 - Skeleton bone armor, protection against bludgeoning weapons
 - Hide of a single gfox, patches of red fur, really good at stealth, get intelligence bonus, hard to track
 - Shaped and fitted sections of sewn-togetehr ghoul flesh, make "ghoul touch" attacks
-- Layer of gigantic golden feathers, shimmering, good at charisma, can sprout wings
-- Black chain links, lengths of barbed chain, dangling chains can make melee attacks
-- Miniscule rings, pale green color, extends green roots into your skin, grants you fast healing if you're in bright light
-- Delicate-looking, silver-white alloy that gleams like starlight, activate to fill space with billowing silver mist, grants concealment
-- White, flat, perfectly smooth, blue crystal in center, 20 foot radius wall of force above you
-- White down and long gray owl feathers, sweeping horns, good at listening, stealth, spotting, sprout wings
-- Deep green scales of a giant snake, fanged reptilian heads, gemlike slighted eyes, get good reflexes
-- finely crafted, engaged with a holy warrior healing a wounded beggar, channel destructive power into healing
-- A hundred strips of mithral, different sizes, riveted together in a patchwork, terrorizes enemies of the dwarves on sight
-- heavy wooden, emblazoned with a gory handprint, decorated with blood, bull rush an opponent that has attacked you
-- Striped fur, smelling thickly of some great beast, Good at climbing, hiding, jumping, stealth, activate for dexterity, activate for scent ability, activate claws
-- Prepared from vampire skin, flanes, spikes, skull-like face, damage reduction against magic and silver
--
+
+## Weapon Properties
+
+- Surface of weaopn is pitted and worn. Corrosive, showers opponent with acid on hit
+- Water drips from weaopn, grip is inlaid with mother of pearl, overcomes damage reduction of fire-type creatures, deals extra damage to them
+- Intricate runes, sacrifice a spell to increaase damage next attack
+- wind constantly whistles along length, white enamel, grip is enlaid with whorls of silver resembling clouds, good against earth creatures
+- Barely visible bead of light slowly traces outline of weapon, banish creatue back to home plane on hit
+- Tarnished and battered, incredibly durable, scars of a hundred battles, deals extra damage while in a rage state
+- Length of chain looped around grip, hits prevent target of teleporting away
+- Faint glow emanating from within, good-aligned weapon, automatically confirms criticals vs evil foes
+- Form of a screeching bat's head, images of wings, susurrus of whispered notes when activated, grants blindsight, negated by silence spells
+- Blood-red tint, when damage is dealt, stores blood points, can spend for extra damage
+- Red crystals carefully inlaid in intricate designs, store and cast vampiric touch spell
+- Semitransparent weapon, almost as though glass, activate to partially fade from view, hard to enemies to dodge if they use sight
+- dark, dull metal, cold to the touch, seems to absorb heat, on critical hit, you gain temporary hit points equal to half damage dealt for 1 minute
+- Tip is rounded slightly, like a jousting lance, on hit, target must save or be knocked prone
+- Delicately balanced, settles into your grip as if you've wielded for years, blue-gray hue shimmers as you heft it, increases its own mass, deal extra 5 points of damage with each hit
+- Dark in color, blade is covered with menacing runes, shrouded in negative energy, seems to draw light into it, activate to deal extra damage to the living
+- Surface is dark and pitted, sheathed in acid, activate to add acid damage on hit
+- Barely perceptible dark glow, curses enemy on critical hit, gives them -4 to all rolls for 1 minute
+- Slender and elegant, tip glitters as though a thousand tiny facets were inside, deals extra damage on sneak attacks
+- Thicker and heavier, feels well balanced, grip is set with smoothly rounded topaz, activate to get AC bonus after you hit in combat
+- Looks cracked and parched as if it has spent decades in the desert sun, destroys water in creature it strikes, dealing damage, extra damage v.s. plants or water elementals, dehydrates, making enemy fatigued until they consume water
+- Jutting prongs and ridges, makes it easier to disarm enemies, harder to disarm you
+- Discolorations on surface appear and fade randomly, elaborate handle contains thumb-sized indent, activate to make targets teleport in a direction of your choice on hit into an unoccupied space
+- Arcane symbols, many are scratched and defaced, activate to disple magic on the target
+- Single, screaming skull adorns this weapoon, eyes set with raw black onyx inlays, on hit, target is shaken for 1 minute
+- weapon is enveloped in shroud of darkness, on critical, wave of blackness over target, shaken for 5 rounds,
+- engraved with a severed dragon's head, deal a smite attack against a Dragon type creature 3x per day, declare before attack
+- Surface gleams with ever-shifting colors, glows with heat, crackles with electricity, develops a rime of frost, emits acrid-smelling fumes. Activate to deal damage of one energy type.
+- Pommel bears a single diamond that flashes with an inner radiance, expels a blast of one energy type at target
+- Looks worn, blade has a ruddy tinge as though stained with blood, blood-red rubies surround the pommel, on crit bestows a negative level fo the target
+- Appears ghostly, but is solid, can hit ghosts well, can see invisible enemies
+- Flecks of marble and pearl shimmer across this weapon, images of bursting stars and beaming suns, flash brilliant light twice per day, blinding creatures for 1 round, immune to rusting and acid damage
+- Single rune engraved representing the foe the weapon is dedicated to slaying, glows when that enemy comes close, extra damage on criticals vs them
+- Weapon appears translucent, substance not entirely of this world, projectiles are force projectiles, damage incorporeal creatures
+- Emits a low hum like a chorus chanting slowly, crit vs. evil causes burst of radiance that damages and blinds (save negates)
+- Tiny flames constantly flicker on surface, red-tinted weapon, grip inlaid with amber in a flamelike design, good at damaging water creatures, temporary negative levels to water creatures
+- Reinforced with cold iron, set with chunks of obsidian, when a creature is struck, their ability to cast spells/activate abilities is impeded for 1d6 rounds, need to pass a check to do it
+- Lustrous purple sheen to weaopn, wound bleeds profusely, creature takes 2 additional damage for next 5 rounds.
