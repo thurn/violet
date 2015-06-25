@@ -1,6 +1,9 @@
 # Concepts
+- As much stuff as possible should be on card mechanics instead of in the
+  (especially creature cards)
 - Levels?
   - level drain, negative levels
+  - important to make you relate to your squad and be invested in them
 - Copy Edge of the Empire Combat System
 - Skills & Checks
   - Agility, Brawn, Cunning, Presence, Willpower, Intellect
@@ -13,7 +16,12 @@
 - Savings Throws
 - Item backstories
 - Berserker rage type state
+- Gem-based magic system
+  - e.g. acid gem, cold gem
+  - ruby, opal, topaz, emerald, sapphire, amethyst, diamond
 - Money, Equipment costs
+- Temporary mana
+- Missed shots, shots hit allies by accident, risk of hitting allies in close combat
 - Tracking enemies
 - Mounts, riding horses, riding dragons
 - Searching, Spotting
@@ -44,7 +52,8 @@
   Sleep, Paralysis, Slow, Pinned, On Fire, Charmed, Frozen, Deafened, Shaken, Dazzled, Fatigued,
   Exhausted, Sickened, Blur, Displacement, Invisible, Poisoned, Confused, Diseased, Feebleminded,
   Insane, Prone, Cowering, Helpless
-- Incorporeal, ethereal, undead
+- Incorporeal, ethereal, undead, ghost touch
+  - stuff like this should be keyword mechanics, like "Ghost"
 - Changing form into a gas
 - Fear:
   - Frightened, Panicked, Shaken
@@ -79,6 +88,9 @@
 - Magical tatoos
 - Dispell magic
 - Critical hits, special magical effects on critical hits/good rolls
+  - Maybe no explicit critical hits, but weapons having random bonus effects on
+    good rolls could be a common mechanic
+  - Critical mechanic is a good alternative to activated weapon powers
 - Nonlethal damage
 - Creatue types: colors, big categories are better, constructs
 - Range categories: personal, touch, close, medium, long

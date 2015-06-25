@@ -103,4 +103,26 @@
 - Emits a low hum like a chorus chanting slowly, crit vs. evil causes burst of radiance that damages and blinds (save negates)
 - Tiny flames constantly flicker on surface, red-tinted weapon, grip inlaid with amber in a flamelike design, good at damaging water creatures, temporary negative levels to water creatures
 - Reinforced with cold iron, set with chunks of obsidian, when a creature is struck, their ability to cast spells/activate abilities is impeded for 1d6 rounds, need to pass a check to do it
-- Lustrous purple sheen to weaopn, wound bleeds profusely, creature takes 2 additional damage for next 5 rounds.
+- Lustrous purple sheen to weapon, wound bleeds profusely, creature takes 2 additional damage for next 5 rounds.
+- Simple design, misty gray, can hit ghosts, removes some incorporeal benefits
+- Broader and thicker than typical, ram's head with curling horns, drive opponent back, activate to push back enemies on hit
+- Golden sheen, fills you with confidence, luck bonus, 1x day reroll failed attacks
+- Surface inscribed with runes, pommel has 3 diamonds, bonus vs magic using enemies, extra damage
+- Twisted grip, spikes along it, critical hits deal extra damage
+- Radiates inner power, princely weapon settles and clarifies your thoughts, draw power points from weapon (mana)
+- Color and texture shift constantly, can change composition to desired material
+- Heavier than normal, inscribed with message, grants a bonus to certain attacks
+- Red-tinted, draws light and feeling, sense its hunger, targets lose power points on hits (mana)
+- Flat, rough, slate-gray crystal, seems to absorb your thoughts, on hit, gain temporary power (mana)
+- Appears unusually straight, smoothly polished aventurine, glows with its own energy, wave of green energy on critical hits, paralyzes enemies
+- Detailed engravings on this shiny weapon appear to spin and jump about, when grasped it twiches and bucks, lets you see an instant into the future, makes you good at dodging
+- White, honeycomb substance, stores powers (spells?) releases them on hit
+- Hilt set with faceted diamond, very precise weapon, no risk of hitting allies in combat
+- Set with a ruby, opal, topaz, emerald, sapphire, and an amethyst, multicolored light on hits, prismatic spray of different effects
+- Black iron, decorated with silver skull, glowing runic phrases, drains your constitution but does great damage, explodes with negative energy on critical hits
+- Inner glow of varying brightness, has more bonus the more power (mana) you have in reserve
+- Silvery-white weapon, smooth sheen, difficult to grip, deals extra psionic damage on hit
+- Volleys of soaring bolts engraved, can be loaded really fast
+- Sea of flames flickers on the weapon, cool to the touch, when opponents are struck, they're outlined in flame so you can see them well
+- Weapon is pierced with tiny holes, produce a whistling sound, vibrates when activated, on hit it emits a shriek that deals extra sound damage, negated in area of silence, critical hit means a sonic blast
+-
