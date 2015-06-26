@@ -1,6 +1,9 @@
 # Concepts
+- Steampunk? Not-very-historical steampunk? WW1-era steampunk?
 - As much stuff as possible should be on card mechanics instead of in the
   (especially creature cards)
+- Races & Classes?
+- Religion?
 - Levels?
   - level drain, negative levels
   - important to make you relate to your squad and be invested in them
@@ -14,17 +17,21 @@
 - Illusions, mind-affecting spells
 - Anti-magic
 - Savings Throws
+- Spell Resistance
 - Item backstories
 - Berserker rage type state
 - Gem-based magic system
   - e.g. acid gem, cold gem
-  - ruby, opal, topaz, emerald, sapphire, amethyst, diamond
+  - ruby, opal, topaz, emerald, sapphire, amethyst, diamond, jet
 - Money, Equipment costs
+- Item weight
 - Temporary mana
+- Intelligent weapons
 - Missed shots, shots hit allies by accident, risk of hitting allies in close combat
 - Tracking enemies
 - Mounts, riding horses, riding dragons
 - Searching, Spotting
+- Weapon bonuses
 - Silence spells negate some stuff
 - Attack types:
   Gaze, Breath, Claw, Bite
@@ -71,8 +78,7 @@
 - Breaking enemy weapons
   * rust effect
 - Stealing enemy weapons
-- Disarm enemy, Shield bash
-- Trip enemy
+- Disarm enemy, Shield bash, steal enemy's weapon during combat (not all enemies have weapons)
 - Surprise round, flatfooted
 - Changing weapons
 - Flying

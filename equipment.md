@@ -52,7 +52,9 @@
 - Made up of smooth overlapping strips, can change size freely
 - Etched to look like a tree, arms are boughs, can step into a tree and exit from another
 
+
 ## Specific Armor & Shields
+
 
 - Riot of red, yellow, and orange leaves, durable as steel, once per day you can cause the leaves to scatter and you to disappear, becoming a gaseous form
 - Set with numerous polished green stones in concentric rings, can transform into a wall of force
@@ -64,7 +66,9 @@
 - Hide of a single gfox, patches of red fur, really good at stealth, get intelligence bonus, hard to track
 - Shaped and fitted sections of sewn-togetehr ghoul flesh, make "ghoul touch" attacks
 
+
 ## Weapon Properties
+
 
 - Surface of weaopn is pitted and worn. Corrosive, showers opponent with acid on hit
 - Water drips from weaopn, grip is inlaid with mother of pearl, overcomes damage reduction of fire-type creatures, deals extra damage to them
@@ -125,4 +129,27 @@
 - Volleys of soaring bolts engraved, can be loaded really fast
 - Sea of flames flickers on the weapon, cool to the touch, when opponents are struck, they're outlined in flame so you can see them well
 - Weapon is pierced with tiny holes, produce a whistling sound, vibrates when activated, on hit it emits a shriek that deals extra sound damage, negated in area of silence, critical hit means a sonic blast
--
+- Translucent, writhing energy, blue sparks raging within, damages foe's spell resistance on hit for a turn
+- Image of a snail worked into grip, cold to the touch, critical hits "slow" enemies
+- Barely perceptible shadow in the shape of a humanoid face seems to flicker, on critical hits against living creatures, gain 5 temporary HP and +2 to damage
+- Image of a great helm, transfer weapon's bonus into save against spells
+- Surface covered with jagged lines, loud noise on hit, target gets stunned on critical hit
+- Broad and heavy, rough but solid, on hit, surge of magical energy stuns enemies
+- Black crystal seems to absorb light around this weapon, bestows negative levels 3x per day
+- Decorated with sculpted fists, denser than normal, good at destroying enemy's weapon
+- Odd-looking, sharp and blunt sections, pommel is set with diamond, jet, sapphire, and ruby, on hit, transforms into the best weapon to overcome enemy damage reduction
+- Gaping maw with elongated incisors, fans shimmer wetly. Deals extra damage and you heal that much
+- Grip is trasparent, grip set with white diamonds, on hit, you can teleport to any spot within 60 feet
+- carved snake coils around the weapon, activate to coat in poison
+- Macabre ornamentation, stretched bits of leather, on critical hit, target takes -4 to strength for 10 minutes
+
+
+## Specific Weapons
+
+- long arrow, alternating bands of red, yellow, and black, arrow head is a fang of a gigantic snake, injects targets with poison on hit
+- Seems like a tangled, long-leafed vine, one end knotted into a handle, 2x day hit causes vines to attack, damage, and entangle target
+- Holy symbol of moradin, intelligent, if it likes you, can talk to you, can bless, heal, haste
+- Front fitted with a pair of curved blades, can wield gun like a sword
+- Red and orange flames lick the length, haft wrapped in strips of red scaled leather, can command it to project a cone of searing flames from its tip
+- Elegant, carved of rowan, inlaid with silver tracery, with proper connection, get frost and drow bane weapon properties
+- Spiked, thick metal bands, interspersed with long, sharp dagger points, if you have the proper divine connection, take control of enemy
