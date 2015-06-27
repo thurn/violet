@@ -153,3 +153,36 @@
 - Red and orange flames lick the length, haft wrapped in strips of red scaled leather, can command it to project a cone of searing flames from its tip
 - Elegant, carved of rowan, inlaid with silver tracery, with proper connection, get frost and drow bane weapon properties
 - Spiked, thick metal bands, interspersed with long, sharp dagger points, if you have the proper divine connection, take control of enemy
+- Crowned with five dragon heads, black, bllue, green, red, white, jaws parted. Proper connection, can wall of ice, insect plague, dominate person, find the path, or veil
+- Heavy, flanged iron head, thick wooden shaft, intricately carved metal, stern, bearded face, divine connection, intelligent weapon, heals you, extra retribution damage, judges enemies and intimidates them
+- Ornate, light, almost fragile, stylized porcelain, blade is long and thing, tiny rapier, good at resisting fear
+- Black blade, wavy blade, hit set with fool's gold, divine connection, betrays unworthy wielders, intelligent weapon, detect magic, dispel magic
+- spiked adamantine head, knob of metal bonded to end, junctures are decorated with cabochon-cut rubies, divine connection, explodes if destroyed, brilliant energy property
+- wrought iron, blackened ritual runes of death, draws life energy from targets, when killed, activate for temporary HP and damage bonus
+- enormous, thick patches of rusted metal, bracing spiked stone weight, gnarled head, activate for a good attack against dwarves or constructs
+- Leather, blackened by fire, when you hit, stone explodes, dealing fire damage, engulfed in flame
+- Thousands of black chain links, pitted, battle-worn spikes, protected from heat metal, activate for extra damage, knock target prone, stun target
+- Redwood, acrid smell, damp to the touch, hit target area, create a geyser of spewing acid, acid burst each round on your turn
+- Head of massive weapon is made from living rock, on critical hit, surface of the ground attempts to hold target in place, can't move more than 5 feet, gets an AC penalty
+- Gossamer-thin net, iridescent sheen, when you hit ghosts, they start taking damage like normal creatures, entangles-
+- Metal ends of hooked hammer glow with reddish huge, haft is deorated with iron bosses and uncut gemstones, divine connection, ends are flaming, deals fire damage to goblins who try to grasp it, flaming blasts on hit
+- Strips of camel skin, a ribbon of cohesive sand, activate to make leather bindings enwrap target, takes damage, plants or water take more damage
+- Wicked-looking, razor-sharp barbs, writhes with a life of its own, coils around target on attack, easier to trip them
+- Wavy blade, oversized hilt adorned with six spikes, activate to shoot spikes at enemies, damages enemies, they regenerate at dawn each day
+- Seamless piece of shining black metal, has charges, 1 charge returning, 2 charges flaming, 3 charges both and explodes
+- Austere, glows with an eerie blue light, form feels unstable, divine connection, mutates between different weapon properties each round: vicious, flaming burst, wounding
+- Tip tapers to needlelike point, touch an object of force, disintegrate it
+- Ring of snapped arrows etched at one end, ring of broken skulls at other, can deflect ranged attacks, speed weapon property, extra damage + prone and stunned on hit
+- Hilt set with three moonstones, inscription says caution is for the cowardly, good if you're neutral, divine connection, gets keen when you're damaged, gets speed when you're damaged
+- Curved blade, hand guard of delicate golden filigree, finds hidden enemies, ghost touch, ignores miss chances from concealment, invisibility, etc
+- carved from a straight piece of ash, fletched with predatory bird feathers, head is curved like a raptor's beak, harnesses power of the falcon, comes back after firing, divine connection gives bane property
+- long as a quarterstaff, single length of arrow-straight ash, ends are shod in gold and silver bands. non-evil can activate, trigger a holy smite on target, summon avoral guardinal
+- iron-shod oaken rod, blackened and weathered, sturdy, inflicts light wounds on hit, better on negative planes
+- ornate head, fashioned of gold filigree, mounted on thick copper shaft, bonus to save vs. charm and compulsion, deal nonleath damage without penalty, dispel charm and compulsion in others
+- Resembles a spider leg, complete with segmentations and coarse black hairs, with divine connection, activate to poison enemies, drain strength on critical hit
+- Tightly wrapped and knotted strands of black leather, solid grip, looks incomplete, grows magic tendril of force, can strike incorporeal
+- edge seem to fade and twitch, difficult to look at directly, surrounded with blur of motion, activate for a blink spell while you're holding it
+- Black leather lashes, covered in lengths of rusted wire, bits of broken red glass, tiny fangs, causes agonizing pain, target takes -4 on attack rolls and saves for a few rounds
+- shaft slightly curved, base shod with metal arrow point, divine connection, bonus against enemies that hurt you last round,
+- ornate bone head, resembles open-mouthed screaming skull, set with long spikes, base has metal tip shaped like skull, divine intelligence, good when enemies charge you
+- pocked and notched yellowed bone, dagger pommel with blade missing, ghostly light coalesces into existence when you grasp it, bypasses armor, targets affected by a chill touch spell

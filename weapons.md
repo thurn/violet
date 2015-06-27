@@ -1,3 +1,6 @@
+# Steampunk
+- http://arcanum.wikia.com/wiki/Firearms
+
 # Weapon Classes
 
 ## Pistol

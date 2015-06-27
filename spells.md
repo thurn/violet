@@ -1,9 +1,14 @@
 # Concepts
 - Steampunk? Not-very-historical steampunk? WW1-era steampunk?
+- High level structural stuff. Per encounter? Per day? When do you update your deck and equipment?
+- Dice rolling: bag random? normally distributed? fair deck shuffling?
 - As much stuff as possible should be on card mechanics instead of in the
   (especially creature cards)
 - Races & Classes?
+- Don't design all of one category at once, do a few spells, a few weapons, a few monsters, etc
+- "Defense" against attacks (miss chance)
 - Religion?
+- Alignment?
 - Levels?
   - level drain, negative levels
   - important to make you relate to your squad and be invested in them
@@ -17,25 +22,28 @@
 - Illusions, mind-affecting spells
 - Anti-magic
 - Savings Throws
+- Draw weapons, switch weapons, important to make weapons cooler that you can use multiple
 - Spell Resistance
 - Item backstories
 - Berserker rage type state
 - Gem-based magic system
   - e.g. acid gem, cold gem
   - ruby, opal, topaz, emerald, sapphire, amethyst, diamond, jet
+  - at least associate gems with different spell types
 - Money, Equipment costs
 - Item weight
 - Temporary mana
 - Intelligent weapons
 - Missed shots, shots hit allies by accident, risk of hitting allies in close combat
 - Tracking enemies
+- Divine connection to weapons
 - Mounts, riding horses, riding dragons
 - Searching, Spotting
 - Weapon bonuses
 - Silence spells negate some stuff
 - Attack types:
   Gaze, Breath, Claw, Bite
-- Things which impede normal movement
+- Entangle, Things which impede normal movement, Escape Artist checks
 - Temporary hit points
 - Falling, Swimming, Climbing, Acrobatics, Grappling, Bull Rush, Jumping, Grasping attacks
 - Traps
@@ -69,7 +77,6 @@
 - Bull rush, charge
 - Potions?
 - Effects on enemy proximity, e.g. glow when they're close
-- Draw weapons
 - Feint
 - Scrolls?
 - Ability score damage, types of damage
@@ -92,7 +99,7 @@
 - Teleportation
 - Resurrection
 - Magical tatoos
-- Dispell magic
+- Dispel magic, counter spells, detect magic
 - Critical hits, special magical effects on critical hits/good rolls
   - Maybe no explicit critical hits, but weapons having random bonus effects on
     good rolls could be a common mechanic
@@ -112,6 +119,7 @@
 - Damaging enemy weapons
 - Tumbling and dodging
 - Disarming enemies
+- Turn/rebuke undead
 - Special materials:
   * adamatine, darkwood, dragonhide, mithral
   * adamatine, cold iron, alchemical silver
