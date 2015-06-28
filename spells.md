@@ -1,6 +1,6 @@
 # Concepts
 - Steampunk? Not-very-historical steampunk? WW1-era steampunk?
-- High level structural stuff. Per encounter? Per day? When do you update your deck and equipment?
+- High level structural stuff. Per encounter? Per day? When do you update your deck and equipment? When does mana reset?
 - Dice rolling: bag random? normally distributed? fair deck shuffling?
 - As much stuff as possible should be on card mechanics instead of in the
   (especially creature cards)
@@ -8,7 +8,7 @@
 - Don't design all of one category at once, do a few spells, a few weapons, a few monsters, etc
 - "Defense" against attacks (miss chance)
 - Religion?
-- Alignment?
+- Alignment? Good-aligned attacks
 - Levels?
   - level drain, negative levels
   - important to make you relate to your squad and be invested in them
@@ -19,13 +19,17 @@
   - Health, Movement Speed, Aim, Willpower
   - Might, Knowledge, Willpower, Awareness
   - AGILITY, CONSTITUTION, WILLPOWER
+- Aid another, aid on check
+- Ability score damage
 - Illusions, mind-affecting spells
 - Anti-magic
 - Savings Throws
+- Body slots
 - Draw weapons, switch weapons, important to make weapons cooler that you can use multiple
 - Spell Resistance
 - Item backstories
 - Berserker rage type state
+- Weapon customization, crafting, add different attributes, augment crystals
 - Gem-based magic system
   - e.g. acid gem, cold gem
   - ruby, opal, topaz, emerald, sapphire, amethyst, diamond, jet
@@ -34,6 +38,7 @@
 - Item weight
 - Temporary mana
 - Intelligent weapons
+- Flanking
 - Missed shots, shots hit allies by accident, risk of hitting allies in close combat
 - Tracking enemies
 - Divine connection to weapons
@@ -62,6 +67,7 @@
   - Damage reduction
   - Damage "absorption"
   - fire -> fire, water -> cold, air -> electricity, earth -> acid
+- Bluff, diplomacy, sense motive, intimidate
 - Abilities: Breath weapon
 - Conditions: Fear, Blinded, Stunned, Entangled, Prone, Nauseated, Intoxicated, Infected, Dazed
   Sleep, Paralysis, Slow, Pinned, On Fire, Charmed, Frozen, Deafened, Shaken, Dazzled, Fatigued,
@@ -79,7 +85,6 @@
 - Effects on enemy proximity, e.g. glow when they're close
 - Feint
 - Scrolls?
-- Ability score damage, types of damage
 - Darkness, Light sources, torches, darkvision
 - Breaking objects, e.g. doors
 - Breaking enemy weapons
@@ -96,7 +101,7 @@
 - Skills: Balancing, Climbing, Hiding
 - Savings Throws: Will, Fortitude, Reflex
 - Size categories
-- Teleportation
+- Teleportation, teleportation errors
 - Resurrection
 - Magical tatoos
 - Dispel magic, counter spells, detect magic
@@ -126,7 +131,6 @@
   * special interactions, like silver hurts vampires
   * overcome damage reduction of certain creatures
 - Augment crystals
-- Weapon customization, crafting, add different attributes
 - Items have *hardness* and *hitpoints*
 - Armor grants HP bonus
 - Damage type immunities/reductions

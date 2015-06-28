@@ -186,3 +186,48 @@
 - shaft slightly curved, base shod with metal arrow point, divine connection, bonus against enemies that hurt you last round,
 - ornate bone head, resembles open-mouthed screaming skull, set with long spikes, base has metal tip shaped like skull, divine intelligence, good when enemies charge you
 - pocked and notched yellowed bone, dagger pommel with blade missing, ghostly light coalesces into existence when you grasp it, bypasses armor, targets affected by a chill touch spell
+- Grotesque design, seemingly organic, seems to be made from sharpened chitin, sinister weblike patterns, occasionally twitches and jerks of its own accord, cuts through webs effectively, create a curtain of cobwebs
+- curved blade, other side tapers to a chisel point pick, haft looks like it's cracked granite, nondwarf gets regular axe, dwarf wielder givees it the bane property against earth elementals
+- stitched with tiny images of bull's heads, activate so that next target gets stunned
+- golden filigree, hilt has a large ruby, blade inscription says "size is not strength", divine connection, immune to fear of dragons, good at dodging dragon's breath
+- blade is set with cabochon-cut rubies, pommel sports a ruby-centered golden gun, grants respite from charms and compulsions, divine connection, immune to charm/compulsin for a few rounds
+- Limbs appear to be made of sharpened metal, as if crafted from swords, longbow that turns into a sword at will
+- Three long, russet-colored tentacles sprout from the end, tentacles attack target, slows enemies
+- almost delicate, fint points on curving prongs, silver and pearl inlays form lazy swirls, calms mind and helps you concentrate
+- hilt snaped like a snake, twisted blade like an impossibly long tongue, secrets toxic venom, spend charge to poison, dealing constitution damage
+- sturdy ebony, surmounted by a carving of a demonic, horned skull, spend a charge on an eldritch blas
+- Like a tube of water, tapering along length of icicle sharpness, handle is crafted from a pale blue crystal shard, you are hard to disarm, can be flaming or frost
+- complex strands of spider webs, woven together, tiny multilegged black shapes skitter up and down its length, hiding amid its countless knots, wrap target in leathery filaments, target is entangled for 3 rounds
+
+## Weapon Augment Crystals
+
+- small diamond orb, sphere of steel in center, improves hardness of weapon
+- needlelike iron deposits pulse with arcane energy, bonus on damage roll when delivering spell-like abilities through weapon
+- crystal contains incandescent green fluid, makes weapon give acid damage. crystal covered in a faint layer of condensation, crystal radiates chilling waves of energy, makes weapon give cold damage. brilliant blue crystal, sparks and snaps with electrical discharge, makes weapon give electricity damage. firey red cystal appears to burn, gives weapon fire damage.
+- faceted yellow crystal, glows as if a small spark within, causes weeapon to glow
+- transparent black crystal, faint sickly glow, heals a bit when you deal damage
+- blue-white diamond bears a tiny adamantine emblem of a hammer, bonus when fighting constructs
+- perfect crystal sphere, emits a faint white glow, extra damage vs evil outsiders, prevents evil outsiders from teleporting
+- alternating fire opals and jacinths, glittering chain of gemstones, leaves smoldering embers after every strike, deal fire damage every round
+- tiger's-eye gem, looks like eye of a cat, gaze seems to dart about, when you damage invisible creature it surrounds it in a glowing aura, suppreses concealment
+- amethyst carved like a humanoid skull, extra damage vs. undead, ghost touch, can sneak attack undead
+- inscribed with arcane sigils, rattles like soft thunder, hols magical power, expose it to different substances to change behavior: sunlight->fire damage, moonlight->electricity, blood->extra damage, wine->-2 penalty on will
+
+
+## Clothing
+
+- boots. multiple brass buckles run from ankle to top of calf, crafted black leather, good at tumbling, spend charges for speed bonus
+- amulet, irregularly shaped natural amber, fastened with golden chain, tiny creature seems to twitch, transforms you into a giant vermin
+- amulet. crimson-tinted metal amulet, rimmed with dozens of copper pyramids, hums cheerfully when grasped, activate for an area of telepathic noise, will save to use psychic powers
+- amulet. globe-shaped citrine amulet, bisected by a sturdy silver chain, activate for instantaneous aid to an injured ally, heal within 30 feet
+- amulet. delicate gold amulet, suspended from a fine gold chain, set with three adventurines, activate to reroll a save
+- amulet. silver necklace, set with a brilliant blue stone, immune to draining your incarnum
+- amulet. platinum amulet, seven red garnets, projects you from having body composition changed, prevent others from polymorphing you
+- amulet. strand of ceramic beads painted with sedate earth tones, when you heal others you heal in kind
+- amulet. tiny, golden hourglass, thin mithral chain, reverse all the events of your current turn
+- amulet. silver chain in the form of a pair of linked hands, aid another action gives bonus
+- amulet. glossy silver chain, spiral of pearl teardrops, colorless crystal sphere, charges renewed each day at dawn, temporary hit points from charges
+- amulet. transparent crystal, several drops of viscous green fluid, delay poison on your self
+- helmet. winged mithral helm, shines like a priceless heirloom, good-aligned attacks, cure wounds, dispel evil, resist energy
+- amulet. crudely carved from splintering wood and dangling from frayed twine, looks brittle and ancient, sacrifice a spell, next spells get better
+- boots. ankle-band, pewter chime hangs from the band, lets you make short dimensional hops, teleport 10 feet
