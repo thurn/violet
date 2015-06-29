@@ -5,6 +5,7 @@
 - As much stuff as possible should be on card mechanics instead of in the
   (especially creature cards)
 - Races & Classes?
+- Inventory. Bag of holding. What if you just switch bracers all the time as their charges run out?
 - Don't design all of one category at once, do a few spells, a few weapons, a few monsters, etc
 - "Defense" against attacks (miss chance)
 - Religion?
@@ -39,18 +40,20 @@
 - Temporary mana
 - Intelligent weapons
 - Flanking
+- Identifying items
 - Missed shots, shots hit allies by accident, risk of hitting allies in close combat
 - Tracking enemies
 - Divine connection to weapons
 - Mounts, riding horses, riding dragons
 - Searching, Spotting
+- Spell types, e.g. teleportation spells, healing spells
 - Weapon bonuses
 - Silence spells negate some stuff
 - Attack types:
   Gaze, Breath, Claw, Bite
 - Entangle, Things which impede normal movement, Escape Artist checks
 - Temporary hit points
-- Falling, Swimming, Climbing, Acrobatics, Grappling, Bull Rush, Jumping, Grasping attacks
+- Falling, Swimming, Climbing, Acrobatics, Grappling, Bull Rush, Jumping, Grasping attacks, Balance, Tumbling
 - Traps
 - Flying, falling damage
 - Alternate senses: scent, tremorsense, awesome hearing, etc
@@ -58,15 +61,27 @@
 - Stealth, Sneak Attacks
 - Noise attracting attention
 - Touch attacks, Ranged Touch Attacks
-- Mana cost determines opposed effects, e.g. water vs. fire
 - Dying, unconscious, bleeding out
 - Unarmed attacks, improvised attacks, throwing stuff
 - Invisible, Inaudible, Fighting invisible enemies, Blindsight
 - Damage types: Fire, acid, electric, cold, sonic
   - Piercing, bludgeoning, slashing
   - Damage reduction
+  - Bonus damage
   - Damage "absorption"
   - fire -> fire, water -> cold, air -> electricity, earth -> acid
+- Magical interactions: rain puts out fire
+  * Mana cost determines opposed effects, e.g. water vs. fire? Or distance from caster maybe?
+  * Object/Tile Effects: On Fire, Ice-covered, Movable, In Darkness, Broken, Destroyed
+    Waterlogged, water electrified, acid, snow-covered, oil-covered, metallic, wooden, living,
+    wind, silence, web-covered, dessicated (water drained), raining, raining acid, bright light,
+    antimagic, smoke, black flames, mist/fog, spikes, cold, loud noise, blocked with rocks,
+    volcanic eruption, aura of fear, magical walls (force, clear glass, etc), glyph which has
+    area effects, silver glow, rain of rocks, hail, zone of warding, sweet/scary melody, red fire
+    which outlines creatures, heat drain area, hole in ground, mind defense, black hole, red
+    seawater, no-attacks area, sand blast, covered in slime, vines burst out, make everything
+    invisible visible
+  * Stacking and opposition of interactions: 2 wind effects?
 - Bluff, diplomacy, sense motive, intimidate
 - Abilities: Breath weapon
 - Conditions: Fear, Blinded, Stunned, Entangled, Prone, Nauseated, Intoxicated, Infected, Dazed
@@ -94,7 +109,7 @@
 - Surprise round, flatfooted
 - Changing weapons
 - Flying
-- Creature size
+- Creature size, change character size
 - Charging Enemies, Tripping Enemies
 - Resting, sleeping, sleeping in armor/with weapons
 - Alignment: Lawful enemies, evil enemies, chaotic enemies
@@ -113,14 +128,11 @@
 - Creatue types: colors, big categories are better, constructs
 - Range categories: personal, touch, close, medium, long
 - Things that scale with "caster level"
-- Magical interactions: rain puts out fire
 - Always have a "coarse category" (~4 things) and a "fine category" (~30 things).
   - creature types
   - spell types
   - damage types
   - types have vulnerabilities, e.g. cold is vulnerable to fire
-- Object/Tile Properties: On Fire, Ice-covered, Movable, In Darkness, Broken, Destroyed
-    Waterlogged, electrified, acidic, snow-covered, oil-covered, metallic, wooden, living
 - Damaging enemy weapons
 - Tumbling and dodging
 - Disarming enemies

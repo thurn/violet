@@ -211,7 +211,7 @@
 - alternating fire opals and jacinths, glittering chain of gemstones, leaves smoldering embers after every strike, deal fire damage every round
 - tiger's-eye gem, looks like eye of a cat, gaze seems to dart about, when you damage invisible creature it surrounds it in a glowing aura, suppreses concealment
 - amethyst carved like a humanoid skull, extra damage vs. undead, ghost touch, can sneak attack undead
-- inscribed with arcane sigils, rattles like soft thunder, hols magical power, expose it to different substances to change behavior: sunlight->fire damage, moonlight->electricity, blood->extra damage, wine->-2 penalty on will
+- inscribed with arcane sigils, rattles like soft thunder, holds magical power, expose it to different substances to change behavior: sunlight->fire damage, moonlight->electricity, blood->extra damage, wine->-2 penalty on will
 
 
 ## Clothing
@@ -231,3 +231,44 @@
 - helmet. winged mithral helm, shines like a priceless heirloom, good-aligned attacks, cure wounds, dispel evil, resist energy
 - amulet. crudely carved from splintering wood and dangling from frayed twine, looks brittle and ancient, sacrifice a spell, next spells get better
 - boots. ankle-band, pewter chime hangs from the band, lets you make short dimensional hops, teleport 10 feet
+- gloves. Sleek blue gloves, tiny golden stars across the knuckles, activate to improve next spell
+- armband. Solid gold, polished to a bright shine. Activate to avoid provoking an attack of opportunity.
+- armband. numerous small diamonds adorn this silver armband like tiny constellations. Activate to maximize your next healing spell
+- armbands. bronze, engraved with images of bull's horns. +2 to strength when worn.
+- monocle. glass lens rimmed with gold, has a fine gold chain attached to an ear clip, detect magiacal auras, identify items
+- Brooch, little more than a hunk of gray rock, studded with colorful uncut gems, wrapped in tarnished metal wire, gain darkvision, good at hiding, activate for blur effect
+- Helmet. Large, wrapped in hide of bear's head, metal teeth worked into visor, while raging, sneak attacks and crits against you do less damage.
+- Crown. Metal stalks sprout from grotesque bronze crown. At the tip of each stalk is a different gem, gazing like a glistening eye, can shoot rays, burns out the gem, charm, sleep, fear, wound, slow
+- Belt. Leather, platinum buckle set with three small black pearls. Helps you avoid being caught off guard, good initiative, charges can be spent on extra actions
+- Belt. Thick golden links, each set with a cabochon-cut semiprecious stone. Large, oval buckle is embossed with the closed fist of Kord. Get strength, divine connecitonn, big strength check bonus and saves vs fear
+- Belt. Thick brass, riddled with bracks, bends as though stretched out of shape, instantly enlarge wearer in size. Lasts for 10 minutes
+- Belt. Wide leather, set with a single blood-red carbuncle. Activate to grant extra damage on your next attack.
+- Belt. Prominent, yet worn, holy symbol, threadbare cloth sash. If you follow the right god, you get armor and strength bonus, otherwise a negative level.
+- Belt. Supple browth leather, silver buckle engraved with tiny magical runes, makes you good at stealing spells, heal when you do it.
+- Eyepatch. Black leather, blood-red pentagram. Activate, attacks against elves and plants are good.
+- Blindfold. Black, silky bloth, opaque when help up to the light. You get sweet blindsight powers and cannot be gaze attacked.
+- Helmet. Face is a solid slab of iron, apparently no way to see out, actually gives you blindsight and gaze resistance.
+- Shirt. Golden lightning bolts are embroidered along the sleeves, sturdy tunic of blue linin, can teleport to anywhere you can see within 60 feet, trail of crackling sparks traces the path
+- Ring. Seemingly fragile, nearly weightless, appears to be a single long finger bone, bleached white and somehow bent into a circle, protected from energy drain and ability drain, preventions drain charges.
+- Boots. Wolfhide, secured with leather thongs, wrap twice around the ankle, exceptionally soft fur, has a faint sheen, makes boots appear to shimmer, makes you really good at teleportation spells, can also teleport 60 feet
+- Boots. Soft-soled, look comfortable and quiet. Activate when you're below half life. Big bonus to speed and dodge.
+- Boots. Iron shod, red leather, rugged and worn, move easily over difficult terrain, ignore movement difficulties, can stoneskin
+- Boots. Soft leather, adorned with a copper chain around the ankle, let you make 5-foot movement even if you already moved
+- Boots. Thick metal soles, dirt-brown boots, brassy metal bands run from sides to tops. When you stomp your feet, generate psychokinetic blast, toppling creatures knocking them prone
+- Boots. Comfortable high boots, deep red leather, brilliant copper-colored leather soles. Activate to teleport 20 feet in any direction, Must have line of sight.
+- Boots. Dark leather, small image of a sundial on each side, pulse slightly once every second. Speed up so that everybody else seems frozen, can't enter magic-protected area, still can be damaged by environment
+- Boots. Servicable black leather, always seem to bear the dust of the road, can't be cleaned, give you a movement speed bonus, divine connection makes you immune to fatigue and exhaustion
+- Bracers. Bronze, engraved with an open eye. Charges let you ignore cover and concealment.
+- Bracers. Silver and red, set with round, jet-black stones. Activate to turn a spell into a wall of magical energy. Opaque 10 foot wide wall, damages creatures with the spell's damage if they pass through it.
+- Bracers. Leather, set with brass studs, lens and dial contraption. Emit light. Shoot searing light at a target.
+- Bracers. Jet black, set with an oval of tiny, ruby-red stones. Turn a spell that deals damage into an entangling effect in addition to its normal powers but reduce its damage.
+- Bracers. Thick, platinum armbands etched with a pattern of crossed hammers. Activate when you crit with a bludgeoning weapon for extra damage.
+- Bracers. Matching leather wristbands, light but strong. Get better at attacks of opportunity, extra one per round.
+- Bracers. Mithral, image of a needle-sharp dagger. Make one extra attack with a weapon when activated.
+- Bracers. Steel, oval of smoky quartz, carved with image of an upraised hand. Produce a wave of force which pushes back enemies. When you activate, enemies get pushed back 5 feet unless they're huge or larger.
+- Bracers. Hard leather armguards, sturdy, yet flexible. Armor bonus, activate and sacrifice a spell to daze opponents that damage you.
+- Bracers. Silver plates that can be attached to forearms by ornate leather straps. Etching on their surface echoes the swirls within the crystal shards above the wrists. Create giant winds that make ranged attacks likely to miss.
+- Amulet. Brooch, features square, pale green crystal in a plain gold setting. Better at dodging attacks of opportunity.
+- Amulet. Brooch, runed silver, signs of considerable use. When hit points go to -1, you automatically become stable.
+- Bracers. Gauntlets, heavy black leather, set with metal studs. Temporarily increase your strength bonus.
+- Ring. Silver, sapphire carved like a crude fist. Push another creature away with pure force. Activate to knock creature back/knock them prone.
