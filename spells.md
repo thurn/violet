@@ -27,7 +27,7 @@
 - Savings Throws
 - Body slots
 - Draw weapons, switch weapons, important to make weapons cooler that you can use multiple
-- Spell Resistance
+- Spell Resistance, damage type resistance, damage type immunity.
 - Item backstories
 - Berserker rage type state
 - Weapon customization, crafting, add different attributes, augment crystals
@@ -80,7 +80,7 @@
     area effects, silver glow, rain of rocks, hail, zone of warding, sweet/scary melody, red fire
     which outlines creatures, heat drain area, hole in ground, mind defense, black hole, red
     seawater, no-attacks area, sand blast, covered in slime, vines burst out, make everything
-    invisible visible
+    invisible visible. Extreme temperature: hot/cold. Sunny.
   * Stacking and opposition of interactions: 2 wind effects?
 - Bluff, diplomacy, sense motive, intimidate
 - Abilities: Breath weapon
@@ -91,7 +91,7 @@
 - Incorporeal, ethereal, undead, ghost touch
   - stuff like this should be keyword mechanics, like "Ghost"
 - Changing form into a gas
-- Fear:
+- Fear & Morale:
   - Frightened, Panicked, Shaken
 - Poison
 - Concentration, distracting enemies

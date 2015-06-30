@@ -216,39 +216,39 @@
 
 ## Clothing
 
-- boots. multiple brass buckles run from ankle to top of calf, crafted black leather, good at tumbling, spend charges for speed bonus
-- amulet, irregularly shaped natural amber, fastened with golden chain, tiny creature seems to twitch, transforms you into a giant vermin
-- amulet. crimson-tinted metal amulet, rimmed with dozens of copper pyramids, hums cheerfully when grasped, activate for an area of telepathic noise, will save to use psychic powers
-- amulet. globe-shaped citrine amulet, bisected by a sturdy silver chain, activate for instantaneous aid to an injured ally, heal within 30 feet
-- amulet. delicate gold amulet, suspended from a fine gold chain, set with three adventurines, activate to reroll a save
-- amulet. silver necklace, set with a brilliant blue stone, immune to draining your incarnum
-- amulet. platinum amulet, seven red garnets, projects you from having body composition changed, prevent others from polymorphing you
-- amulet. strand of ceramic beads painted with sedate earth tones, when you heal others you heal in kind
-- amulet. tiny, golden hourglass, thin mithral chain, reverse all the events of your current turn
-- amulet. silver chain in the form of a pair of linked hands, aid another action gives bonus
-- amulet. glossy silver chain, spiral of pearl teardrops, colorless crystal sphere, charges renewed each day at dawn, temporary hit points from charges
-- amulet. transparent crystal, several drops of viscous green fluid, delay poison on your self
-- helmet. winged mithral helm, shines like a priceless heirloom, good-aligned attacks, cure wounds, dispel evil, resist energy
-- amulet. crudely carved from splintering wood and dangling from frayed twine, looks brittle and ancient, sacrifice a spell, next spells get better
-- boots. ankle-band, pewter chime hangs from the band, lets you make short dimensional hops, teleport 10 feet
-- gloves. Sleek blue gloves, tiny golden stars across the knuckles, activate to improve next spell
-- armband. Solid gold, polished to a bright shine. Activate to avoid provoking an attack of opportunity.
-- armband. numerous small diamonds adorn this silver armband like tiny constellations. Activate to maximize your next healing spell
-- armbands. bronze, engraved with images of bull's horns. +2 to strength when worn.
-- monocle. glass lens rimmed with gold, has a fine gold chain attached to an ear clip, detect magiacal auras, identify items
+- Boots. multiple brass buckles run from ankle to top of calf, crafted black leather, good at tumbling, spend charges for speed bonus
+- Amulet, irregularly shaped natural amber, fastened with golden chain, tiny creature seems to twitch, transforms you into a giant vermin
+- Amulet. crimson-tinted metal amulet, rimmed with dozens of copper pyramids, hums cheerfully when grasped, activate for an area of telepathic noise, will save to use psychic powers
+- Amulet. globe-shaped citrine amulet, bisected by a sturdy silver chain, activate for instantaneous aid to an injured ally, heal within 30 feet
+- Amulet. delicate gold amulet, suspended from a fine gold chain, set with three adventurines, activate to reroll a save
+- Amulet. silver necklace, set with a brilliant blue stone, immune to draining your incarnum
+- Amulet. platinum amulet, seven red garnets, projects you from having body composition changed, prevent others from polymorphing you
+- Amulet. strand of ceramic beads painted with sedate earth tones, when you heal others you heal in kind
+- Amulet. tiny, golden hourglass, thin mithral chain, reverse all the events of your current turn
+- Amulet. silver chain in the form of a pair of linked hands, aid another action gives bonus
+- Amulet. glossy silver chain, spiral of pearl teardrops, colorless crystal sphere, charges renewed each day at dawn, temporary hit points from charges
+- Amulet. transparent crystal, several drops of viscous green fluid, delay poison on your self
+- Headware - Helmet. winged mithral helm, shines like a priceless heirloom, good-aligned attacks, cure wounds, dispel evil, resist energy
+- Amulet. crudely carved from splintering wood and dangling from frayed twine, looks brittle and ancient, sacrifice a spell, next spells get better
+- Boots. ankle-band, pewter chime hangs from the band, lets you make short dimensional hops, teleport 10 feet
+- Gauntlets - Gloves. Sleek blue gloves, tiny golden stars across the knuckles, activate to improve next spell
+- Armband. Solid gold, polished to a bright shine. Activate to avoid provoking an attack of opportunity.
+- Armband. numerous small diamonds adorn this silver armband like tiny constellations. Activate to maximize your next healing spell
+- Armbands. bronze, engraved with images of bull's horns. +2 to strength when worn.
+- Faceware - Monocle. glass lens rimmed with gold, has a fine gold chain attached to an ear clip, detect magiacal auras, identify items
 - Brooch, little more than a hunk of gray rock, studded with colorful uncut gems, wrapped in tarnished metal wire, gain darkvision, good at hiding, activate for blur effect
 - Helmet. Large, wrapped in hide of bear's head, metal teeth worked into visor, while raging, sneak attacks and crits against you do less damage.
-- Crown. Metal stalks sprout from grotesque bronze crown. At the tip of each stalk is a different gem, gazing like a glistening eye, can shoot rays, burns out the gem, charm, sleep, fear, wound, slow
+- Headware - Crown. Metal stalks sprout from grotesque bronze crown. At the tip of each stalk is a different gem, gazing like a glistening eye, can shoot rays, burns out the gem, charm, sleep, fear, wound, slow
 - Belt. Leather, platinum buckle set with three small black pearls. Helps you avoid being caught off guard, good initiative, charges can be spent on extra actions
 - Belt. Thick golden links, each set with a cabochon-cut semiprecious stone. Large, oval buckle is embossed with the closed fist of Kord. Get strength, divine connecitonn, big strength check bonus and saves vs fear
 - Belt. Thick brass, riddled with bracks, bends as though stretched out of shape, instantly enlarge wearer in size. Lasts for 10 minutes
 - Belt. Wide leather, set with a single blood-red carbuncle. Activate to grant extra damage on your next attack.
 - Belt. Prominent, yet worn, holy symbol, threadbare cloth sash. If you follow the right god, you get armor and strength bonus, otherwise a negative level.
 - Belt. Supple browth leather, silver buckle engraved with tiny magical runes, makes you good at stealing spells, heal when you do it.
-- Eyepatch. Black leather, blood-red pentagram. Activate, attacks against elves and plants are good.
-- Blindfold. Black, silky bloth, opaque when help up to the light. You get sweet blindsight powers and cannot be gaze attacked.
+- Faceware - Eyepatch. Black leather, blood-red pentagram. Activate, attacks against elves and plants are good.
+- Faceware - Blindfold. Black, silky bloth, opaque when help up to the light. You get sweet blindsight powers and cannot be gaze attacked.
 - Helmet. Face is a solid slab of iron, apparently no way to see out, actually gives you blindsight and gaze resistance.
-- Shirt. Golden lightning bolts are embroidered along the sleeves, sturdy tunic of blue linin, can teleport to anywhere you can see within 60 feet, trail of crackling sparks traces the path
+- Tunic - Shirt. Golden lightning bolts are embroidered along the sleeves, sturdy tunic of blue linin, can teleport to anywhere you can see within 60 feet, trail of crackling sparks traces the path
 - Ring. Seemingly fragile, nearly weightless, appears to be a single long finger bone, bleached white and somehow bent into a circle, protected from energy drain and ability drain, preventions drain charges.
 - Boots. Wolfhide, secured with leather thongs, wrap twice around the ankle, exceptionally soft fur, has a faint sheen, makes boots appear to shimmer, makes you really good at teleportation spells, can also teleport 60 feet
 - Boots. Soft-soled, look comfortable and quiet. Activate when you're below half life. Big bonus to speed and dodge.
@@ -272,3 +272,45 @@
 - Amulet. Brooch, runed silver, signs of considerable use. When hit points go to -1, you automatically become stable.
 - Bracers. Gauntlets, heavy black leather, set with metal studs. Temporarily increase your strength bonus.
 - Ring. Silver, sapphire carved like a crude fist. Push another creature away with pure force. Activate to knock creature back/knock them prone.
+- Bracers. Lightweight silver, depict a pair of intertwined snakes. Sacrifice healing power to do other types of healing, like ability damage or conditions.
+- Goggles. Light orange, round, translucent. Mounted within a flexible metal frame, soft leather strap, clasp at the back. Low light vision and darkvision, good at searching.
+- Cloak - Cape. Viridian cape, shot with threads of greenish metal. Allows you to transform into a poisonous serpent. Spend charges to transform you into a viper.
+- Amulet - Brooch. Silver brooch, green chrsoberyl at center, slitted with a black streak, like a cat's eye. Luck bonus on save, especially against disease.
+- Amulet. Small silver charm, lines of parallel musical notes. Interrupt a sonic attack with music.
+- Amulet. Long strip of scarlet cloth, embroidered with arcane sigils. Bonus to chaotic spells.
+- Amulet. Can attach various components slow your perception of time: good at dodging, good at reacting, move fast, spells fast, actions fast, etc
+- Headware. Leather circlet, silver headpiece, crescent moons, either side of a silver-pointed star. Good at concentration, retain spells.
+- Headware. Golden circlet, engraved with dozens of symbols. Cast spells fast.
+- Headware. Circlet made of delicate ivory threads, interwoven with silver bands covered in runes of healing. Next healing spell gives save bonus.
+- Cloak. Thousands of thin, silvery chain links, long cloak. Armor bonus, activate to make it into a quarterstaff or disarm attempt.
+- Cloak. White, embroidered with runes representing the five energy types in metallic thread. Gain resistance to energy type.
+- Cloak. Thousands of small quills, thick, high-collared leather, some really long ones. Lodge quills in enemies.
+- Cloak. Red-hued, made from scales, warm to the touch. Erupts into flame which dances over its surface. Fire damage to those who are near you
+- Cloak. Finely crafted, made of blue and purple material, matched blue quartz crystals as clasp. Save bonus, can invest essentia into it to increase the bonus.
+- Cloak. Mottled gray, like a thin sheet of stone. Good at hiding, can merge with stone.
+- Cloak. Brown, composed of long thorns. Natural armor bonus, creatures striking you take damage.
+- Faceware - Eyepatch. Leather strap, hardened leather, krenshar hide, menacing, activate to see invisibility and have blight fight abilities.
+- Bracers. Steel, image of stagged daggers in opposite directions, after enemy misses you, get a free attack against them.
+- Amulet. Engraved image of a paladin slaying a dragon. Spend charges to bolster allies against fear, aura of courage, morale bonus.
+- Leather, crafted from scaly red hide, resistance to fire, bonus to natural armor.
+- Bracers. Gold coils around arm from bicept to wrist like serpents. Tiny ruby set into each end. Trade arcane spells for protection. Discard a spell, gain damage reduction equal to twice the spell level.
+- Belt. Alternating links of green metal and ivory. When pinned, paralyzed, or dropped to -1 HP, cast a single 3rd level or lower spell.
+- Gauntlets. Stylized flames rendered in scarlet enamel, encircle the steel gauntlets. Spend charges for bonus damage on crit.
+- Boots. Sleek leather, lean slightly forward, as if poised to leap. Spend charges to teleport various distances.
+- Tunic - Cord. Long silk, tied with 5 knots. Wrapped around chest. Bonus to dispel checks 5 times.
+- Faceware - Mask. Glistening metals and brilliant paints, shape of a stylized dragon head, rays of shimering metal and class spread like a sunburst around face. Activate to see invisibility.
+- Gauntlets. Thick leather, studded with dragon teeth. Sunder enemy weapons.
+- Cloak. Long, flowing, sewn from chromatic dragon scales. Energy resistance of your type, sprout wings.
+- Amulet - Talisman. Eagle claw worked from adamantine. Silver chain. Strength check bonus, good at breaking items.
+- Amulet. Reddish crystal shard, inscribed with arcane symbols. Banded with mithral, hanging from small silver chain. Empowers a specific spell when you cast it.
+- Amulet. Circular, coin-shaped talisman, half flame red and half ice blue. Protects from extreme temperature. Charges spend to give you cold & fire resistance.
+- Amulet. Small collection of teeth, scales, hair. Worn leather bag, long strings. Keyed to a specific creature type, you get a bonus against that creature type.
+- Headware - Helmet. Flawless sapphire set on heavy steel, shining faintly, Maximizes the essentia investment of a soulmeld, temporarily adds essentia.
+- Headware - Hood. Black cloth, coarse fabric, eyeholes cut, rope noose at neck. Divine connection, good at killing enemies when they're prone/immobilized.
+- Faceware - Glasses. Two ovals of murky glass, rimmed with brass, linnked with a brass arch. When resting on your nose, the glass clears. Expand your vision, you're harder to flank.
+- Faceware - Glasses. Bluish energy plays about these silver-tinted lenses. Silver wires extend back to wrap around the ears. Drain power points from another creature.
+- Headware - Helmet. Horned, black adamantine, absorbs the light around it. Fiendish visage on faceplat, hellish orange light leaks from eyes, nose, and mouth. Evil-aligned wearer, dispel good, inflict wounds, resist energy.
+- Tunic. Eye-catching tunic shifts and moves like liquid flame. Crystal shard burns red in the middle, fused seamlessly with the cloth. Fire resistance. Activate for a fire shield.
+- Amulet - Pendant. Fragile, constructed from rose gold, shaped like a flower. Set with many tiny fire opals. Fire resistance, activate for fire immunity.
+- Amulet - Throat Piercing. Barbs protrude from a tiny iron ring. Activate on critical hit for extra damage.
+- Tunic - Vest. Simple, seems misshapen, but fits. Lets you briefly make your body amorphous to avoid a deadly strike.
