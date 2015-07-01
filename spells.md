@@ -19,7 +19,7 @@
   - Strength, Constitution, Dexterity, Wisdom, Intelligence, Charisma
   - Health, Movement Speed, Aim, Willpower
   - Might, Knowledge, Willpower, Awareness
-  - AGILITY, CONSTITUTION, WILLPOWER
+  - AGILITY, FORTITUDE, AWARENESS
 - Aid another, aid on check
 - Ability score damage
 - Illusions, mind-affecting spells
@@ -63,6 +63,7 @@
 - Touch attacks, Ranged Touch Attacks
 - Dying, unconscious, bleeding out
 - Unarmed attacks, improvised attacks, throwing stuff
+- Darkness, Light sources, torches, darkvision
 - Invisible, Inaudible, Fighting invisible enemies, Blindsight
 - Damage types: Fire, acid, electric, cold, sonic
   - Piercing, bludgeoning, slashing
@@ -81,6 +82,7 @@
     which outlines creatures, heat drain area, hole in ground, mind defense, black hole, red
     seawater, no-attacks area, sand blast, covered in slime, vines burst out, make everything
     invisible visible. Extreme temperature: hot/cold. Sunny.
+  * Interactions: electricity good against targets wearing metal
   * Stacking and opposition of interactions: 2 wind effects?
 - Bluff, diplomacy, sense motive, intimidate
 - Abilities: Breath weapon
@@ -100,7 +102,6 @@
 - Effects on enemy proximity, e.g. glow when they're close
 - Feint
 - Scrolls?
-- Darkness, Light sources, torches, darkvision
 - Breaking objects, e.g. doors
 - Breaking enemy weapons
   * rust effect
@@ -140,8 +141,11 @@
 - Special materials:
   * adamatine, darkwood, dragonhide, mithral
   * adamatine, cold iron, alchemical silver
-  * special interactions, like silver hurts vampires
   * overcome damage reduction of certain creatures
+- Creature interactions
+    * silver hurts vampires
+    * sun hurts vampires
+    * give creatures equipment to accentuate their strengths/mitigate their weaknesses
 - Augment crystals
 - Items have *hardness* and *hitpoints*
 - Armor grants HP bonus

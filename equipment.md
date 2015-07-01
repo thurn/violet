@@ -228,25 +228,25 @@
 - Amulet. silver chain in the form of a pair of linked hands, aid another action gives bonus
 - Amulet. glossy silver chain, spiral of pearl teardrops, colorless crystal sphere, charges renewed each day at dawn, temporary hit points from charges
 - Amulet. transparent crystal, several drops of viscous green fluid, delay poison on your self
-- Headware - Helmet. winged mithral helm, shines like a priceless heirloom, good-aligned attacks, cure wounds, dispel evil, resist energy
+- Headwear - Helmet. winged mithral helm, shines like a priceless heirloom, good-aligned attacks, cure wounds, dispel evil, resist energy
 - Amulet. crudely carved from splintering wood and dangling from frayed twine, looks brittle and ancient, sacrifice a spell, next spells get better
 - Boots. ankle-band, pewter chime hangs from the band, lets you make short dimensional hops, teleport 10 feet
 - Gauntlets - Gloves. Sleek blue gloves, tiny golden stars across the knuckles, activate to improve next spell
-- Armband. Solid gold, polished to a bright shine. Activate to avoid provoking an attack of opportunity.
-- Armband. numerous small diamonds adorn this silver armband like tiny constellations. Activate to maximize your next healing spell
-- Armbands. bronze, engraved with images of bull's horns. +2 to strength when worn.
-- Faceware - Monocle. glass lens rimmed with gold, has a fine gold chain attached to an ear clip, detect magiacal auras, identify items
+- Bracers - Armband. Solid gold, polished to a bright shine. Activate to avoid provoking an attack of opportunity.
+- Bracers - Armband. numerous small diamonds adorn this silver armband like tiny constellations. Activate to maximize your next healing spell
+- Bracers - Armbands. bronze, engraved with images of bull's horns. +2 to strength when worn.
+- Facewear - Monocle. glass lens rimmed with gold, has a fine gold chain attached to an ear clip, detect magiacal auras, identify items
 - Brooch, little more than a hunk of gray rock, studded with colorful uncut gems, wrapped in tarnished metal wire, gain darkvision, good at hiding, activate for blur effect
 - Helmet. Large, wrapped in hide of bear's head, metal teeth worked into visor, while raging, sneak attacks and crits against you do less damage.
-- Headware - Crown. Metal stalks sprout from grotesque bronze crown. At the tip of each stalk is a different gem, gazing like a glistening eye, can shoot rays, burns out the gem, charm, sleep, fear, wound, slow
+- Headwear - Crown. Metal stalks sprout from grotesque bronze crown. At the tip of each stalk is a different gem, gazing like a glistening eye, can shoot rays, burns out the gem, charm, sleep, fear, wound, slow
 - Belt. Leather, platinum buckle set with three small black pearls. Helps you avoid being caught off guard, good initiative, charges can be spent on extra actions
 - Belt. Thick golden links, each set with a cabochon-cut semiprecious stone. Large, oval buckle is embossed with the closed fist of Kord. Get strength, divine connecitonn, big strength check bonus and saves vs fear
 - Belt. Thick brass, riddled with bracks, bends as though stretched out of shape, instantly enlarge wearer in size. Lasts for 10 minutes
 - Belt. Wide leather, set with a single blood-red carbuncle. Activate to grant extra damage on your next attack.
 - Belt. Prominent, yet worn, holy symbol, threadbare cloth sash. If you follow the right god, you get armor and strength bonus, otherwise a negative level.
 - Belt. Supple browth leather, silver buckle engraved with tiny magical runes, makes you good at stealing spells, heal when you do it.
-- Faceware - Eyepatch. Black leather, blood-red pentagram. Activate, attacks against elves and plants are good.
-- Faceware - Blindfold. Black, silky bloth, opaque when help up to the light. You get sweet blindsight powers and cannot be gaze attacked.
+- Facewear - Eyepatch. Black leather, blood-red pentagram. Activate, attacks against elves and plants are good.
+- Facewear - Blindfold. Black, silky bloth, opaque when help up to the light. You get sweet blindsight powers and cannot be gaze attacked.
 - Helmet. Face is a solid slab of iron, apparently no way to see out, actually gives you blindsight and gaze resistance.
 - Tunic - Shirt. Golden lightning bolts are embroidered along the sleeves, sturdy tunic of blue linin, can teleport to anywhere you can see within 60 feet, trail of crackling sparks traces the path
 - Ring. Seemingly fragile, nearly weightless, appears to be a single long finger bone, bleached white and somehow bent into a circle, protected from energy drain and ability drain, preventions drain charges.
@@ -279,9 +279,9 @@
 - Amulet. Small silver charm, lines of parallel musical notes. Interrupt a sonic attack with music.
 - Amulet. Long strip of scarlet cloth, embroidered with arcane sigils. Bonus to chaotic spells.
 - Amulet. Can attach various components slow your perception of time: good at dodging, good at reacting, move fast, spells fast, actions fast, etc
-- Headware. Leather circlet, silver headpiece, crescent moons, either side of a silver-pointed star. Good at concentration, retain spells.
-- Headware. Golden circlet, engraved with dozens of symbols. Cast spells fast.
-- Headware. Circlet made of delicate ivory threads, interwoven with silver bands covered in runes of healing. Next healing spell gives save bonus.
+- Headwear. Leather circlet, silver headpiece, crescent moons, either side of a silver-pointed star. Good at concentration, retain spells.
+- Headwear. Golden circlet, engraved with dozens of symbols. Cast spells fast.
+- Headwear. Circlet made of delicate ivory threads, interwoven with silver bands covered in runes of healing. Next healing spell gives save bonus.
 - Cloak. Thousands of thin, silvery chain links, long cloak. Armor bonus, activate to make it into a quarterstaff or disarm attempt.
 - Cloak. White, embroidered with runes representing the five energy types in metallic thread. Gain resistance to energy type.
 - Cloak. Thousands of small quills, thick, high-collared leather, some really long ones. Lodge quills in enemies.
@@ -289,7 +289,7 @@
 - Cloak. Finely crafted, made of blue and purple material, matched blue quartz crystals as clasp. Save bonus, can invest essentia into it to increase the bonus.
 - Cloak. Mottled gray, like a thin sheet of stone. Good at hiding, can merge with stone.
 - Cloak. Brown, composed of long thorns. Natural armor bonus, creatures striking you take damage.
-- Faceware - Eyepatch. Leather strap, hardened leather, krenshar hide, menacing, activate to see invisibility and have blight fight abilities.
+- Facewear - Eyepatch. Leather strap, hardened leather, krenshar hide, menacing, activate to see invisibility and have blight fight abilities.
 - Bracers. Steel, image of stagged daggers in opposite directions, after enemy misses you, get a free attack against them.
 - Amulet. Engraved image of a paladin slaying a dragon. Spend charges to bolster allies against fear, aura of courage, morale bonus.
 - Leather, crafted from scaly red hide, resistance to fire, bonus to natural armor.
@@ -298,19 +298,52 @@
 - Gauntlets. Stylized flames rendered in scarlet enamel, encircle the steel gauntlets. Spend charges for bonus damage on crit.
 - Boots. Sleek leather, lean slightly forward, as if poised to leap. Spend charges to teleport various distances.
 - Tunic - Cord. Long silk, tied with 5 knots. Wrapped around chest. Bonus to dispel checks 5 times.
-- Faceware - Mask. Glistening metals and brilliant paints, shape of a stylized dragon head, rays of shimering metal and class spread like a sunburst around face. Activate to see invisibility.
+- Facewear - Mask. Glistening metals and brilliant paints, shape of a stylized dragon head, rays of shimering metal and class spread like a sunburst around face. Activate to see invisibility.
 - Gauntlets. Thick leather, studded with dragon teeth. Sunder enemy weapons.
 - Cloak. Long, flowing, sewn from chromatic dragon scales. Energy resistance of your type, sprout wings.
 - Amulet - Talisman. Eagle claw worked from adamantine. Silver chain. Strength check bonus, good at breaking items.
 - Amulet. Reddish crystal shard, inscribed with arcane symbols. Banded with mithral, hanging from small silver chain. Empowers a specific spell when you cast it.
 - Amulet. Circular, coin-shaped talisman, half flame red and half ice blue. Protects from extreme temperature. Charges spend to give you cold & fire resistance.
 - Amulet. Small collection of teeth, scales, hair. Worn leather bag, long strings. Keyed to a specific creature type, you get a bonus against that creature type.
-- Headware - Helmet. Flawless sapphire set on heavy steel, shining faintly, Maximizes the essentia investment of a soulmeld, temporarily adds essentia.
-- Headware - Hood. Black cloth, coarse fabric, eyeholes cut, rope noose at neck. Divine connection, good at killing enemies when they're prone/immobilized.
-- Faceware - Glasses. Two ovals of murky glass, rimmed with brass, linnked with a brass arch. When resting on your nose, the glass clears. Expand your vision, you're harder to flank.
-- Faceware - Glasses. Bluish energy plays about these silver-tinted lenses. Silver wires extend back to wrap around the ears. Drain power points from another creature.
-- Headware - Helmet. Horned, black adamantine, absorbs the light around it. Fiendish visage on faceplat, hellish orange light leaks from eyes, nose, and mouth. Evil-aligned wearer, dispel good, inflict wounds, resist energy.
+- Headwear - Helmet. Flawless sapphire set on heavy steel, shining faintly, Maximizes the essentia investment of a soulmeld, temporarily adds essentia.
+- Headwear - Hood. Black cloth, coarse fabric, eyeholes cut, rope noose at neck. Divine connection, good at killing enemies when they're prone/immobilized.
+- Facewear - Glasses. Two ovals of murky glass, rimmed with brass, linnked with a brass arch. When resting on your nose, the glass clears. Expand your vision, you're harder to flank.
+- Facewear - Glasses. Bluish energy plays about these silver-tinted lenses. Silver wires extend back to wrap around the ears. Drain power points from another creature.
+- Headwear - Helmet. Horned, black adamantine, absorbs the light around it. Fiendish visage on faceplat, hellish orange light leaks from eyes, nose, and mouth. Evil-aligned wearer, dispel good, inflict wounds, resist energy.
 - Tunic. Eye-catching tunic shifts and moves like liquid flame. Crystal shard burns red in the middle, fused seamlessly with the cloth. Fire resistance. Activate for a fire shield.
 - Amulet - Pendant. Fragile, constructed from rose gold, shaped like a flower. Set with many tiny fire opals. Fire resistance, activate for fire immunity.
 - Amulet - Throat Piercing. Barbs protrude from a tiny iron ring. Activate on critical hit for extra damage.
 - Tunic - Vest. Simple, seems misshapen, but fits. Lets you briefly make your body amorphous to avoid a deadly strike.
+- Gauntlets. Flakes of dried gore, crude iron gauntlet. Back contains the image of a single bloodshot eye. Lets you make touch attacks to blind a target creature.
+- Gauntlets. Braided mithral links. Can make a weapoon appear in your hand.
+- Gauntlets. Leather, small polished steel disks in palms. Reflect projectiles.
+- Gauntlets. Finely crafted, metal, etched with flames. Each set with small red crystals that rest on top on the knuckles. Create a cone-shaped burst of flame.
+- Gauntlets. Heavy, spiked, made from overlapping metal plates. Blood drips slowly from the junctures, coating surface with thick red ooze. Divine connection, bonus on touch attacks.
+- Gauntlets. Black leather, studded with multicolored gems. Makes your eldritch blast deal a specific type of energy damage.
+- Gauntlets. Leather gloves imprinted with arcane sigils representing different types of energy. Change the energy type of a weapon.
+- Gauntlets. Leather gloves, cracked and worn, still quite durable. Bonus on next weapon damage roll against a larger creature.
+- Gauntlets. Tan leather, bound in brass. Touch attack, target gets slowed.
+- Gauntlets. Pitted and decayed, actually fine, set with small amber crystals that rest on the knuckles. Cone of mental sickness, mindfire, intelligence damage
+- Gauntlets. Long, leather. Silver stitching, complex arcane runes. Your weapons overcome damage reduction as if they were silver.
+- Amulet. Black, thousand faceted gem seems to spark with an inner fire. Wisdom bonus, divine connection gives blindsense, can feel the locations of all dungeon walls.
+- Tunic - Shroud. Ghostly, translucent winding cloth for wrapping a body. AC bonus, attacks get ghost touch.
+- Gauntlets. Mottled leather, worn and threadbare. Hands appear rotten when worn, can paralyze targets on touch.
+- Amulet - Talisman. Swirl of carved arabesques, austere gray stone pendant. Bonus against aberrations, githyanki get extra bonus.
+- Gauntlets - Gloves. Forest green, silk, feel like a second skin. Grant bursts of dexterity, deal extra damage.
+- Gauntlets - Gloves. Dark whorls stream across the leather gloves, dizzying the eye and clouding the mind. Charges add extra damage to eldritch blasts, damage type of your choice.
+- Gauntlets - Gloves. Steel plates sewn onto backs. Small black crystal shards, mounted on the back of each hand, glowing an eerie orange, highlights the swirling mark within. Faint smell of sulfur surrounds. Cold resistance. Create cones of flame or touch attacks that set things on fire.
+- Gauntlets - Gloves. Supple white leather, embroidered with blue symbols of luck. Activate to reroll an attack roll.
+- Gauntlets - Gloves. Fine leather gloves, dyed midnight blue. Single ruby in the back of each. Steal essentia from the opponent on succesful touch attack.
+- Gauntlets - Gloves. Strips of hardened blue leather run to the knuckles, fingerless gloves, lightning bolt pattern. 3x day ranged touch deals electricity damage, extra if target is wearing metal.
+- Gauntlets - Gloves. Black striations run across the fingers, red leather gloves. Harder to concentrate on spells when you hit them.
+- Gauntlets - Gloves. Pale blue metal, adorned with glowing, faint blue runes, caked with layers of frost and ice. Cast a ray of frost at will, given weapons frost property.
+- Facewear - Goggles. Lenses made from silvered crystal, frames hewn from smoky quartz. Operate without penalty in supernaturally bright light.
+- Facewear - Goggles. Coin-sized lenses set in a wire frame, thing wire band secure them to the wearer's head. Grant darkvision, +1 to attack & damage
+- Facewear - Goggles. Lenses continually fade between soot black and snow white. Ignore partial cover bonuses.
+- Bracers - Bracelet. Simple silver bracelet, berry-like charms hang from it, eat the berries to heal
+- Belt. Tightly woven human hair, blue and orange crystals braided through it. Activate to Cause your weapon to burst into flame. Activate to wind walk.
+- Tunic - Shirt. Layers of coarse brown horsehair, stiff, crudely woven shirt. Bonus to natural armor, cure wounds on another creature.
+- Amulet. Intricately detailed hand carved from oak bark, dangles from a crude loop of twine. 6 abilities: barkskin, entangle, goodberry, plant browth, speak with plants, tree shape.
+- Headwear - Headband. Delicate golden, front set with array of three tiger's eye gems, seem to glow with an inner fire. Replace 1 fortitude save witih a constitution save.
+- Belt. Broad leather, studded with moonstones. Bonust o heal checks, spend charges to heal.
+- Amulet. Light reflects from yiny, dark, three-tined amulet like the full moon shining on a tranquil swamp. Lets your weapon pierce armor and scales as if they were air. Activate to ignore armor.
