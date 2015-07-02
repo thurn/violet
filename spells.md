@@ -9,6 +9,8 @@
 - Don't design all of one category at once, do a few spells, a few weapons, a few monsters, etc
 - "Defense" against attacks (miss chance)
 - Religion?
+- Spell subtypes
+- Detect magic - illusion aura, conjuration aura
 - Alignment? Good-aligned attacks
 - Levels?
   - level drain, negative levels

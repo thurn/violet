@@ -347,3 +347,33 @@
 - Headwear - Headband. Delicate golden, front set with array of three tiger's eye gems, seem to glow with an inner fire. Replace 1 fortitude save witih a constitution save.
 - Belt. Broad leather, studded with moonstones. Bonust o heal checks, spend charges to heal.
 - Amulet. Light reflects from yiny, dark, three-tined amulet like the full moon shining on a tranquil swamp. Lets your weapon pierce armor and scales as if they were air. Activate to ignore armor.
+- Gauntlets. Gray and scarlet, fingers end in sharp talons. Faint odor of brimstone rises from them. activate to add slashing damage to your next spell.
+- Headwear - Helment. Elegant mithral helm, light, yet sturdy. Bonus to your next attack roll.
+- Headwear - Helmet. Mirror-bright steel cap, set with three tiger's eye gems, each looking in a different direction. Protects you from gaze attacks.
+- Headwear - Helmet. Magnificent, chased with gold and silver, set with three yellow topazes. 1x heal a bunch.
+- Headwear - Helmet. Iron helm, horns of ivory, etched with scenes from famous battles. Spent your move action granting allies an extra attack.
+- Headwear - Helmet. Golden helm, covers three quarters of the face, large purple feather. Charisma bonus, divine connection, bonus to saving throws, good at resisting fear, get heroism spell when afraid.
+- Bracers - Armbands. Hexagonal, cold iron, sized to fit over the biceps, arcane runes. Enhance the curse power of a hexblade, add charisma to hexblade attack rolls.
+- Tunic - Robe. +5 to armor class permanently, command it to create a blade barrier.
+- Bracers. Harsh suns carved, heavy steel bracers, grim versions of sun god. Next attack heals.
+- Facewear - Glasses. Thin, yellow quartz, the size of two coins. Activate to shoot bright light in a cone.
+- Facewear - Glasses. Small, clear, crystalline, golden frame. Good at spotting, activate to force a shape-shifted creature to resume its natural form.
+- Gauntlets. Threads of copper run along the fingers, finely crafted black leather gloves. 3 charges per day, charges do lightning damage.
+- Tunic. Pattern of lightning bolts, fine blue linen. Spend a charge to deal electricity damage when you get attacked.
+- Ring. Large ring, set with faceted ruby. Tiny trigger near base of the stone. Press the trigger to get a bonus on open lock checks, activate to cast knock.
+- Cloak - Mantle. Brilliant blue bloth, smooth to the touch, like silk. Symbols represent elements of good fortune along hem in white and silver. Reroll one roll before you know the result
+- Facewear - Mask. Rivulets of blood gush down the flensed face of this red metal mask. Longer rages, liquid lets you spit a stream of blood which deals acid damage.
+- Facewear - Mask. Broad lines radiate from the eyes, blue leather mask, each ending in a spiral. Gain bonus to save against mind affecting spells.
+- Facewear - Mask. Cut to cover mouth and nose, clear crystal half mask, tiny bubblelike imperfections. Breathe freely in foul air, smoke, dust, fumes, save against inhaled poisons or cloudkill.
+- Gauntlets - Gloves. Dark leather gloves, patterns of swirling, multicolored lines embroidered onto the palms. When you cast an enchantment spell of third level or lower, activate to copy and target another enemy.
+- Headwear - Circlet. Tiny gem, appears to have a hollow cage inside its facets. Activate to transfer consciousness into the gem, dodge mind-affecting spells and abilities.
+- Facewear - Mask. Highlights of moonstone accentuate every ridge and curve, angular silver mask. Good at listening and spotting, darkvision.
+- Amulet - Necklace. Six coin-sized copper dragon scales, simple brown cord, remove a scale to gain acid immunity, once the last scale is used, no more uses possible
+- Amulet - Necklace. Short, composed of white jade and tiny sapphires. Warns you of danger, bonus to flat footed AC
+- Headwear - Helmet. Forged of copper, inlaid with silver and gold. Stylized in the shape of a phoenix, wings unfurled, legs guarding the temples, head adorning the brow. Continuous low-light vision. Can use the following once per day: feather fall, resist energy.
+- Cloak. Back depicts a silver spear pointed downward. 3x day Extra damage if you attack from above your enemy.
+- Headwear - Helmet. Scaled metal, covers entire face, large dragon wings attached to temples. Immune to frightful presence. Divine connection, can create a frightful presence, enemies need to will save or panic.
+- Amulet. Heavy bronze, pair of wings over upper chest. Center has a glimmering multifaceted crystal. Makes saves harder against one school of spells.
+- Boots. Leather, folded to make cuffs, revealing arcade symbols, woven with golden thread into boots' lining. Activate to move up to your move speed. Can move across water.
+- Tunic - Shirt. Ancient strips of cloth, ragged shirt, dirty and tattered. Channel ki power to heal yourself if you sacrifice your stunning fist ability.
+- Bracers. Polished mithral, simple but elegant, fit the forearms perfectly. Activate to improve flurry of blows.
