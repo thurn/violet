@@ -377,3 +377,38 @@
 - Boots. Leather, folded to make cuffs, revealing arcade symbols, woven with golden thread into boots' lining. Activate to move up to your move speed. Can move across water.
 - Tunic - Shirt. Ancient strips of cloth, ragged shirt, dirty and tattered. Channel ki power to heal yourself if you sacrifice your stunning fist ability.
 - Bracers. Polished mithral, simple but elegant, fit the forearms perfectly. Activate to improve flurry of blows.
+- Cloak - Cape. Emblazoned upon the white cloth, an azure shield, two crossed black swords. More enemies in sight than allies: get a bonus to auras.
+- Bracers. Dark adamatine, difficult to separate, as if a magical field attracts them to each other. If somebody critical hits you, your next hit can be automatically critical.
+- Gauntlets. Heavy, fingerless leather, shining adamantine bands across the knuckles. Spiked, activate if you hit with two weapons, deal extra damage on second attack.
+- Gauntlets. Dark birds of prey, four small chains, black and yellow checkered field, leather gloves. Activate to push away an enemy if they move next to you.
+- Amulet. Inch-wide disk, large red crystal in its center. Tiny carvings around the crystal, endless march of angels and demons at war. Activate when you take damage, that enemy takes half the damage in return.
+- Ring. Tiny, speckled mushroom grows from tip. Activate to gain a neutralize poison spell.
+- Ring. Bronze, forged in the shape of a serpent devouring its own tail. Get bonus to arcane caster level.
+- Ring. Perfectly smooth, massive turquoise carved like an armored knight. Weapons and armor disappear and are stored within the ring, switch places with the set in the ring.
+- Ring. Solid gold, set with emeralds around outside of the band. Protects you with an impassable shield of force, activate to get a big deflection bonus against projectiles.
+- Ring. Clear crystal set into a silver ring, glows faintly with holy light. Attacks better against evil foes. Choose a weapon, it is a good at overcoming damage reduction of an evil creature.
+- Ring. Dozen etchings of closed eyes circle the tarnished silver. You are invisible to darkvision, fully visible to normal light.
+- Ring. Hefty, twisting metal, splits several times. Resistance against specific energy type. Activate once per day to reflect a spell of that type back at the caster
+- Ring. Platinum, set with large, hypnotic white opal. Protection against ranged attacks. If you moved more than 10 feet, creates a warping energy field, ranged attacks have a miss chance.
+- Ring. Plain silver, set with small sapphire, shimmers faintly when invested with essentia. Transfer a point of essentia into the ring, reduces pool size.
+- Ring. Scene of a shattered ship an dwooden debris carved onto driftwood ring. Lets you float upon a liquie, can't swim below surface.
+- Ring. Clear quartz, engraved with complex magic sigils. Small, almost impenetrable barrier, 3 charges, more charges makes the wall last longer.
+- Ring. Four clouds, each a different shade of ogreen or blue, on this simple wooden ring. Faces of four old men puffing up their cheeks. Gusts of wind that grant an AC bonus or feather fall.
+- Ring. White gold, forged into a braided pattern. Single ruby set in center, flickers and pulses with magical energy. Lets you counter a specific spell. Once per day counter a spell.
+- Ring. Little physical substance, resembles a fine circular sliver of fragile ice, surrounded by a blue-white mist of incredible cold. You get cold resistance and fire vulnerability, lose any fire resistance you had.
+- Ring. Crafted from interwoven bands of copper and electrum. Activate to emit a blast of lighhtning at everyone within 5 feet.
+- Ring. White gold, square cut ruby. Arcane runes around band. Activate to ignore 10 points fo damage from a spell.
+- Ring. Silver ring, smolders with an inner heat. Provides a boost to your fire-based spells. When you cast a fire spell, get a level bonus. Spend charges to add extra damage to fire spells.
+- Ring. Steel, glimmers with faint golden light. Boost to healing, bonus to cure caster level, spend charges to add healing to healing spells.
+- Ring. Copper ring, occasionally emits tiny sparks. Boot to caster level on electricity spells, spend charges to add damage to electricity spells.
+- Ring. Gleaming, white gold, set with a single piece of polished jet. Ignore damage from negative energy planes, cannot gain negative levels.
+- Ring. Stylzed face of a contemplative cat adorns this ivory ring. Two tiny emeralds glimmer within the cat's eyes. If you drop below 0  HP, spend a charge to heal 20 damage or turn a save into a success, start with 9 charges, they don't come back.
+- Blood-red metallic signet ring, emblem of a black skull, wands crossed beneath it. Activate to add extra damage to your next melee touch spell.
+- Ring. Plain black iron, set with a single perfect diamond. Can't be effected by cure or other positive energy spells
+- Ring. Sturdy band of mithral, tiny sapphires. Deflection bonus to AC, store essentia in it
+- Ring. Simple gold band, tiny armored girdle, set with small spheres of silver. Detect spells and magic nearby, good at counterspelling.
+- Ring. Carved from a single piece of lapis lazuli. Lighting bolt etched on the rim. Activate before you make a touch attack to add electricity damage, can also add thunderclap.
+- Ring. Gold ring, imprinted with sumbols representing the five energy types. Resistance against all types of energy.
+- Ring. Featureless, clear glass ring. Become invisible for 2 rounds.
+- Ring. Seven small half-spheres, rising from the shining reflective surface of this golden ring. Glows when worn by a good creature. On enemy critical hitting you, arc of divin eenergy damages them 3x per day.
+- Each Ring. Set of black iron rings, set with smooth pieces of jet all around the bend. Wear as a set, sheathe you in a field of magic force that gives and AC armor bonus, damages people who touch you, your unarmed strike deals extra damage.

@@ -22,6 +22,7 @@
   - Health, Movement Speed, Aim, Willpower
   - Might, Knowledge, Willpower, Awareness
   - AGILITY, FORTITUDE, AWARENESS
+  - Have two bonuses: "skill" and "attribute", both contribute
 - Aid another, aid on check
 - Ability score damage
 - Illusions, mind-affecting spells
@@ -91,7 +92,7 @@
 - Conditions: Fear, Blinded, Stunned, Entangled, Prone, Nauseated, Intoxicated, Infected, Dazed
   Sleep, Paralysis, Slow, Pinned, On Fire, Charmed, Frozen, Deafened, Shaken, Dazzled, Fatigued,
   Exhausted, Sickened, Blur, Displacement, Invisible, Poisoned, Confused, Diseased, Feebleminded,
-  Insane, Prone, Cowering, Helpless
+  Insane, Prone, Cowering, Helpless, Distracted
 - Incorporeal, ethereal, undead, ghost touch
   - stuff like this should be keyword mechanics, like "Ghost"
 - Changing form into a gas

@@ -154,3 +154,70 @@
 - Total quiet, silence aura from pillars
 - Illusion aura
 - Destroying pillars destroys the magic
+
+### Pillar Room
+- All doors open
+- Giant pillar, defaced images cover every inch of the column
+- Bodies of reddish, leathery, octopus-like creatures scattered about
+- 6 dire rats
+- Notice PCs via scent or light sources
+- Do not attack unless provoked
+- Flee if below 1/2 HP or 2+ killed
+- DC 12 search: block of hacksilver, gold noose ring, small leather bag with lapis lazuli, well-worn ivory knucklebones, silver and gold braclet with images of dolphins, small, bright hold feather woven in one orc's hair.
+
+### The Narrow Room
+- Two orc corpses
+- Still wearing armor, battleaxes lay by their sides
+
+### Storage Room
+- Shovels and picks against one corner of the wall, a corpse, lays in the other cornder, darkmantle attacked to its head
+- Spot or walking up reveals beast has a dagger in its head
+- Armor, battleaxe, pouch with 7 blodstones, spot check reveals a masterwork dagger
+
+### The Whimperer in Darkness
+- Orc corpse in the hallway
+- Pushing agains the door, you sense resistance. Pushing a little harder, the door moves slightly, then moves back as if something is pushing back from the other side.
+- Turag the orc is holding the door closed
+- PCs can force the door open
+- Turag retreats, grabs his battleaxe, tries to look frightening as possible, shaking with fear
+- Fights if attacked, otherwise falls to his needs, begs for help
+- If Boyikt is with the PCs, the kobolds attack
+- If his request is turned down, follows the PCs, even if caught continues
+- Recounts his story, doesn't know much about the dungeon itself
+- Has not seen the "rat man" in some time
+
+### Casualties
+- A dozen orc bodies, darkmantle bodies, chairs and tables scattered
+- Rat swarm enters the hallway if the PCs spend 2 rounds in here
+- Can hide behind a door, rats batter against the door, will eventually go silent
+- Orc arms and armor, DC 12 search - battleaxe with runes, masterwork by dorin steelforge. Hunk of amber, necklace of teeth, length of red silk ribbon, silver earrings, ivory carving of a lion, punching dagger
+
+### Open Room
+- Troglodyte in the corner, strangulation evident on its features
+- Torn apart darkmantle
+
+### A Not So Tasty Meal
+- Two troglodytes on the floor, suffocated to death
+- 8 stirges, distracted, take to the air once they spot the PCs
+- Troglodyte musk sickens stirges and PCs, -2 to rolls
+- Flee if reduced below 1/2 HP
+
+### Torture Chamber
+- Door is trapped, scything blades swing out from under the door
+- Several sets of wrist and ankle manacles chained to the walls
+- Dried pools of blood below each set
+
+### Ambush
+- PCs are sickened from smell
+- Over a dozen darkmantle corpses, bodies sliced open, mess of blood and organs, reflex save or you slip
+- PCs using light sources are automatically detected before reaching location A.
+- two Troglodyte warriors hiding in the alcoves, fairly easy to spot, remaining two are hiding in doorways of other rooms
+- Troglodytes ready themselves as soon as the PCs are detected
+- When a PC walks between the alcoves, troglodytes attack
+- Other troglodytes come
+- They fight to the death, do not negotiate
+- Do not pursue beyond the two alcoves
+- After retreating, PCs can try to parley, get a bonus if troglodytes were not injured
+- if Turag with the PCs, troglodytes demand to take him
+- parley automatically fails if Turag fought, they're allies of the orcs
+- Troglodytes don't join with PCs, will leave once their warriors are healed
