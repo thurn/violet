@@ -354,7 +354,7 @@
 - Headwear - Helmet. Iron helm, horns of ivory, etched with scenes from famous battles. Spent your move action granting allies an extra attack.
 - Headwear - Helmet. Golden helm, covers three quarters of the face, large purple feather. Charisma bonus, divine connection, bonus to saving throws, good at resisting fear, get heroism spell when afraid.
 - Bracers - Armbands. Hexagonal, cold iron, sized to fit over the biceps, arcane runes. Enhance the curse power of a hexblade, add charisma to hexblade attack rolls.
-- Tunic - Robe. +5 to armor class permanently, command it to create a blade barrier.
+- Robe. +5 to armor class permanently, command it to create a blade barrier.
 - Bracers. Harsh suns carved, heavy steel bracers, grim versions of sun god. Next attack heals.
 - Facewear - Glasses. Thin, yellow quartz, the size of two coins. Activate to shoot bright light in a cone.
 - Facewear - Glasses. Small, clear, crystalline, golden frame. Good at spotting, activate to force a shape-shifted creature to resume its natural form.
@@ -411,4 +411,16 @@
 - Ring. Gold ring, imprinted with sumbols representing the five energy types. Resistance against all types of energy.
 - Ring. Featureless, clear glass ring. Become invisible for 2 rounds.
 - Ring. Seven small half-spheres, rising from the shining reflective surface of this golden ring. Glows when worn by a good creature. On enemy critical hitting you, arc of divin eenergy damages them 3x per day.
-- Each Ring. Set of black iron rings, set with smooth pieces of jet all around the bend. Wear as a set, sheathe you in a field of magic force that gives and AC armor bonus, damages people who touch you, your unarmed strike deals extra damage.
+- Ring. Set of black iron rings, set with smooth pieces of jet all around the bend. Wear as a set, sheathe you in a field of magic force that gives and AC armor bonus, damages people who touch you, your unarmed strike deals extra damage.
+- Robe. Mystical sigils line the hems, bulky, thick-shouldered robe. Miniscule gems adorn the cuffs, collar, and hems. AC bonus. Attuned to a school of magic, caster level bonus for that school
+- Robe. Coal colored, crimson stiched runs. Runds run around the bottom, up the length, meandering lines, mixture of arcane formulas and praises to fire. Faint odor of brimstone, gentle warmth surrounds it. AC bonus. Activate to create four fire orbs to spring from the sleeves. Light, fire resistance, attack with orbs.
+- Robe. Depth, as if gazing into a portal between worlds, vague behemoths move at the limits of your vision. Intensifies connections to other planes. Sacrified a prepared spell to summon a monster.
+- Rob. Image of a solar eclipse, blazing corona, heavy red robe. React to attacks with a burst of magical power. 3x sacrifice a spell, damage your attacker when you get attacked.
+- Bots. Heavy leather, solid iron plating on toes and ankles. Smoky crystal shard set into the back of each, above the heel. Bonus to resisting bull rushes and trips, activate to ignore difficult terrain.
+- Tunic - Vest. Slick-looking black vest, supple, well-worked leather. Buttons are carved of dull black glass, seem to absord light. Good at hiding and moving silently, extra damage when sneak attacking.
+- Belt. Cincture. red silk sash, feather-light, set with a large ruby cabochon, surrounded by embroidered silver circle. Protection from effects that change your shape.
+- Boots - Sandals. Lightweight, soled with tanned cheetah hide, straps made from braided sinet. Activate for bonus to movement speed.
+- Amulet. Adamantine necklack, scarab of adamantine, polished to a mirrorlike sheen. Brief but complete protection from all damage. Activate to ignore all damage for 1 round. Must wear for 24 hours before can be used.
+- Amulet. Solid gold scarab, obsidian chips for eyes. Glyphs of protection and health carved into carapace. Button at the base makes legs clench or release, allowing it to be worn as a cloak clasp or decorative jewelry. If you drop below 0 HP, automatically stabilizes you. If you drop below -10, you reset to -1, crumbles into dust.
+- Amulet. Battered pouch of rough burlap, dangles from a tattered cord. Strong aroma of herbs and vegetable decay. Makes you invisible to scent, protects you from stench effects.
+- Headwear - Headband. Tattered strip of cloth, strangely resilient, elven runs appear along its length. Spot bonus all the time, spend charges to get darkvision, see invisible creatures, or get true seeing.

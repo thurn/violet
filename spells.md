@@ -15,6 +15,7 @@
 - Levels?
   - level drain, negative levels
   - important to make you relate to your squad and be invested in them
+- Caster level bonuses
 - Copy Edge of the Empire Combat System
 - Skills & Checks
   - Agility, Brawn, Cunning, Presence, Willpower, Intellect
