@@ -9,6 +9,7 @@
 - Don't design all of one category at once, do a few spells, a few weapons, a few monsters, etc
 - "Defense" against attacks (miss chance)
 - Religion?
+- Named creatures with alternate powers, e.g. "Yrkak the Troglodyte priest" and possesions
 - Spell subtypes
 - Detect magic - illusion aura, conjuration aura
 - Alignment? Good-aligned attacks
@@ -42,6 +43,7 @@
 - Money, Equipment costs
 - Item weight
 - Temporary mana
+- Invest mana in items
 - Intelligent weapons
 - Flanking
 - Identifying items

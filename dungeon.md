@@ -221,3 +221,28 @@
 - if Turag with the PCs, troglodytes demand to take him
 - parley automatically fails if Turag fought, they're allies of the orcs
 - Troglodytes don't join with PCs, will leave once their warriors are healed
+
+### Troglodyte living quarters
+- Several troglodytes in fetal position, otherwise empty
+- Six dead ones
+- Troglodyte which was here participates in ambush
+
+### Troglodyte living quarters
+- Badly wounded troglodytes on reed mats
+- 7 wounded troglodytes in here
+- Yrkak, troglodyte cleric, has used his spells already
+- Yrkak begins killing the 3 disabled warriors, other four fight the PCs but are fatigued
+- Fight to the death
+- Yrkak has an amber holy symbol on a thong around his neck
+
+### Outer Chamber
+- Secret door, locked, good lock.
+- As you push open the door, a shriveled partly clothed skeletal body falls into the passageway
+- Body of an orc imprisoned here by soliders
+- Repeating light crossbow in corner
+
+### Magazine
+- Secret door, trapped to release a swinging block when the door is pushed open
+- Hidden bolt bypass, Search DC 25
+- Weapons as well as barrels and cases, haphazard fashion within room
+- Two light repeating crossbows, six loaded magazines, small cask of oil
