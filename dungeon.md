@@ -246,3 +246,5 @@
 - Hidden bolt bypass, Search DC 25
 - Weapons as well as barrels and cases, haphazard fashion within room
 - Two light repeating crossbows, six loaded magazines, small cask of oil
+
+### Toolsmith Workshop

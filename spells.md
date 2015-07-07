@@ -1,14 +1,14 @@
 # Concepts
-- Steampunk? Not-very-historical steampunk? WW1-era steampunk?
+- Steampunk? Not-very-historical steampunk? WW1-era steampunk? Post apocalyptic? Fantasy where nobody uses swords?
 - High level structural stuff. Per encounter? Per day? When do you update your deck and equipment? When does mana reset?
 - Dice rolling: bag random? normally distributed? fair deck shuffling?
-- As much stuff as possible should be on card mechanics instead of in the
-  (especially creature cards)
+- As much stuff as possible should be on cards instead of in the rules (especially creature cards)
 - Races & Classes?
 - Inventory. Bag of holding. What if you just switch bracers all the time as their charges run out?
 - Don't design all of one category at once, do a few spells, a few weapons, a few monsters, etc
 - "Defense" against attacks (miss chance)
 - Religion?
+- Planes? Ethereal plane?
 - Named creatures with alternate powers, e.g. "Yrkak the Troglodyte priest" and possesions
 - Spell subtypes
 - Detect magic - illusion aura, conjuration aura
@@ -57,6 +57,7 @@
 - Silence spells negate some stuff
 - Attack types:
   Gaze, Breath, Claw, Bite
+- Being turned to stone
 - Entangle, Things which impede normal movement, Escape Artist checks
 - Temporary hit points
 - Falling, Swimming, Climbing, Acrobatics, Grappling, Bull Rush, Jumping, Grasping attacks, Balance, Tumbling
@@ -117,6 +118,7 @@
 - Changing weapons
 - Flying
 - Creature size, change character size
+- Weapon size
 - Charging Enemies, Tripping Enemies
 - Resting, sleeping, sleeping in armor/with weapons
 - Alignment: Lawful enemies, evil enemies, chaotic enemies

@@ -447,3 +447,15 @@
 - Facewear - Tooth. Tiny chunk of ivory resembling the fang of a snake. Placed on a tooth gives you bonus vs. poisoning. Spend charges to get poison immunity.
 - Bracers. Finely wrought black steel, etched withi image of a wand and staff crossed. Magical runes. When casting a spell with a touch attack, take -5 on attack roll to deal extra damage.
 - Amulet - Brooch. Exotic and arcane symbols circumscribe this scarb-shaped brooch. Spend charges to reduce damage from a xspell.
+- Gauntlets. Ribbons of electricity, crackle over gleaming, blue-tinged metal gauntlets. Jagged white bolts are between the pair, air scent of ozone. Ongoing Electricity resistance. 4 charges, spend on shocking grasp, lightning bolt, electric sphere.
+- Headwear - Headband. Leather band holds an indigo crystal, pulses with vibrant radiance. Increase your normal manifest limit by by extra levels.
+- Amulet. Hold symbol, warm, radiates peace and security. Purify food and drink, good-align a weapon.
+- Tunic. Misty gray tabard, silky soft to the touch, embroidered with small sequins in a skull motif. Allow syou to become ethereal for 1 round. Divine connection lets you transport to the ethereal plane.
+- Tunic. Silvery tabard, emblazoned with a stylized sunburst design. When worn, every ally within 20 feet gains +1 to save. Divine connection, get damage reduction vs. evil, allies who grasp the tabard gain a "heal" spell. Sacrifice a spell to get this.
+- Facewear - Eye. Crystal glows with a pale, fait blue light. Bonus to spot checks.
+- Facewear - Eye. Crystal is so clear it's difficult to see. Negate a dazed, fascinated, or stunned condition.
+- Facewear - Eye. Crystal glows with a faint magenta light, draws your eyes into its limitless depths. Concentration bonus.
+- Facewear - Eye. Matte black crystal, absorbs ambient light, reduce the numeric effect of a spell to minimum.
+- Facewear - Eye. Yellow, gleaming crystal, hynotic power, dominate monster once per day.
+- Facewear - Eye. Crystal flickers through a range of reddish hues. Trigger a freedom of movement effect.
+- Facewear - Eye. Flickers from one color to the next in the blink of an eye. Get really good at one skill check.
