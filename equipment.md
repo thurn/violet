@@ -459,3 +459,17 @@
 - Facewear - Eye. Yellow, gleaming crystal, hynotic power, dominate monster once per day.
 - Facewear - Eye. Crystal flickers through a range of reddish hues. Trigger a freedom of movement effect.
 - Facewear - Eye. Flickers from one color to the next in the blink of an eye. Get really good at one skill check.
+- Facewear - Eye. Glows with a piercing sapphire light. Bonus to overcoming spell resistance
+- Facewear - Eye. Crystal emits a powerful azure light. Alows you to dispel magic 1x.
+- Facewear - Eye. Bright orange, emits a steady inner glow. Activate to see and hear a distant location.
+- Amulet - Torc. Glas, partially silvered. From some angels perfectly transparent, from others, reflects like a mirror. Spend charges to gain concealment for a round.
+- Amulet - Torc. Jet-black, crafted like two clasped hands. Absorb an injury meant for your ally.
+- Amulet - Torc. Copper, inlaid with gold, silver, and platinum. Inlays take the form of a dragon writhing across the surface. Manifest a power, paying 1 less.
+- Amulet - Torc. Dramatic but simple, images of clouds and lightning bolts, thick gold neck ring. Activate for a bonus to strength checks.
+- Gauntlets - Gloves. Smooth black leather, slightly sticky to the touch. Imbue a weapon with poison. Next attack is a poison attack.
+- Cloak. Divided diagonally into two colors. Top is pure white, bottom is black as night. Lets you switch positions with another creature (will negates).
+- Gauntlets. Supple leather, dyed the color of ivory. Activate for a big bonus to hit on your next attack.
+- Tunic. Earth colored, ssturdy, soft as silk. Runes of stability stitchedin gold thread. Bonus to concentration.
+- Amulet. Marble unicorn's head, horn of gold. Two 1x abilities: cure wounds, neutralize poison.
+- Bracers. Golden, engraved with holy sigils. Fit over the arms of any creature, bonus to AC vs ranged attacks.
+- Amulet - Torc. Black iron, ruby that seems to weep tears of blood. Activate, next attack heals you equal to the damage. No damage = wasted.

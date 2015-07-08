@@ -3,11 +3,31 @@
 - Lantern archons know information about their part the dungeon
 - Totally dark, light sources make PCs easy to see
 - Extinguish light to be harder to detect
-- Important skills: disable device, open lock, concentration, decipher script, diplomacy, heal, hide, intimidate, jump, listen, move silently, search, speak language, spellcraft, spot, survival, swim, tumble, use rope
+- Important skills:
+  * disable device (int)
+  * open lock (int)
+  * concentration (int)
+  * decipher script (int)
+  * diplomacy (cha)
+  * heal (cha)
+  * hide (dex)
+  * intimidate (cha)
+  * jump (str)
+  * listen (wis)
+  * move silently (dex)
+  * search (wis)
+  * speak language (int)
+  * spellcraft (int)
+  * spot (wis)
+  * survival (wis)
+  * swim (str)
+  * tumble (dex)
+  * use rope (dex)
 - Diseases like "filth fever"
 - Traps on doors
 - Close doors, hold doors closed
 - Have an array of nouns you can ask anybody about
+- Monsters spotting PCs (sight, smell, hearing, tremorsense)
 - Making camp for the night? Finding safe places to hide? Food and water sources?
 
 # World's Largest Dungeon
@@ -248,3 +268,36 @@
 - Two light repeating crossbows, six loaded magazines, small cask of oil
 
 ### Toolsmith Workshop
+- Door is open, secured with a heavy metal hook
+- Large workbenches arranged in a haphazard fashion
+- Show signs of heavy use, tools lay about, six stirges rest on the workbenches
+- Stirges are not interested in another meal, sleepy
+- As long as PCs don't enter the room, stirges will posture and not attack
+- Allow a check to detect this
+- Stirges attempt to fly away if the PCs attack, otherwise they fight
+- Must spend time regurgitating blood before they can attack
+
+### Weaponsmith Workshop
+- Door is open, secured with a metal spike, cannot be closed
+- Strength check to close it
+- Haphazard workbenches, large furnace in northeast corner
+- Cannot fire up furnace
+
+### Destroyed Workshop
+- Door is open, secured with iron spike, cannot close
+- Workbenches all destroyed, also the furnace
+- Everything is destroyed with a sledgehammer
+- Mess hides 6 dire rats
+- Dire rats have somebody on watch, so PCs are hard to sneak up on
+- Scent ability
+- Rats hide among the rubble, ambush when a PC comes close
+- DC18 spot check to notice them
+- Rodents spread out, flee if 3+ killed
+
+### Destroyed Laboratory
+- Door is partly open, hanging by one hinge, explosion ripped trhough
+- Strength check to open fully otherwise can't get through
+- Scorch marks, furniture in shards, parts of tables or legs
+- Circumstance bonus to moving silently
+- DC25 search check of furnace reveals short sword
+- Can imbue the sword with a spell (spellcraft check)

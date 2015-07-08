@@ -17,6 +17,8 @@
 # Monster Manual
 
 ## Angel
+Can be Ranged? Yes
+
 - Celestials, live on good-aligned planes
 - Never lie, cheat, or steal
 - A bunch of resistances and immunities
@@ -47,6 +49,8 @@
 - Tons of spells, like 20th level clerics
 
 ## Basilisk
+Can be Ranged? Yes
+
 - Thick-bodied reptile with eight legs
 - Rows of bony spines jut from its back
 - Eyes glow with an eerie, pale green incandescence
@@ -58,10 +62,13 @@
 - Turn to stone at range 30 feet, fortitude save negates
 
 ## Bat
+Can be Ranged? No
 
 ## Bear
+Can be Ranged? No
 
 ## Centaur
+Can be Ranged? Yes
 - Gallops out of the trees, thundering hooves echoing throughout the forest
 - Upper torso, arms, and head of a humanoid
 - Lower body of a large horse
@@ -72,6 +79,7 @@
 - Don't like humans, like elves
 
 ## Demon
+Can be Ranged? Yes
 
 ### Babau
 
@@ -98,122 +106,181 @@
 ### Vrock
 
 ## Devil
+Can be Ranged? Yes
 
 ## Dragon
+Can be Ranged? No
 
 ## Eagle
+Can be Ranged? No
 
 ## Efreet
+Can be Ranged?
 
 ## Elemental
+Can be Ranged?
 
 ## Elephant
+Can be Ranged? No
 
 ## Ettin
+Can be Ranged?
 
 ## Gargoyle
+Can be Ranged?
 
 ## Gelatinous Cube
+Can be Ranged? No
 
 ## Genie
+Can be Ranged?
 
 ## Ghost
+Can be Ranged?
 
 ## Ghoul
+Can be Ranged?
 
 ## Giant Ant
+Can be Ranged? No
 
 ## Giant Beetle
+Can be Ranged? No
 
 ## Giant Crocodile
+Can be Ranged? No
 
 ## Giant
+Can be Ranged?
 
 ## Gnoll
+Can be Ranged?
 
 ## Goblin
+Can be Ranged?
 
 ## Golem
+Can be Ranged?
 
 ## Griffon
+Can be Ranged?
 
 ## Guardian/Guardinal
+Can be Ranged?
 
 ## Harpy
+Can be Ranged?
 
 ## Hell Hound
+Can be Ranged?
 
 ## Hippogriff
+Can be Ranged?
 
 ## Hobgoblin
+Can be Ranged?
 
 ## Hydra
+Can be Ranged?
 
 ## Imp
+Can be Ranged?
 
 ## Jelly
+Can be Ranged?
 
 ## Kobold
+Can be Ranged?
 
 ## Kraken
+Can be Ranged?
 
 ## Lich
+Can be Ranged?
 
 ## Manticore
+Can be Ranged?
 
 ## Medusa
+Can be Ranged?
 
 ## Merfolk
+Can be Ranged?
 
 ## Minotaur
+Can be Ranged?
 
 ## Mummy
+Can be Ranged?
 
 ## Naga
+Can be Ranged?
 
 ## Ogre
+Can be Ranged?
 
 ## Ooze
+Can be Ranged?
 
 ## Orc
+Can be Ranged?
 
 ## Quasit
+Can be Ranged?
 
 ## Rakshasa
+Can be Ranged?
 
 ## Rat
+Can be Ranged?
 
 ## Shadow
+Can be Ranged?
 
 ## Skeleton
+Can be Ranged?
 
 ## Snake
+Can be Ranged?
 
 ## Spectre
+Can be Ranged?
 
 ## Sphinx
+Can be Ranged?
 
 ## Spirit
+Can be Ranged?
 
 ## Sprite
+Can be Ranged?
 
 ## Titan
+Can be Ranged?
 
 ## Troll
+Can be Ranged?
 
 ## Vampire
+Can be Ranged?
 
 ## Wight
+Can be Ranged?
 
 ## Wolf
+Can be Ranged?
 
 ## Wraith
+Can be Ranged?
 
 ## Wyvern
+Can be Ranged?
 
 ## Xorn
+Can be Ranged?
 
 ## Zombie
+Can be Ranged?
 
 # Missing Art
 
