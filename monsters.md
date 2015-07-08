@@ -80,10 +80,21 @@ Can be Ranged? Yes
 
 ## Demon
 Can be Ranged? Yes
+- Native to the abyss, terrify their victims before slaying them
+- A bunch of immunities, most can summon other demons
 
 ### Babau
+- Reeking of decay, gaunt humanoid, covered in black leathery skin
+- Pointed ears, large curved horn from back of skull
+- Mouth of jagged teeth
+- Sudden attackers, devious, not fair fighters, sneaky and sly
+- Attack most powerful foe first
+- Make sneak attacks like rogues
+- Covered in a protective slime which damages on touch and protects
 
 ### Balor
+- Dark aura of power, towering humanoid, huge bat wings. Lurid flames dance over its skin. In massive clawed hand bears sword. Other hand, a whip licked by tongues of fire.
+-
 
 ### Bebilith
 

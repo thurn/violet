@@ -1,0 +1,1 @@
+- muscle, understanding, tenacity, appeal, nimbleness, toughness, senses

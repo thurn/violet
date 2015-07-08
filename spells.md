@@ -40,7 +40,7 @@
   - e.g. acid gem, cold gem
   - ruby, opal, topaz, emerald, sapphire, amethyst, diamond, jet
   - at least associate gems with different spell types
-- Money, Equipment costs
+- Money, Equipment costs, shops?
 - Item weight
 - Temporary mana
 - Invest mana in items
