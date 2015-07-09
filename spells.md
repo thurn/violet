@@ -60,6 +60,7 @@
 - Being turned to stone
 - Entangle, Things which impede normal movement, Escape Artist checks
 - Temporary hit points
+- Subdual damage
 - Falling, Swimming, Climbing, Acrobatics, Grappling, Bull Rush, Jumping, Grasping attacks, Balance, Tumbling
 - Traps
 - Flying, falling damage
