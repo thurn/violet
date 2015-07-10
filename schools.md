@@ -1,8 +1,8 @@
 School Archetypes:
-Air: Temporary Effects (Secondary: Immediate Effects)
-Fire: Immediate Effects (Secondary: Temporary Effects)
-Earth: Ongoing Effects (Secondary: Activated Effects)
-Water: Activated Effects (Secondary: Ongoing Effects)
+Aeris: Temporary Effects (Secondary: Immediate Effects)
+Ignis: Immediate Effects (Secondary: Temporary Effects)
+Petra: Ongoing Effects (Secondary: Activated Effects)
+Aquis: Activated Effects (Secondary: Ongoing Effects)
 
 Card Archetypes:
 "Kicker" - pay cost, add extra effect
@@ -18,7 +18,7 @@ Card Archetypes:
 "Limited Use Activated" - Only usable a limited number of times
 "Limited Turns" - Effect lasts for a limited number of turns
 
-## C.2 - Water Mechanics
+## C.2 - Aquis Mechanics
 
 Haste Matters
   Spells which get better if the unit haste this turn.
@@ -43,7 +43,7 @@ Triggered damage
 Draw cards for combat success
   Get cards based on e.g. combat kills
 
-## C.3 - Fire Mechanics
+## C.3 - Ignis Mechanics
 
 Fireball matters
   Spells which interact with fireballs
@@ -65,7 +65,7 @@ Draw-then-discard
   Spells which let you draw cards and then discard an equal number of cards
 
 
-## C.4 - Earth Mechanics
+## C.4 - Petra Mechanics
 
 Blessing Matters
   Spells which improve the effects of a blessing
@@ -93,7 +93,7 @@ Gambling Draw
   Spells which let you discard a card to draw a card
 
 
-## C.5 - Air Mechanics
+## C.5 - Aeris Mechanics
 
 Lightning bolt matters
   Spells that get better with lightning bolt

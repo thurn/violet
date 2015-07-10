@@ -1,4 +1,6 @@
-# Ways to challenge players
+# Book of Challenges
+
+## Ways to challenge players
 - Box them in
 - Split them up
 - Show them one thing, give them another (illusions)
@@ -6,7 +8,7 @@
 - Set them up, knock them down (enemies with synergy, e.g. CON drain and something requiring a CON save)
 - Hang them if they Can't Take a Joke (Creatures run away when threatened)
 
-# Spells to get around traps
+## Spells to get around traps
 - PCs should use these! It's good when they do.
 - Clairvoyance. Also foresight, scrying, true seeing, augury
 - Detect Magic. Where is the magic, what type is it? How strong is it?
@@ -21,7 +23,7 @@
 - Teleport. When all else fails, run away. Teleport, dimension door, word of recall, phase door, etc.
 - Arcane lock, break enchantment, daylight, detect snares and pits, detect thoughts, disintegrate, displacement, endure elements, find traps, find the path, ghost sound, guidance, hold portal, invisibility purge, knock, light, message, project image, protection from elements, quench, repulsion, resist elements, see invisibility, shatter, silence, slow, stone tell, water breathing, wood shape, raise dead.
 
-# A Familiar Situation
+### A Familiar Situation
 
 - Gnome sorcerer Eliat ordered 5 animals to be familiars
 - Shopkeeper's aid Prufrock comes to deliver them, takes all the cages to deliver them
@@ -45,7 +47,7 @@
   - opposed grapple checks with creature
   - creatures make escape artist checks
 
-# Close Quarters
+#### Close Quarters
 - PCs enter a 15x15 root, 20-foot-high ceiling
 - Straggly evergreen plans grow out of irregular heaps of earth
 - Appears to be a small tunnel opening, only a few feet in diameter
@@ -61,4 +63,4 @@
 - If they follow, uses hit and run tactics to blast the PCs every few turns
 - Some coins in the earth pile, more valuable stuff at the far end of the tunnel
 
-# Here, Kitty, Kitty, Kitty
+# The Wurst of Grimtooth's Traps

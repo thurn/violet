@@ -1,6 +1,7 @@
 # Concepts
 - Steampunk? Not-very-historical steampunk? WW1-era steampunk? Post apocalyptic? Fantasy where nobody uses swords?
 - High level structural stuff. Per encounter? Per day? When do you update your deck and equipment? When does mana reset?
+  - draw cards when you switch from narrative mode to combat mode
 - Dice rolling: bag random? normally distributed? fair deck shuffling?
 - As much stuff as possible should be on cards instead of in the rules (especially creature cards)
 - Races & Classes?

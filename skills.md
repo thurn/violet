@@ -21,6 +21,7 @@ Leveling up:
 
 # Star Wars Roleplaying
 
+- Agility, Brawn, Cunning, Presence, Willpower, Intellect
 - Astrogation, Athletics, Brawl, Charm, Coercion, Computers, Cool, Coordination, Core Worlds, Deception, Discipline, Education, Gunnery, Leadership, Lore, Mechanics, Medicine, Melee, Negotiation, Outer Rim, Peception, Piloting, Ranged, Resilience, Skulduggery, Stealth, Streetwise, Survival, Underworld, Vigilance, Xenology
 
 # D&D
@@ -51,16 +52,14 @@ Leveling up:
 # Draft List
 
 attributes:
-
-passive:
-- Accuracy
+- Mind
 - Fortitude
-- Knowledge
+- Agility
 
-active:
-- Athletics (Swim, Climb, Jump)
-- Agility (Tumble, Balance, Escape Artist, Sleight of Hand)
-- Mechanics (Open Lock, Disable Device, Find Traps)
-- Perception (Spot, Listen, Appraise, Sense Motive, Search)
-- Stealth (Hide, Move Silently, Disguise)
-- Influence (Diplomacy, Intimidate, Bluff, Coercion, Charm, Deception, Negotiation, Perform)
+skills:
+- Athletics [Fortitude] (Swim, Climb, Lift, Grapple)
+- Acrobatics [Agility] (Tumble, Balance, Escape Artist, Jump)
+- Mechanics [Mind] (Open Lock, Disable Device, Find Traps)
+- Perception [Mind] (Spot, Listen, Appraise, Sense Motive, Search)
+- Stealth [Mind] (Hide, Move Silently, Disguise, Pickpocketing)
+- Influence [Mind] (Diplomacy, Intimidate, Bluff, Coercion, Charm, Deception, Negotiation, Perform)
