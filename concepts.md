@@ -3,38 +3,57 @@
  - Nothing is procedurally generated or random
  - Ayanor worldship setting
  - Four gods (Aeris, Petra, Ignis, Aquis) represent the four types of magic
- - Two modes: narrative mode and combat mode, draw cards when you switch modes
+ - Two modes: narrative mode and encounter mode, draw cards when you enter encounter mode
  - Modes switch automatically if you see a hostile enemy, get attacked, or attack somebody
  - Mode switches back when no hostiles aware of your presence
- - Can't change equipment or deck in combat.
- - Can change both outside of combat
- - Items can be fixed-use or per-combat, but everything resets after combat is over.
- - Start generating mana at beginning of combat
- - Dice rolling is bag random but not normalized (deck of 40 cards marked 1-20).
+ - Can't change equipment or deck during encounter.
+ - Can change both outside of encounter
+ - Items can be fixed-use or per-combat, but everything resets after encounter is over.
+ - Start generating mana at beginning of encounter
+ - Rolling a d20 actually pulls a value from a deck of 30 cards numbered:
+   [1,2,3,4,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,17,18,19,20]
  - Whenever possible, put mechanics on cards, not in rules
  - No races or classes, but "items" are actually cybernetic enhancements
  - No carry limits, can carry an arbitrary amount of stuff, can convert it to currency
  - No "planes", but teleportation and stuff is possible
  - Spells have subtypes, e.g. "fire", "mind control", "illusion"
+   - Spells also require hands or verbal commands to execute
  - "Detect magic" type spells figure out what's magic and what the subtype is.
  - No alignment, creatures, spells, some items associated with specific gods
+ - You can "lock" cards. Your starting hand at beginning of encounter mode depends on locks:
+   - 3 locked cards
+   - 2 locked cards, 2 random cards
+   - 1 locked card, 4 random cards
+   - 0 locked cards, 6 random cards
+ - Maximum hand size is 6, draw 1 at beginning of turn, discard down to 6 at end of turn
+ - At beginning of encounter, there is a "reaction round" where both sides can take reactions
+ - Whichever side has the element of surprise goes first in the reaction round and subsequent rounds
+ - "Saving throws" are just normal skill or attribute checks to mitigate some effects
+ - Three attributes:
+   - Mind (intellect, charisma, wisdom, cunning, presence, knowledge)
+   - Fortitude (strength, constitution, brawn, might)
+   - Agility (dexterity, speed)
+ - Fortitude governs base HP
+ - Agility governs aim
+ - Six skills: Athletics, Acrobatics, Mechanics, Perception, Stealth, Influence
+ - Attribute check is "roll lower than attribute score with modifiers"
+ - Skills just add modifiers to certain attribute checks
+ - Checks can have various circumstantial bonuses, e.g. assistance from others
+ - Up to 10 levels in each skill
+ - Each level gives you a +1 bonus to checks of that type
+ - On level up, get 4 skill points, 1 attribute point, extra health
+ - Level up 10 times
+ - Quantities that can be damaged:
+  - health
+  - ability scores
+  - max health
+  - max mana
+  - movement speed
+  - skills (avoid)
+- "Caster level bonus" can be represented via bonus mana which you can use for a specific purpose
+- Spells can be illusions or mind-affecting, it's a Mind attribute save to resist
 
 # Concepts
-- Copy Edge of the Empire Combat System
-- Skills & Checks
-  - Agility, Brawn, Cunning, Presence, Willpower, Intellect
-  - Strength, Constitution, Dexterity, Wisdom, Intelligence, Charisma
-  - Health, Movement Speed, Aim, Willpower
-  - Might, Knowledge, Willpower, Awareness
-  - AGILITY, FORTITUDE, AWARENESS
-  - Have two bonuses: "skill" and "attribute", both contribute
-- Aid another, aid on check
-- Ability score damage
-- Levels?
-  - level drain, negative levels
-  - important to make you relate to your squad and be invested in them
-- Caster level bonuses
-- Illusions, mind-affecting spells
 - Anti-magic
 - Savings Throws
 - Body slots

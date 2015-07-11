@@ -57,7 +57,7 @@ attributes:
 - Agility
 
 skills:
-- Athletics [Fortitude] (Swim, Climb, Lift, Grapple)
+- Athletics [Fortitude] (Swim, Climb, Lift, Grapple, Punch)
 - Acrobatics [Agility] (Tumble, Balance, Escape Artist, Jump)
 - Mechanics [Mind] (Open Lock, Disable Device, Find Traps)
 - Perception [Mind] (Spot, Listen, Appraise, Sense Motive, Search)
