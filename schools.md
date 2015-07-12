@@ -1,8 +1,32 @@
 School Archetypes:
-Aeris: Temporary Effects (Secondary: Immediate Effects)
-Ignis: Immediate Effects (Secondary: Temporary Effects)
-Petra: Ongoing Effects (Secondary: Activated Effects)
-Aquis: Activated Effects (Secondary: Ongoing Effects)
+# Aeris
+  - Air
+  - White
+  - Assault
+  - Fighter
+  - Diamond
+  - Temporary Effects
+# Ignis
+  - Fire
+  - Red
+  - Heavy
+  - Mage
+  - Ruby
+  - Immediate Effects
+# Petra:
+  - Earth
+  - Green
+  - Support
+  - Cleric
+  - Emerald
+  - Ongoing Effects
+# Aquis
+  - Water
+  - Blue
+  - Sniper
+  - Thief
+  - Sapphire
+  - Activated Effects
 
 Card Archetypes:
 "Kicker" - pay cost, add extra effect

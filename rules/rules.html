@@ -90,23 +90,41 @@
   <h1>Gameplay Overview</h1>
 
   <p>
-    Gameplay is turn-oriented. The player controls a team of warriors
-    individually referred to as <b>units</b>. A turn consists of the
-    <b>beginning of turn</b> step, followed by each unit a player controls
-    making a <b>move</b> (paid for with <i class="move"></i> movement points)
-    and then taking an <b>action</b> (represented by the <i class="action"></i>
-    symbol), finally followed by the <b>end-of-turn</b> step. While it is their
-    turn, units are said to be on the <b>active team</b>, and their enemies are
-    said to be on the <b>inactive team</b>.
+    Gameplay is separated into two distinct modes: <b>narrative mode</b> and
+    <b>encounter mode</b>. The player controls a team of characters
+    (individually referred to as <b>units</b>) navigating the world of
+    Ayanor. During narrative gameplay, the units may move freely about, interact
+    with their environment, change equipment, etc. If the characters encounter a
+    hostile enemy or obstacle, the game switches into encounter mode, a more
+    rigidly defined turn-based system. Encounter mode persists until the threat
+    has been overcome.
+  </p>
+
+  <p>
+    A turn in encounter mode consists of the <b>beginning of turn</b> step,
+    followed by each unit a player controls making a <b>move</b> (paid for with
+    <i class="move"></i> movement points) and then taking an <b>action</b>
+    (represented by the <i class="action"></i> symbol), finally followed by the
+    <b>end-of-turn</b> step. While it is their turn, units are said to be on the
+    <b>active team</b>, and their enemies are said to be on the <b>inactive
+    team</b>.
   </p>
 
   <p>
     One of the most important game actions is casting spells. Spells are cards
-    that the player plays from their <b>spell deck</b>, a deck of at least 50
-    cards constructed before the game begins. Spells can be cast at any time on
-    a player's turn or in certain other circumstances. See <a
-    href="#-spellcasting"> Spellcasting</a> for more information.
+    that the player plays from their <b>spell deck</b>, a deck of at least 40
+    cards constructed before the game begins. Spells can be cast at any time
+    during a unit's turn a player's turn or in certain other circumstances.
+    See <a href="#-spellcasting"> Spellcasting</a> for more information.
   </p>
+
+  <p>
+    Locations in Ayanor are divided up into <b>areas</b>. When the characters
+    leave a given area, the game is saved, damage is healed, and ongoing
+    temporary
+  </p>
+
+  <h1>Turn Summary</h1>
 
   <h2>Beginning of Turn Step</h2>
   <p>
@@ -197,22 +215,39 @@
       their ability to perform various game actions. These attributes are:
       <ul>
         <li>
-          <b>Agility</b>, which captures the unit's reflexes and
-          dexterity. Units with a higher agility have better aim.
+          <b>Agility</b>, which captures the unit's reflexes, dexterity, and
+          speed. Units with a higher agility have better aim.
         </li>
         <li>
-          <b>Fortitude</b>, which captures the unit's constitution and
-          strength. Units with a higher constitution have more health.
+          <b>Fortitude</b>, which captures the unit's constitution, brawn, and
+          strength. Units with a higher fortitude have more health.
         </li>
         <li>
-          <b>Awareness</b>, which captures the unit's intelligence and
-          willpower. Units with a higher awareness are more resistant to certain
-          types of mental attacks and illusions.
+          <b>Mind</b>, which captures the unit's intellect, charisma, wisdom,
+          cunning, and knowledge. Units with a higher mind score are better at a
+          variety of skills and at resisting certain types of mental attacks.
         </li>
       </ul>
   </p>
 
-  <h2>Attribute Checks</h2>
+  <h1>Checks</h1>
+  <h2>Dice Rolling</h2>
+  <p>
+  In-game instructions will occasionally use notation like "d20" or "d12". This
+  notation originally referred to rolling dice, but in Spellseeker it means to
+  draw a card from a specific deck of numbered cards. The decks contain the
+  following values:
+  <ul>
+    <li><b>d20:</b> [1,2,3,4,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15
+    15,16,17,18,19,20]</li>
+    <li><b>d12:</b> [1,2,3,4,4,5,5,6,6,7,7,8,8,9,9,10,11,12]</li>
+    <li><b>d10:</b> [1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10]</li>
+    <li><b>d8:</b> [1,2,3,3,4,4,5,5,6,6,7,8]</li>
+    <li><b>d6:</b> [1,2,2,3,3,4,4,5,5,6]</li>
+    <li><b>d4:</b> [1,2,2,3,3,4]</li>
+  </ul>
+  If a deck runs out of numbers, it is shuffled before further draws take place.
+  </p>
   <p>
       Many game situations call for an <b>attribute check</b> to resolve the
       outcome of a particular action. In order to make an attribute check, start
