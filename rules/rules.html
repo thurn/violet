@@ -121,7 +121,7 @@
   <p>
     Locations in Ayanor are divided up into <b>areas</b>. When the characters
     leave a given area, the game is saved, damage is healed, and ongoing
-    temporary
+    temporary effects are ended.
   </p>
 
   <h1>Turn Summary</h1>
@@ -205,11 +205,32 @@
   <p>
       After all units have finished taking actions and moving, the end of turn
       step begins. Unspent <i class="action"></i> and <i class="move"></i> are
-      lost. If the player has more than 5 cards in hand, they discard down to 5
+      lost. If the player has more than 7 cards in hand, they discard down to 7
       cards.
   </p>
 
-  <h1>Attributes</h1>
+  <h1>Attributes and Skills</h1>
+
+  <h2>Dice Rolling</h2>
+  <p>
+  In-game instructions will occasionally use notation like "d20" or "d12". This
+  notation originally referred to rolling dice, but in Spellseeker it means to
+  draw a card from a specific deck of numbered cards. The decks contain the
+  following values:
+  <ul>
+    <li><b>d20:</b> [1, 2, 3, 4, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10, 11, 11, 12,
+    12, 13, 13, 14, 14, 15, 15, 16, 17, 18, 19, 20]</li>
+    <li><b>d12:</b> [1, 2, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 11,
+    12]</li>
+    <li><b>d10:</b> [1, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 10]</li>
+    <li><b>d8:</b> [1, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 8]</li>
+    <li><b>d6:</b> [1, 2, 2, 3, 3, 4, 4, 5, 5, 6]</li>
+    <li><b>d4:</b> [1, 2, 2, 3, 3, 4]</li>
+  </ul>
+  If a deck runs out of numbers, it is shuffled before further draws take place.
+  </p>
+
+  <h2>Attributes</h2>
   <p>
       All units in Spellseeker have 3 common attribute scores which describe
       their ability to perform various game actions. These attributes are:
@@ -228,43 +249,107 @@
           variety of skills and at resisting certain types of mental attacks.
         </li>
       </ul>
+      Attributes for characters usually fall in the 10-18 range, with 12 being a
+      typical starting value. Characters can discover special "attribute bonus"
+      cards which let them increase an attribute score.
   </p>
 
-  <h1>Checks</h1>
-  <h2>Dice Rolling</h2>
+  <h2>Attribute Checks</h2>
   <p>
-  In-game instructions will occasionally use notation like "d20" or "d12". This
-  notation originally referred to rolling dice, but in Spellseeker it means to
-  draw a card from a specific deck of numbered cards. The decks contain the
-  following values:
+  Many game situations call for an <b>attribute check</b> to resolve the outcome
+  of a particular action. In order to make an attribute check, start with the
+  unit's attribute score and add any bonuses or penalties to the score as
+  appropriate to get an <b>attribute target</b>. Finally, roll a 20-sided
+  die. If the number rolled is <b>lower than or equal to</b> the attribute
+  target, the result of check was success.
+  </p>
+  <p>
+  For example, a unit attacking might have an Agility of 13 and may have a +2
+  bonus to hit. Adding in the bonus means the agility target is 15, so the unit
+  must roll 15 or less to score a hit.
+  </p>
+  <h2>Skills</h2>
+  <p>
+  In addition to the three main attributes, there are six different skills in
+  Spellseeker that a unit can specialize in. Additional ranks in a skill can be
+  gained by discovering "skill bonus" cards which let the unit add levels as
+  desired. The six skills are:
   <ul>
-    <li><b>d20:</b> [1,2,3,4,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15
-    15,16,17,18,19,20]</li>
-    <li><b>d12:</b> [1,2,3,4,4,5,5,6,6,7,7,8,8,9,9,10,11,12]</li>
-    <li><b>d10:</b> [1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10]</li>
-    <li><b>d8:</b> [1,2,3,3,4,4,5,5,6,6,7,8]</li>
-    <li><b>d6:</b> [1,2,2,3,3,4,4,5,5,6]</li>
-    <li><b>d4:</b> [1,2,2,3,3,4]</li>
+    <li>
+    <b>Atheltics</b> [Fortitude]. Used to perform actions such as swimming,
+    climbing, lifting heavy objects, grappling enemies, punching, kicking,
+    riding, charging, or throwing.
+    </li>
+    <li>
+    <b>Acrobatics</b> [Agility]. Used to perform actions such as tumbling,
+    balancing, escaping from entanglements, jumping, or tripping enemies.
+    </li>
+    <li>
+    <b>Mechanics</b> [Mind]. Used to perform actions such as opening locks,
+    disabling traps or understanding devices.
+    </li>
+    <li>
+    <b>Perception</b> [Mind]. Used to perform actions such as seeing enemies
+    from far away, sensing somebody's motives, telling whether somebody is
+    lying, searching a room, or listening for movement.
+    </li>
+    <li>
+    <b>Stealth</b> [Mind]. Used to hide from enemies, move silently, disguise
+    oneself, or steal items.
+    </li>
+    <li>
+    <b>Influence</b> [Mind]. Used to intimidate, bluff, charm, negotiate,
+    deceive, or coerce.
+    </li>
   </ul>
-  If a deck runs out of numbers, it is shuffled before further draws take place.
   </p>
+  <h2>Skill Checks</h2>
   <p>
-      Many game situations call for an <b>attribute check</b> to resolve the
-      outcome of a particular action. In order to make an attribute check, start
-      with the unit's attribute score and add any bonuses or penalties to the
-      score as appropriate to get an <b>attribute target</b>. Finally, roll a
-      20-sided die. If the number rolled is <b>lower than or equal to</b> the
-      attribute target, the result of check was success. A typical attribute
-      score for a unit is a value in the 10 to 16 range.
-  </p>
-  <p>
-      For example, a unit attacking might have an Agility of 13 and may have a
-      +2 bonus to the attack. Adding in the bonus means the agility target is
-      15, so the unit must roll 15 or less to score a hit.
+  Each of the 6 skills is associated with a certain attribute. In order to
+  attempt a task based on one of the skills, a <b>skill check</b> is
+  made. Sometimes a check will also be made without action on the part of the
+  unit in question, this is called a <b>passive</b> skill check. A skill check
+  is just an attribute check for the underlying attribute of the skill. Each
+  level the unit has in the skill in question grants a +1 bonus on the check.
   </p>
 
+  <h1>Encounters</h1>
+  <h2>Beginning an Encounter</h2>
+  <p>
+  An <b>encounter</b> automatically begins when the characters become aware of a
+  hostile enemy or obstacle near them. This may happen if they are attacked,
+  spring a trap, or attack an NPC who was not previously hostile. The game
+  switches into encounter mode until the encounter is resolved, meaning the
+  characters are no longer aware of any hostile enemies or obstacles nearby.
+  </p>
+  <p>
+  In encounter mode, changes can no longer be made to the characters' weapons,
+  equipment, or spell deck. At the beginning of the encounter, each character
+  starts with 3 mana (see <a href="#-spellcasting">Spellcasting</a>), and the
+  player draws a hand of cards (see <a href="#-starting-hand">Starting Hand</a>
+  below).
+  </p>
+  <p>
+
+  </p>
+
+  <h2>Starting Hand</h2>
+  <p>
+  Cards are drawn by the player at the beginning of each encounter from the
+  spell deck. In narrative gameplay mode, the player has the option to
+  <b>lock</b> some cards. A locked card is guaranteed to be in the player's
+  opening hand. The number of cards drawn at the beginning of an encounter
+  depends on how many locked cards the player has:
+  <ul>
+    <li>3 Locked Cards, 1 Random Card</li>
+    <li>2 Locked Cards, 3 Random Cards</li>
+    <li>1 Locked Card, 5 Random Cards</li>
+    <li>7 Random Cards</li>
+  </ul>
+  </p>
 
   <h1>Cards</h1>
+  <h2>Card Types</h2>
   <p>
       Cards in Spellseeker are the basis of the game. They are the reward for
       successful adventuring -- killing enemies results in new cards for the
