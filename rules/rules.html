@@ -4,6 +4,8 @@
   <link href="./rules.css" type="text/css" rel="stylesheet">
   <link href="../symbols.css" type="text/css" rel="stylesheet">
   <link href='../baskerville.css' rel='stylesheet' type='text/css'>
+  <link href='./roboto.css' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin,greek-ext,greek,vietnamese,latin-ext,cyrillic,cyrillic-ext' rel='stylesheet' type='text/css'>
   <script src="jquery.js"></script>
   <script src="toc.js"></script>
   <script>
@@ -91,19 +93,18 @@
 
   <p>
     Gameplay is separated into two distinct modes: <b>narrative mode</b> and
-    <b>encounter mode</b>. The player controls a team of characters
-    (individually referred to as <b>units</b>) navigating the world of
-    Ayanor. During narrative gameplay, the units may move freely about, interact
-    with their environment, change equipment, etc. If the characters encounter a
-    hostile enemy or obstacle, the game switches into encounter mode, a more
-    rigidly defined turn-based system. Encounter mode persists until the threat
-    has been overcome.
+    <b>encounter mode</b>. The player controls a team of characters navigating
+    the world of Ayanor. During narrative gameplay, the units may move freely
+    about, interact with their environment, change equipment, etc. If the
+    characters encounter a hostile enemy or obstacle, the game switches into
+    encounter mode, a more rigidly defined turn-based system. Encounter mode
+    persists until the threat has been overcome.
   </p>
 
   <p>
     A turn in encounter mode consists of the <b>beginning of turn</b> step,
-    followed by each unit a player controls making a <b>move</b> (paid for with
-    <i class="move"></i> movement points) and then taking an <b>action</b>
+    followed by each character a player controls making a <b>move</b> (paid for
+    with <i class="move"></i> movement points) and then taking an <b>action</b>
     (represented by the <i class="action"></i> symbol), finally followed by the
     <b>end-of-turn</b> step. While it is their turn, units are said to be on the
     <b>active team</b>, and their enemies are said to be on the <b>inactive
@@ -114,8 +115,8 @@
     One of the most important game actions is casting spells. Spells are cards
     that the player plays from their <b>spell deck</b>, a deck of at least 40
     cards constructed before the game begins. Spells can be cast at any time
-    during a unit's turn a player's turn or in certain other circumstances.
-    See <a href="#-spellcasting"> Spellcasting</a> for more information.
+    during the player's turn or in certain other circumstances.  See <a
+    href="#-spellcasting"> Spellcasting</a> for more information.
   </p>
 
   <p>
@@ -129,7 +130,7 @@
   <h2>Beginning of Turn Step</h2>
   <p>
       At the beginning of the player's turn, the player draws a card. Next, each
-      unit the player controls gains 1 <b>mana</b> (<i
+      character the player controls gains 1 <b>mana</b> (<i
       class="m1"></i>). Finally, one <i class="time"></i> (time marker) is
       removed from each card in play with one or more <i class="time"></i> on
       it.
@@ -137,13 +138,13 @@
 
   <h2>Movement and Distance</h2>
   <p>
-      When a unit takes a turn, it gains <i class="move"></i> (movement points)
-      equal to its <b>movement speed</b> (half its <a
-      href="#-attributes">Agility attribute</a>, rounded down). Units can move a
-      number of squares by spending an equal number of movement points, but
-      moves must be continuous (it's not possible to partially move and then
-      decide to move further or to abort the movement halfway through). Units
-      cannot move into blocked squares.
+      When a character takes a turn, it gains <i class="move"></i> (movement
+      points) equal to its <b>movement speed</b> (half its <a
+      href="#-attributes">Agility attribute</a>, rounded down). Characters can
+      move a number of squares by spending an equal number of movement points,
+      but moves must be continuous (it's not possible to partially move and then
+      decide to move further or to abort the movement halfway
+      through). Characters cannot move into blocked squares.
   </p>
   <p>
       Some actions, such as attacking with certain weapons, have a <b>speed
@@ -169,44 +170,86 @@
 
   <h2>Actions</h2>
   <p>
-      After the beginning-of-turn step and making a move, the unit gets one <i
-      class="action"></i> to spend on an action, either one of the standard
+      After the beginning-of-turn step and making a move, the character gets one
+      <i class="action"></i> to spend on an action, either one of the standard
       actions below or to pay for a spell or card activation with "<i
       class="action"></i>" in the cost.
   </p>
 
   <h3>Sprint Action</h3>
   <p>
-      The unit gains <i class="move"></i> equal to its movement speed and can
-      make a second movement in addition to its normal movement for the turn.
+      The character gains <i class="move"></i> equal to its movement speed and
+      can make a second movement in addition to its normal movement for the
+      turn.
   </p>
 
   <h3>Attack Action</h3>
   <p>
-      The unit uses its equipped weapon to attack an enemy in range, dealing
-      damage if a hit is scored. See <a href="#-combat">Combat</a>.
+      The character uses its equipped weapon to attack an enemy in range,
+      dealing damage if a hit is scored. See <a href="#-combat">Combat</a>.
   </p>
 
   <h3>Reload Action</h3>
   <p>
-      The unit reloads their equipped weapon. Weapons must be reloaded
+      The character reloads their equipped weapon. Weapons must be reloaded
       occasionally to ensure that they don't run out of ammunition. See
       <a href="#-weapon-subtypes">Weapon Subtypes</a>.
   </p>
 
   <h3>Hold Action</h3>
   <p>
-      The unit stays on watch, prepared to respond to enemy activity. It may get
-      an opportunity for a reaction to enemy activity. See <a
+      The character stays on watch, prepared to respond to enemy activity. It
+      may get an opportunity for a reaction to enemy activity. See <a
       href="#-reactions-and-the-stack">Reactions</a>.
   </p>
 
   <h2>End of Turn Step</h2>
   <p>
-      After all units have finished taking actions and moving, the end of turn
-      step begins. Unspent <i class="action"></i> and <i class="move"></i> are
-      lost. If the player has more than 7 cards in hand, they discard down to 7
-      cards.
+      After all characters have finished taking actions and moving, the end of
+      turn step begins. Unspent <i class="action"></i> and <i class="move"></i>
+      are lost. If the player has more than 7 cards in hand, they discard down
+      to 7 cards.
+  </p>
+
+
+  <h1>Encounters</h1>
+  <h2>Beginning an Encounter</h2>
+  <p>
+  An <b>encounter</b> automatically begins when the characters become aware of a
+  hostile enemy or obstacle near them. This may happen if they are attacked,
+  spring a trap, or attack an NPC who was not previously hostile. The game
+  switches into encounter mode until the encounter is resolved, meaning the
+  characters are no longer aware of any hostile enemies or obstacles nearby.
+  </p>
+
+  <p>
+  In encounter mode, changes can no longer be made to the characters' weapons,
+  equipment, or spell deck. At the beginning of the encounter, each character
+  starts with 3 mana (see <a href="#-spellcasting">Spellcasting</a>), and the
+  player draws a hand of cards (see <a href="#-starting-hand">Starting Hand</a>
+  below).
+  </p>
+
+  <p>
+  At the beginning of any encounter, NPCs always get the first full turn before
+  the characters do. However, during this first turn, any character is able to
+  take a <a href="#-reactions-and-the-stack">Reaction</a> to the actions of the
+  NPCs as if they had taken the <a href="#-hold-action">Hold</a> action.
+  </p>
+
+  <h2>Starting Hand</h2>
+  <p>
+  Cards are drawn by the player at the beginning of each encounter from the
+  spell deck. In narrative gameplay mode, the player has the option to
+  <b>lock</b> some cards. A locked card is guaranteed to be in the player's
+  opening hand. The number of cards drawn at the beginning of an encounter
+  depends on how many locked cards the player has:
+  <ul>
+    <li>3 Locked Cards, 1 Random Card</li>
+    <li>2 Locked Cards, 3 Random Cards</li>
+    <li>1 Locked Card, 5 Random Cards</li>
+    <li>7 Random Cards</li>
+  </ul>
   </p>
 
   <h1>Attributes and Skills</h1>
@@ -232,21 +275,23 @@
 
   <h2>Attributes</h2>
   <p>
-      All units in Spellseeker have 3 common attribute scores which describe
-      their ability to perform various game actions. These attributes are:
+      All characters in Spellseeker have 3 common attribute scores which
+      describe their ability to perform various game actions. These attributes
+      are:
       <ul>
         <li>
-          <b>Agility</b>, which captures the unit's reflexes, dexterity, and
-          speed. Units with a higher agility have better aim.
+          <b>Agility</b>, which captures the character's reflexes, dexterity,
+          and speed. Characters with a higher agility have better aim.
         </li>
         <li>
-          <b>Fortitude</b>, which captures the unit's constitution, brawn, and
-          strength. Units with a higher fortitude have more health.
+          <b>Fortitude</b>, which captures the character's constitution, brawn,
+          and strength. Characters with a higher fortitude have more health.
         </li>
         <li>
-          <b>Mind</b>, which captures the unit's intellect, charisma, wisdom,
-          cunning, and knowledge. Units with a higher mind score are better at a
-          variety of skills and at resisting certain types of mental attacks.
+          <b>Mind</b>, which captures the character's intellect, charisma,
+          wisdom, cunning, and knowledge. Characters with a higher mind score
+          are better at a variety of skills and at resisting certain types of
+          mental attacks.
         </li>
       </ul>
       Attributes for characters usually fall in the 10-18 range, with 12 being a
@@ -254,26 +299,37 @@
       cards which let them increase an attribute score.
   </p>
 
+  <p>
+    Some in-game effects reduce a character's attributes instead of directly
+    damaging that character. This is called <b>attribute score damage</b>. Until
+    the damage wears off or is removed, the character functions as if it has the
+    new lower score in the indicated attribute. If any of a character's
+    attribute scores falls below zero, the score is set to zero and the
+    character will be unconscious and at <a
+    href="#-health-unconsciousness-and-death">risk of dying</a> until the
+    attribute damage is healed.
+  </p>
+
   <h2>Attribute Checks</h2>
   <p>
   Many game situations call for an <b>attribute check</b> to resolve the outcome
   of a particular action. In order to make an attribute check, start with the
-  unit's attribute score and add any bonuses or penalties to the score as
+  character's attribute score and add any bonuses or penalties to the score as
   appropriate to get an <b>attribute target</b>. Finally, roll a 20-sided
   die. If the number rolled is <b>lower than or equal to</b> the attribute
   target, the result of check was success.
   </p>
   <p>
-  For example, a unit attacking might have an Agility of 13 and may have a +2
-  bonus to hit. Adding in the bonus means the agility target is 15, so the unit
-  must roll 15 or less to score a hit.
+  For example, a character attacking might have an Agility of 13 and may have a
+  +2 bonus to hit. Adding in the bonus means the agility target is 15, so the
+  character must roll 15 or less to score a hit.
   </p>
   <h2>Skills</h2>
   <p>
   In addition to the three main attributes, there are six different skills in
-  Spellseeker that a unit can specialize in. Additional ranks in a skill can be
-  gained by discovering "skill bonus" cards which let the unit add levels as
-  desired. The six skills are:
+  Spellseeker that a character can specialize in. Additional ranks in a skill
+  can be gained by discovering "skill bonus" cards which let the character add
+  levels as desired. The six skills are:
   <ul>
     <li>
     <b>Atheltics</b> [Fortitude]. Used to perform actions such as swimming,
@@ -308,53 +364,44 @@
   Each of the 6 skills is associated with a certain attribute. In order to
   attempt a task based on one of the skills, a <b>skill check</b> is
   made. Sometimes a check will also be made without action on the part of the
-  unit in question, this is called a <b>passive</b> skill check. A skill check
-  is just an attribute check for the underlying attribute of the skill. Each
-  level the unit has in the skill in question grants a +1 bonus on the check.
+  character in question, this is called a <b>passive</b> skill check. A skill
+  check is just an attribute check for the underlying attribute of the
+  skill. Each level the character has in the skill in question grants a +1 bonus
+  on the check.
   </p>
 
-  <h1>Encounters</h1>
-  <h2>Beginning an Encounter</h2>
-  <p>
-  An <b>encounter</b> automatically begins when the characters become aware of a
-  hostile enemy or obstacle near them. This may happen if they are attacked,
-  spring a trap, or attack an NPC who was not previously hostile. The game
-  switches into encounter mode until the encounter is resolved, meaning the
-  characters are no longer aware of any hostile enemies or obstacles nearby.
-  </p>
-  <p>
-  In encounter mode, changes can no longer be made to the characters' weapons,
-  equipment, or spell deck. At the beginning of the encounter, each character
-  starts with 3 mana (see <a href="#-spellcasting">Spellcasting</a>), and the
-  player draws a hand of cards (see <a href="#-starting-hand">Starting Hand</a>
-  below).
-  </p>
-  <p>
-
-  </p>
-
-  <h2>Starting Hand</h2>
-  <p>
-  Cards are drawn by the player at the beginning of each encounter from the
-  spell deck. In narrative gameplay mode, the player has the option to
-  <b>lock</b> some cards. A locked card is guaranteed to be in the player's
-  opening hand. The number of cards drawn at the beginning of an encounter
-  depends on how many locked cards the player has:
-  <ul>
-    <li>3 Locked Cards, 1 Random Card</li>
-    <li>2 Locked Cards, 3 Random Cards</li>
-    <li>1 Locked Card, 5 Random Cards</li>
-    <li>7 Random Cards</li>
-  </ul>
-  </p>
-
-  <h1>Cards</h1>
-  <h2>Card Types</h2>
+  <h1>Card Types</h1>
   <p>
       Cards in Spellseeker are the basis of the game. They are the reward for
       successful adventuring -- killing enemies results in new cards for the
       player to add to their spell deck. There are various card types present in
-      the game:
+      the game.
+  </p>
+  <h2>Action Cards</h2>
+  <p>
+  Action cards describe the basic actions in the game. They serve as
+  reminders of the possible actions which can be taken after a move, and cannot
+  be discarded or interacted with in any way. Example:
+  </p>
+  <div class="cardExample">
+    <div class="card fire">
+      <div class="cardCost"><i class="m3"></i> <i class="action"></i></div>
+      <div class="cardName">Flame Jet</div>
+      <div class="cardRules">
+        <p>
+        A jet of white-hot flame shoots from your outstretched hand towards your
+        enemy, striking home for 2d4 fire damage.
+        </p>
+        <p>
+        <i class="mN"></i> : Deal N additional fire damage to your enemy.
+        </p>
+      </div>
+      <div class="cardType">
+        Spell <i class="dot"></i> Attack <i class="dot"></i> Fire
+      </div>
+    </div>
+  </div>
+  <p>
       <ul>
         <li>
           <b>Action</b> cards describe the basic actions in the game. They serve
@@ -375,7 +422,7 @@
               <b>Ongoing</b> spells stay in play after being resolved,
               continuing to have an impact, instead of being discarded.
             </li>
-            <li>
+              <li>
               <b>Attack</b> spells require the caster to <a
               href="#-hits-and-damage">roll to hit</a> the target before their
               effects resolve. The attack is always made at a <a href="#-range">
@@ -389,18 +436,18 @@
           </ul>
         </li>
         <li>
-          <b>Equipment</b> cards represent tools used the units which give them
-          special abilities and ongoing effects. See <a href="#-equipment">
-          Equipment</a> for more information.
+          <b>Equipment</b> cards represent tools used by the character which
+          give them special abilities and ongoing effects. See <a
+          href="#-equipment"> Equipment</a> for more information.
         </li>
         <li>
           <b>Enemy</b> cards represent the various foes the player can encounter
           during the game, describing their abilities and basic statistics.
         </li>
         <li>
-          <b>Spellseeker</b> cards represent the different units controlled by
-          the player, and also display their basic statistics such as movement
-          speed.
+          <b>Spellseeker</b> cards represent the different characters controlled
+          by the player, and also display their basic statistics such as
+          attribute scores.
         </li>
       </ul>
   </p>
@@ -552,12 +599,29 @@
       damage dice.
   </p>
 
+  <h2>Damage Reduction</h2>
+  <p>
+  Some spells and equipment like armor provide <b>damage reduction</b>. When a
+  character suffers a hit, their damage reduction is subtracted from the total
+  damage that is being dealt. Damage reduction can also be associated with only
+  a specific type of damage, such as fire damage. For example, a character with
+  a damage reduction of "-5 Fire" would only take 7 damage if struck with an
+  effect which would normally deal 12 points of fire damage. It is also possible
+  to have <b>damage immunity</b>, which is effectively infinite damage
+  reduction.
+  </p>
+
   <h2>Health, Unconsciousness, and Death</h2>
   <p>
-  Units have a base number of <b>health points</b> equal to their fortitude
-  attribute, which represents the amount of damage they can sustain before
-  falling <b>unconscious</b>. Health can be increased by certain spells and
-  equipment. When a unit falls unconscious, it remains at 0 health and cannot
+  Units have two basic values called their <b>current health</b> and their
+  <b>maximum health</b>. Both values are initially equal to their fortitude
+  attribute. Health represents the maximum amount of damage they can sustain
+  before falling <b>unconscious</b>, with current health decreasing whenever
+  damage is suffered. Max health can be increased by certain spells and
+  equipment, and it can also decrease, e.g. due to ability score damage. Units
+  can never have more health than their maximum health, and by default when
+  maximum health increases, the unit's current health increases by the same
+  amount. When a unit falls unconscious, it remains at 0 health and cannot
   sustain further damage or take any actions. Each turn, the unit has a risk of
   permanently <b>dying</b>.
   </p>
@@ -574,9 +638,10 @@
   <h1>Spellcasting</h1>
   <p>
   Spells in Spellseeker are represented by spell cards. Each spell card belongs
-  to one of the four <b>schools</b> of magic: air, fire, water, or earth. Each
-  unit must select one of the four schools to specialize in and can <u>only</u>
-  cast spells from their chosen school.
+  to one of the four <b>schools</b> of magic, each associated with one of the
+  four Gods of Ayanor: Aeris, Petra, Ignis, and Aquis. Each unit must select one
+  of the four schools to specialize in and can <u>only</u> cast spells from
+  their chosen school.
   </p>
   <p>
   All spell cards also have a <b>cost</b> printed on them, which must be paid
@@ -589,7 +654,7 @@
 
   <h2>Spell Decks</h2>
   <p>
-  Spells are drawn from a Spell Deck which is constructed before the game
+  Spells are drawn from a Spell Deck which is constructed before an encounter
   begins. The spell deck consists of 40 cards and cannot contain more than 4
   copies of the same card. The player begins with no cards in hand, and draws a
   new spell card during the <a href="#-beginning-of-turn-step">beginning of turn
@@ -598,25 +663,25 @@
   <p>
   If the spell deck is empty, no further spell cards can be drawn, but the game
   continues as normal. During the <a href="#-end-of-turn-step">end of turn
-  step</a>, if the player has more than 5 cards in hand, they discard down to a
-  maximum of 5 cards.
+  step</a>, if the player has more than 7 cards in hand, they discard down to a
+  maximum of 7 cards.
   </p>
   <p>
-  Enemies of the player cast spells using spell cards as well, but do not
-  have a spell deck. Enemies simply have a fixed starting hand of spell cards
-  and do not draw additional cards. Enemies do have mana pools which refill over
-  time, sometimes at a rate other than 1 mana per turn.
+  Enemies of the player cast spells using spell cards as well, and also have
+  spell decks. Enemy spell decks are not subject to the 40 card minimum or max 4
+  copies rules. Enemies do have mana pools which refill over time, sometimes at
+  a rate other than 1 mana per turn.
   </p>
 
   <h2>Spell Timing</h2>
   <p>
-  Spells can be cast by a unit at any time while its team is active. They can
-  also be cast as a reaction during the enemy turn if the unit takes the Hold
-  action (see <a href="#-reactions-and-the-stack">Reactions and the
-  Stack</a>). Spells with <i class="action"></i> or <i class="move"></i> in their
-  costs require the unit to spend its action for the turn or some of its
-  movement points for the turn respectively to cast the spell, and cannot be cast
-  as a reaction.
+  Spells can be cast by a character at any time while their team is active. They
+  can also be cast as a reaction during the enemy turn if the unit takes the
+  Hold action (see <a href="#-reactions-and-the-stack">Reactions and the
+  Stack</a>). Spells with <i class="action"></i> or <i class="move"></i> in
+  their costs require the unit to spend its action for the turn or some of its
+  movement points for the turn respectively to cast the spell, and cannot be
+  cast as a reaction.
   </p>
 
   <h2>Effect Resolution</h2>

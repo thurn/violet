@@ -102,3 +102,68 @@ td,th {
     background: #336699;
     box-shadow: inset -5px 0px 10px -5px #000;
 }
+
+.cardExample {
+  height: 315px;
+  background-color: black;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+/** CARDS **/
+
+.card {
+  width: 216px;
+  height: 310px;
+  display: inline-block;
+  float: left;
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+}
+
+.cardCost {
+  margin: 2px 8px 0 8px;
+  height: 25px;
+  color: white;
+}
+
+.cardName {
+  font-size: 30pt;
+  font-family: 'Lora';
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardRules {
+  font-size: 12px;
+  margin: 0 5px 0 5px;
+  font-family: 'Roboto';
+  height: 150px;
+  color: white;
+}
+
+.cardType {
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Lora';
+  font-size: 14px;
+}
+
+.air {
+  color: #E0E0E0;
+}
+
+.fire {
+  color: #FF5722;
+}
+
+.earth {
+  color: #4CAF50;
+}
+
+.water {
+  color: #00BCD4;
+}
