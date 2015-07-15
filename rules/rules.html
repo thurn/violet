@@ -381,26 +381,124 @@
   <p>
   Action cards describe the basic actions in the game. They serve as
   reminders of the possible actions which can be taken after a move, and cannot
-  be discarded or interacted with in any way. Example:
+  be discarded or interacted with in any way.
   </p>
   <div class="cardExample">
-    <div class="card fire">
-      <div class="cardCost"><i class="m3"></i> <i class="action"></i></div>
-      <div class="cardName">Flame Jet</div>
+    <div class="card actionCard">
+      <div class="cardCost"></div>
+      <div class="cardName">Attack</div>
       <div class="cardRules">
         <p>
-        A jet of white-hot flame shoots from your outstretched hand towards your
-        enemy, striking home for 2d4 fire damage.
-        </p>
-        <p>
-        <i class="mN"></i> : Deal N additional fire damage to your enemy.
+        Roll for an attack against an enemy with your equipped weapon. On hit,
+        deal its weapon damage to that enemy.
         </p>
       </div>
       <div class="cardType">
-        Spell <i class="dot"></i> Attack <i class="dot"></i> Fire
+        Action
+      </div>
+    </div>
+    <div class="card actionCard rightCard">
+      <div class="cardCost"></div>
+      <div class="cardName">Card Name</div>
+      <div class="cardRules">
+        <p>
+        Rules Text
+        </p>
+      </div>
+      <div class="cardType">
+        Action
       </div>
     </div>
   </div>
+
+  <h2>Spell Cards</h2>
+    <p>
+      <b>Spell</b> cards can be cast by the player by paying the
+      appropriate costs during their turn, or at certain other times (See <a
+      href="#-spellcasting">Spellcasting</a> for more information). Spells come
+      in a variety of different types.
+    </p>
+  <h3>Spell <i class="dot"></i> Attack</h3>
+    <p>
+    Attack spells require the caster to <a href="#-hits-and-damage">roll to
+    hit</a> the target before their effects resolve. The attack is always made
+    at a <a href="#-range"> 1x short range</a> bonus to hit. On a miss, the
+    spell has no effect.
+    </p>
+    <div class="cardExample">
+      <div class="card fire">
+        <div class="cardCost"><i class="m3"></i> <i class="action"></i></div>
+        <div class="cardName">Flame Jet</div>
+        <div class="cardRules">
+          <p>
+          A jet of white-hot flame shoots from your outstretched hand towards
+          your enemy, striking home for 2d4 fire damage.
+          </p>
+          <p>
+          <i class="mN"></i> : Deal N additional fire damage to your enemy.
+          </p>
+        </div>
+        <div class="cardType">
+          Spell <i class="dot"></i> Attack <i class="dot"></i> Fire
+        </div>
+      </div>
+      <div class="card fire rightCard">
+        <div class="cardCost">costs: 3 mana, action</div>
+        <div class="cardName">Card Name</div>
+        <div class="cardRules">
+          <p>
+          Rules Text. Roll to hit target, then resolve this effect on success.
+          </p>
+          <p>
+          <i class="mN"></i> : Optional Effect. If you spend N mana, this effect
+          is added to the above effect.
+          </p>
+        </div>
+        <div class="cardType">
+          Spell <i class="dot"></i> Attack <i class="dot"></i> Subtype
+        </div>
+      </div>
+    </div>
+  <h3>Spell <i class="dot"></i> Immediate</h3>
+    <p>
+    Immediate spells are one-time effects. The caster pays their costs, the
+    effects resolve, and then the card is discarded.
+    </p>
+    <div class="cardExample">
+      <div class="card earth">
+        <div class="cardCost"><i class="m2"></i> <i class="action"></i></div>
+        <div class="cardName">Healing Aura</div>
+        <div class="cardRules">
+          <p>
+          A diffuse white glow envelops your ally, renewing their strength. Pick
+          1:
+          </p>
+          <ul>
+            <li>Your ally makes attacks at +2 to hit this turn.</li>
+            <li>Your ally heals 5.</li>
+          </ul>
+        </div>
+        <div class="cardType">
+          Spell <i class="dot"></i> Immediate <i class="dot"></i> Boon
+        </div>
+      </div>
+      <div class="card earth rightCard">
+        <div class="cardCost">costs: 2 mana, action</div>
+        <div class="cardName">Card Name</div>
+        <div class="cardRules">
+          <p>
+          Rules Text. Pick 1:
+          </p>
+          <ul>
+            <li>Choice #1</li>
+            <li>Choice #2</li>
+          </ul>
+        </div>
+        <div class="cardType">
+          Spell <i class="dot"></i> Immediate <i class="dot"></i> Subtype
+        </div>
+      </div>
+    </div>
   <p>
       <ul>
         <li>

@@ -123,18 +123,21 @@ td,th {
 }
 
 .cardCost {
-  margin: 2px 8px 0 8px;
+  margin: 2px 8px 2px 8px;
   height: 25px;
   color: white;
+
 }
 
 .cardName {
-  font-size: 30pt;
+  font-size: 38pt;
   font-family: 'Lora';
   height: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
+  line-height: 90%;
+  text-align: center;
 }
 
 .cardRules {
@@ -166,4 +169,29 @@ td,th {
 
 .water {
   color: #00BCD4;
+}
+
+.actionCard {
+  color: #FFEB3B;
+}
+
+.equipment {
+  color: #E91E63;
+}
+
+.spellseeker {
+  color: #CDDC39;
+}
+
+.enemy {
+  color: #FF9800;
+}
+
+.rightCard {
+  float: right;
+}
+
+.cardRules ul {
+  margin: 0;
+  padding-left: 15px;
 }
