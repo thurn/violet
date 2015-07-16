@@ -140,6 +140,10 @@ td,th {
   text-align: center;
 }
 
+.smaller {
+  font-size: 34pt;
+}
+
 .cardRules {
   font-size: 12px;
   margin: 0 5px 0 5px;

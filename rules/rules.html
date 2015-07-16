@@ -4,7 +4,7 @@
   <link href="./rules.css" type="text/css" rel="stylesheet">
   <link href="../symbols.css" type="text/css" rel="stylesheet">
   <link href='../baskerville.css' rel='stylesheet' type='text/css'>
-  <link href='./roboto.css' rel='stylesheet' type='text/css'>
+  <link href='../roboto.css' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin,greek-ext,greek,vietnamese,latin-ext,cyrillic,cyrillic-ext' rel='stylesheet' type='text/css'>
   <script src="jquery.js"></script>
   <script src="toc.js"></script>
@@ -427,7 +427,7 @@
     </p>
     <div class="cardExample">
       <div class="card fire">
-        <div class="cardCost"><i class="m3"></i> <i class="action"></i></div>
+        <div class="cardCost"><i class="m3"></i>, <i class="action"></i></div>
         <div class="cardName">Flame Jet</div>
         <div class="cardRules">
           <p>
@@ -466,7 +466,7 @@
     </p>
     <div class="cardExample">
       <div class="card earth">
-        <div class="cardCost"><i class="m2"></i> <i class="action"></i></div>
+        <div class="cardCost"><i class="m2"></i>, <i class="action"></i></div>
         <div class="cardName">Healing Aura</div>
         <div class="cardRules">
           <p>
@@ -499,56 +499,105 @@
         </div>
       </div>
     </div>
-  <p>
-      <ul>
-        <li>
-          <b>Action</b> cards describe the basic actions in the game. They serve
-          as reminders of the possible actions which can be taken after a move,
-          and cannot be discarded or interacted with in any other way.
-        </li>
-        <li>
-          <b>Spell</b> cards can be cast by the player by paying the
-          appropriate costs during their turn, or at certain other times (See <a
-          href="#-spellcasting">Spellcasting</a> for more information). Spells
-          have two possible subtypes:
-          <ul>
-            <li>
-              <b>Immediate</b> spells are one-time effects. The caster pays
-              their costs, the effects resolve, and then the card is discarded.
-            </li>
-            <li>
-              <b>Ongoing</b> spells stay in play after being resolved,
-              continuing to have an impact, instead of being discarded.
-            </li>
-              <li>
-              <b>Attack</b> spells require the caster to <a
-              href="#-hits-and-damage">roll to hit</a> the target before their
-              effects resolve. The attack is always made at a <a href="#-range">
-              1x short range</a> bonus to hit. On a miss, the spell has no
-              effect.
-            </li>
-            <li>
-              <b>Temporary</b> spells enter play with a number of markers on
-              them, and then stay in play until the last marker is removed.
-            </li>
-          </ul>
-        </li>
-        <li>
-          <b>Equipment</b> cards represent tools used by the character which
-          give them special abilities and ongoing effects. See <a
-          href="#-equipment"> Equipment</a> for more information.
-        </li>
-        <li>
-          <b>Enemy</b> cards represent the various foes the player can encounter
-          during the game, describing their abilities and basic statistics.
-        </li>
-        <li>
-          <b>Spellseeker</b> cards represent the different characters controlled
-          by the player, and also display their basic statistics such as
-          attribute scores.
-        </li>
-      </ul>
-  </p>
+  <h3>Spell <i class="dot"></i> Temporary</h3>
+    <p>
+    Temporary spells enter play with a number of markers on them, and then stay
+    in play until the last marker is removed.
+    </p>
+    <div class="cardExample">
+      <div class="card water">
+        <div class="cardCost"><i class="m4"></i>, 3<i class="charge"></i></div>
+        <div class="cardName">Storm Front</div>
+        <div class="cardRules">
+          <p>
+            You summon into being a massive thundercloud, ready to hurl
+            lightning bolts at your enemies on command.
+          </p>
+          <p>
+          <i class="action"></i> , Remove a <i class="charge"></i>
+          <i class="doubleArrow"></i> Attack an enemy unit, dealing 2d10
+          electricity damage on hit.
+          </p>
+        </div>
+        <div class="cardType">
+          Spell <i class="dot"></i> Temporary <i class="dot"></i> Electric
+        </div>
+      </div>
+      <div class="card water rightCard">
+        <div class="cardCost">4 mana, 3 charges</div>
+        <div class="cardName">Card Name</div>
+        <div class="cardRules">
+          <p>
+          Text.
+          </p>
+          <i class="action"></i> , Remove a <i class="charge"></i>
+          <i class="doubleArrow"></i> Repeatable activated effect.
+          </p>
+        </div>
+        <div class="cardType">
+          Spell <i class="dot"></i> Immediate <i class="dot"></i> Subtype
+        </div>
+      </div>
+    </div>
+  <h3>Spell <i class="dot"></i> Ongoing</h3>
+    <p>
+      <b>Ongoing</b> spells stay in play after being resolved, continuing to
+      have an impact, instead of being discarded.
+    </p>
+    <div class="cardExample">
+      <div class="card air">
+        <div class="cardCost">
+          <i class="m2"></i>, Discard a card</i>
+        </div>
+        <div class="cardName smaller">Valorous Chant</div>
+        <div class="cardRules">
+          <p>
+          Your stirring song evokes feelings of strength and bravery in
+          your comrades.
+          </p>
+          <p>
+          Your allies make attacks at +4 to hit. When an ally scores a hit, they
+          deal 4 extra damage to the target.
+          </p>
+        </div>
+        <div class="cardType">
+          Spell <i class="dot"></i> Ongoing <i class="dot"></i> Boon
+        </div>
+      </div>
+      <div class="card air rightCard">
+        <div class="cardCost">Costs</div>
+        <div class="cardName">Card Name</div>
+        <div class="cardRules">
+          <p>
+          Text creating a continuous effect.
+          </p>
+          </p>
+        </div>
+        <div class="cardType">
+          Spell <i class="dot"></i> Ongoing <i class="dot"></i> Subtype
+        </div>
+      </div>
+    </div>
+
+  <h2>Equipment Cards</h2>
+    <p>
+    Equipment cards represent tools used by the character which give them
+    special abilities and ongoing effects. See <a href="#-equipment">
+    Equipment</a> for more information.
+    </p>
+
+  <h2>Enemy Cards</h2>
+    <p>
+    Enemy cards represent the various foes the player can encounter during the
+    game, describing their abilities and basic statistics.
+    </p>
+
+  <h2>Spellseeker Cards</h2>
+    <p>
+    Spellseeker cards represent the different characters controlled
+    by the player, and also display their basic statistics such as
+    attribute scores.
+    </p>
 
   <h1>Reactions and the Stack</h1>
   <p>
