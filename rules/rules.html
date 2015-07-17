@@ -875,35 +875,61 @@
   inactive team are then added to the stack in the same order.
   </p>
 
-  <h2>Reading a Spell Card</h2>
-  <p>
-  All spell cards have several common components. The top of the card shows
-  the cost of the spell. Costs can be in terms of mana, but can also require
-  spending <i class="action"></i> (actions) or <i class="move"></i> (movement
-  points), or even things like discarding a card. A cost symbol like <i
-  class="time"></i> means that the indicated number of time markers should be
-  put on the card. Similarly, a <i class="charge"></i> symbol means to put a
-  number of charge markers onto the card.
-  </p>
-  <p>
-  Some spells have <b>optional effects</b>, which are written in the form Cost:
-  Effect. These are effects that can be added (one time) to the spell's
-  text. Optional effects are selected before the spell is put onto the
-  stack. Optional effects can also be written in the form Condition: Effect,
-  which creates the stated effect automatically if the condition is true when
-  the spell is cast.
-  </p>
-  <p>
-  Spells can also have <b>activated effects</b>, which are written in the form
-  Cost <i class="doubleArrow"></i> Effect. After such a spell has resolved, the
-  activated effect can be created at will as many times as is desired, as long
-  as the cost is paid. Activated effects use the stack like regular spells and
-  can be reacted to. Activated effects of cards with <i class="time"></i> (time
-  markers) on them cannot be activated.
-  </p>
-  <p>
-    <img class="imageBlock" src="templating.png" />
-  </p>
+  <h1>Conditions</h1>
+    <p>
+    Spells and other effects in Spellseeker can create a variety of
+    <b>conditions</b> in their targts, either temporarily or on an ongoing
+    basis. These conditions typically cause a penalty of some type. The possible
+    conditions are:
+    <ul>
+      <li><b>Anosmic</b>. Unable to smell. -8 to Agility checks if scent is
+      a primary sense for the target, otherwise, -2 to Perception.</li>
+      <li><b>Asleep</b>. Unable to take any action. Any stimulus (lights,
+      sounds, attacks) ends this condition</li>
+      <li><b>Blinded</b>. Unable to see. -8 to Agility checks if sight is a
+      primary sense for the target, otherwise, -2 to Perception.</li>
+      <li><b>Charmed</b>. Target is controlled by creator of the effect. -2 to
+      Agility.</li>
+      <li><b>Dazed</b>. Unable to spend <i class="action"></i>.</li>
+      <li><b>Deafened</b>. Unable to hear. -8 to Agility checks if hearing is
+      a primary sense for the target, otherwise, -2 to Perception.</li>
+      <li><b>Diseased</b>. Infected with a disease. Ongoing negative effects
+      dependent on the specific disease.</li>
+      <li><b>Fatigued</b>. -2 to all attributes.</li>
+      <li><b>Flammable</b>. Rolls to create the "On Fire" condition made at +4.
+      </li>
+      <li><b>Frightened</b>. -2 to Mind and Agility, replaces Intimidated.
+      Stacks, if target would become Intimidated or Frightened, they become
+      Terrified instead.</li>
+      <li><b>Frozen</b>. -2 to Agility, 1d4 cold damage per round.</li>
+      <li><b>Immobilized</b>. Unable to spend <i class="move"></i></li>
+      <li><b>Insane</b>. Target acts randomly.</li>
+      <li><b>Intimidated</b>. -1 to Mind and Agility. Stacks, if target would
+      become Intimidated again, they become Frightened instead.</li>
+      <li><b>Invisible</b>. Can't be seen. Enemies with sight as a primary sense
+      take penalties as if Blinded when attacking.</li>
+      <li><b>Mute</b>. Unable to communicate or cast spells requiring verbal
+      activation words.</li>
+      <li><b>On Fire</b>. -8 to Mind checks, 2d12 fire damage per round.</li>
+      <li><b>Prone</b>. On the ground. Can only spend <i class="move"></i> to
+      stand up.</li>
+      <li><b>Restrained</b>. Unable to cast spells requiring hand movements.
+      </li>
+      <li><b>Scentless</b>. Does not create an odor. Enemies with scent as a
+      primary sense take penalties as if Anosmic when attacking.
+      <li><b>Silent</b>. Does not produce noise. Enemies with hearing as a
+      primary sense take penalties as if Deafened when attacking.</li>
+      <li><b>Slowed</b>. Limited to spending a maximum of 3 <i class="move"></i>
+      per round.</li>
+      <li><b>Terrified</b>. -3 to Mind and Agility, replaces Intimidated and
+      Frightened. Stacks, if target would become Intimidated or Frightened, they
+      stay Terrified instead.
+      <li><b>Unconscious</b>. Unable to take any action.</li>
+      <li><b>Waterlogged</b>. Rolls to create the "On Fire" condition made at
+      -4.</li>
+      <li><b>Weakened</b>. -6 to Fortitude checks.</li>
+    </ul>
+    </p>
 
   <h1>Equipment</h1>
   <p>

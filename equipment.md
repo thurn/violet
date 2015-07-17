@@ -473,3 +473,13 @@
 - Amulet. Marble unicorn's head, horn of gold. Two 1x abilities: cure wounds, neutralize poison.
 - Bracers. Golden, engraved with holy sigils. Fit over the arms of any creature, bonus to AC vs ranged attacks.
 - Amulet - Torc. Black iron, ruby that seems to weep tears of blood. Activate, next attack heals you equal to the damage. No damage = wasted.
+- Boots. Massive, spiked, treaded soles. Large enough to fit a heavily armored ogre. Row of inset amethysts. Move through difficult terrain easily, not affected by slippery/wet stone. Good at not falling prone.
+- Cloak. Silk, seamless, single sheet of gossamer gray fabric. Lets you/allies disappear. Spend charges, invisible for 4 rounds, you+one ally invisible, you+3 allies invisible.
+- Facewear - Veil. Dyed in swirls of pink and purple, semitransparent. Makes you good at charisma stuff.
+- Tunic - Vest. Gold-brocaded, burgundy garment, fit to be worn by the gods themselves. Save and armor bonus. Continuous bonus to caster checks. Recall extra spells. Spend spells to heal self.
+- Tunic - Vest. Black silk, heavy, moonstone and jacinth, beadwork swen into arcane patterns on the back. Crackles with power. Activate to enhance next arcane spell, deals extra damage, apply metamagic feat.
+- Tunic - Vest. Elegantly styled, white leather, edged in silver piping. Magical protection, resistance bonus to savings throws.
+- Tunic - Vestments. Lightweight black robes, covered in spider web tracery. Clasp is a silver brooch. Evil wearers get +2 save bonus. Divine connection, also get spider climb ability.
+- Bracers - Bracelet. Golden chain bracelet, small metal charms hang from it. Can store items in the bracelet, shrinks down into bracelet.
+- Cloak. Long black, high collar, cut to overlap chest and arms. Open white palm in a circle, rampant purple dragon. Proects from elements, activated feather fall if you fall. Four abilities: dimension door, mage armor, protection from arrows, sending.
+- Headwear - Headband. Mithral. Creates a globe of light and hovers at your shoulder, shedding light as a torch.

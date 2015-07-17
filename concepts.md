@@ -109,6 +109,7 @@
 - Various damage types, added as needed, fire, acid, electric, cold, sonic at minimum
 - Magical interactions: rain puts out fire
   * Mana cost determines opposed effects, e.g. water vs. fire? Or distance from caster maybe?
+  * difficult terrain, slippery terrain, wet stones
   * Object/Tile Effects: On Fire, Ice-covered, Movable, In Darkness, Broken, Destroyed
     Waterlogged, water electrified, acid, snow-covered, oil-covered, metallic, wooden, living,
     wind, silence, web-covered, dessicated (water drained), raining, raining acid, bright light,
