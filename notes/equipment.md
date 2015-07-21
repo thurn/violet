@@ -483,3 +483,15 @@
 - Bracers - Bracelet. Golden chain bracelet, small metal charms hang from it. Can store items in the bracelet, shrinks down into bracelet.
 - Cloak. Long black, high collar, cut to overlap chest and arms. Open white palm in a circle, rampant purple dragon. Proects from elements, activated feather fall if you fall. Four abilities: dimension door, mage armor, protection from arrows, sending.
 - Headwear - Headband. Mithral. Creates a globe of light and hovers at your shoulder, shedding light as a torch.
+- Cloak. Sailcloth, elaborate embroider, evokes waves of the sea. Repeating swirl of thread. Appears damp, lower edge appears soaked in water. Bonus vs fire damage, evasion against fire, less damage on reflex saves. Activate to extinguish nonmagical fire. Counter spells with the fire descriptor.
+- Cloak. White, as if woven by a gigantic spider. Spider embroidered on back, radiating pattern of web. Bonus on saves vs poison. Activate for spider climb and hold person.
+- Amulet - Brooch. Ruby set at head of straight pin, twinkles like eye of a gnome. Bonus to bluffing and diplomacy.
+- Amulet. Necklace of a leather thong strung with dragon's teeth. Natural weapon attacks and unarmed strikes overcome damage reduction as if they're magical weapons.
+
+## Tools
+
+- Teakwood harp, slender and graceful, strings from silver wire. Engraving of waves and fog. Perform bonus, create spell effects (control water, cure wounds, mind fog).
+- Set of picks, pins, and levers, supple leather bag, arcane runes. Really good thieve's tools. Spend arcane spell to get a bonus to open lock or disable device.
+- Elegant, stoppered galss bottle, dark viscous fluid. Opening bottle creates an invisible cloud of gas. You are immune, enemies with <3HD immediately die.
+- Cut crystal bottle, silvery liquid. Stopper is a single piece of smoky quartz. Invisible cloud of gas. Makes <10HD creatures other than you fall asleep.
+- Worn doeskin pouch, contains a few pebbles. Pebbles strike like a catapult stone. Bag has charges, deals variable amounts of bludgeoning damage.
