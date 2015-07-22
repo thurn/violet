@@ -495,3 +495,13 @@
 - Elegant, stoppered galss bottle, dark viscous fluid. Opening bottle creates an invisible cloud of gas. You are immune, enemies with <3HD immediately die.
 - Cut crystal bottle, silvery liquid. Stopper is a single piece of smoky quartz. Invisible cloud of gas. Makes <10HD creatures other than you fall asleep.
 - Worn doeskin pouch, contains a few pebbles. Pebbles strike like a catapult stone. Bag has charges, deals variable amounts of bludgeoning damage.
+- Nondescript leather pouch, secured with twisted wire, sharp points, generates caltrops, can fill square with caltrops
+- Red burlap sack, warm to the touch. Tiny ember fire. Spend charges to draw out fire, produce flame, throw fire elemental, immunity to fire
+- Banner, rectangular standard, white swirl, suppresses fear effects on creatures, prevents confusion or stun
+- Vial of viscous liquid, oily brown color, smells like wet leaves. Your skin hardens, you get antennae, darkvision, natural armor
+- Plate, jet-black, 8 inches, bas relief human skull, set to explode through proximity or a timer
+- Small glass spheres, fist-sized orb, flicker of small flame reflects from within. Activate, globes circle each other, direct to fly to a location and explode, then reform in hands
+- Bandage, single softly glowing thread, applying the bandage immediately stabilizes
+- Stone, tacky with putrid green residue. Creates burst of vapor, damages plants/plant creatures.
+- Jar contains colorful, jellylike paint, spread over face, blend into background, good at hiding when stationary
+- Censer, perforated iron ball, hung from jeweled chain, holy symbol, burn ground gemstones, obscuring mist that evil creatures can see through, divine connection, diamond dust -> fog, emerald dust -> cloudkill, sapphire dust -> acid fog, ruby dust -> incendiary cloud
