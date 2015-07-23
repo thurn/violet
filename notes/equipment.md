@@ -505,3 +505,10 @@
 - Stone, tacky with putrid green residue. Creates burst of vapor, damages plants/plant creatures.
 - Jar contains colorful, jellylike paint, spread over face, blend into background, good at hiding when stationary
 - Censer, perforated iron ball, hung from jeweled chain, holy symbol, burn ground gemstones, obscuring mist that evil creatures can see through, divine connection, diamond dust -> fog, emerald dust -> cloudkill, sapphire dust -> acid fog, ruby dust -> incendiary cloud
+- Silver wire binds a large crystal to several smaller ones, aquamarine glow. Stores mana.
+- Rod. Slender ebony, clear jagged crystal. Wild energy flickers in the depths, gazing intently reveals minute flares of fire and electricity. Increases your resistance to an energy type you are already resistant to.
+- Lightweight transparent crystal, tapers to a point on both ends. Burns with clear light as a lantern, provides everybonus on listen and spot checks.
+- Thick black pouch, handful of ceramic beads. Thin veins of light through cracks in beads. Throw beads, land, shatter, create a daylight spell.
+- Glittering pitcher, wrought of platinum, worked into shape of dragon scales. Pours thing silver oil, shot through with motes of light. Draughts give damage reduction/adamantine.
+- Jewel-colored liquid, small translucent vial. Access specific spell domain for 24 hours, prepare spells from that domain.
+-
