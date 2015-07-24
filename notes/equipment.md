@@ -511,4 +511,13 @@
 - Thick black pouch, handful of ceramic beads. Thin veins of light through cracks in beads. Throw beads, land, shatter, create a daylight spell.
 - Glittering pitcher, wrought of platinum, worked into shape of dragon scales. Pours thing silver oil, shot through with motes of light. Draughts give damage reduction/adamantine.
 - Jewel-colored liquid, small translucent vial. Access specific spell domain for 24 hours, prepare spells from that domain.
--
+- Dragon's tooth is stopper for oversized flask. Liquid bubbles turbulently, barely contained energy. Gain a particular dragon breath weapon for an hour.
+- Carved chromatic and metallic dragon scales descend like leaves down length of scepter. Hold to gain a bonus vs dragon spell resistance, deal extra damage to dragons when activated.
+- Fine powder sparkles like ground gems. Sling powder, make attacks have a 50% miss chance for a while (storng wind disperses).
+- Fur pouch, secured with leather thong, brass buckle. Holds acorns, heal you, divine connection, make a treant/wall of thorns/splash of fire damage.
+- Vial, blue liquid, sparkling yellow motes. Inbibe, skin turns silvery, armor bonus, touch attacks cause electric shocks.
+- Heavy vial, looks like solid black metal, but flows out. Drink to harden flesh into adamantine.
+- Viscous liquid, red-orange, roils like heart of an inferno. Drink, hands burst into flame.
+- Flat black square, piece of silk cloth, portal pit trap, command to open or close.
+- Jewel, facets of small, translucent white crystal, white light. Activate to add a mana for a round.
+- Long, tapered wand, ends with pink crystal, red swirls. Holds a single arcande spell in it, anyone can use.
