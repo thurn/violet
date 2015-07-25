@@ -521,3 +521,14 @@
 - Flat black square, piece of silk cloth, portal pit trap, command to open or close.
 - Jewel, facets of small, translucent white crystal, white light. Activate to add a mana for a round.
 - Long, tapered wand, ends with pink crystal, red swirls. Holds a single arcande spell in it, anyone can use.
+- Plain, iron spike, warm to the touch, pulses with energy. Plant in ground, turns invisible, creature comes within 10 feet, giant fireball
+- Brown scepter, topped with tooth-filled mouth. Activate to summon horrible apparitions, surround creature and damage create each round for 4 rounds.
+- Stone, sparkles of light glitter on surface. Throw it, explodes in glittering shards, all invisible creatures in area are made visible.
+- Golden, fized-sized orb. Faceted rubies and yellow topazes. Hurl it, detonates with a sunburst spell effect.
+- Opal, thumb sized, carved with arcane symbols. Convert other spells into glyph of warding.
+- Sphere, 4 inches in diameter, silver, small rubies, hammer and anvil symbol. When held and activated, conjures giant, damages
+- Slightly twisted metal rod, black as pitch. Activate to spray a 30 foot cone of acid.
+- Jar containing greasy yellow jellylike substance. Apply to wounds heals damage.
+- Jagged shards of ice frozen onto white cord. Detach and throw the crystals, explode in an ice storm.
+- Golden yellow block of incense, imprinted with a rune representing memory. Burn while you prepare spells to get another spell.
+- Leather bag, periodically twitches and jerks as if it holds something alive. Caltrops that move slowly towards the enemy each round, "attack" the enemy.
