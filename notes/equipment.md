@@ -532,3 +532,14 @@
 - Jagged shards of ice frozen onto white cord. Detach and throw the crystals, explode in an ice storm.
 - Golden yellow block of incense, imprinted with a rune representing memory. Burn while you prepare spells to get another spell.
 - Leather bag, periodically twitches and jerks as if it holds something alive. Caltrops that move slowly towards the enemy each round, "attack" the enemy.
+- Lens, gold frame, sunburst motif, elegant wooden handle, magnifying glass, beam of sunlight, sunbeam spell
+- wooden hoop, four handholds, twine crosses the middle, break the twine: grants feather fall to next four creatures that touch it
+- Short, burgundy scepter, spiral design along length, open clawlike sculpture at each end, drains magic from existing spell effects, like dispel magic
+- Rolled up sheet of vellum, dark scroll tube, wagon wheel motif, good at geography, divine connection, nearby terrain with total accuracy, terrain features, structures, creatures
+- Piece of amethyst, swirls with foggy images of runes, regain a spell slot of a specific level
+- Rod, chain links carved of metal, fused together, single ruby, spell gets "chain spell" feat
+- Rod, thick iron, handle wrapped in worn leather, golden icon of outstretched hand, spell gets "reach spell" feat
+- Rod, haft is sculpted of silvery metal, faceted sapphire at top, spells get "sculpt spell" feat
+- Rod, fragile-looking, filled with elemental energy, flames, electricity, acid, frost, depending on type. Cast spell substituting enegy type.
+- Mirror, tarnished pewter back and handle, engraved with complex swirling patterns, cause a suggestion effect on creatures that see their own reflection.
+- Silver hand mirror, smooth, slippery, force a creature to see its reflection, creature disappears and is pushed forward 5 rounds in side, reappears in same position.
