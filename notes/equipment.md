@@ -543,3 +543,11 @@
 - Rod, fragile-looking, filled with elemental energy, flames, electricity, acid, frost, depending on type. Cast spell substituting enegy type.
 - Mirror, tarnished pewter back and handle, engraved with complex swirling patterns, cause a suggestion effect on creatures that see their own reflection.
 - Silver hand mirror, smooth, slippery, force a creature to see its reflection, creature disappears and is pushed forward 5 rounds in side, reappears in same position.
+- Lion rampant on narrow, finely woven streamer. Touch by paladin makes it show your coat of arms, become good at saving throws and smiting evil, spend charges on morale bonus
+- Round, fist-sized opalescent crystal, glows faintly. Can emit a brilliant burst of blinding light.
+- Transparent crystal sphere, faintly glows green. Protects you from extreme environmental effects.
+- Orb of bronze and gold, shines like the sun rising over the desert. Heal mental damage from others (mental ability score damage).
+- Tiny pearl, engraved with draconic symbols. Hurl at target, seems to enter target's flesh, dazes target.
+- Draconic rune on small pearl. Hurt at enemy, if it hits, enters the flesh, target must take a standard action in order to breath, savings throw to skip taking a breath one round.
+- Woven blanket depicts a brightly colored oasis, fruit trees, blue water. Smells of incense. Roll the blanket, a tent, campfire, and water spring from the blanket.
+-
