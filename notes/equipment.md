@@ -550,4 +550,19 @@
 - Tiny pearl, engraved with draconic symbols. Hurl at target, seems to enter target's flesh, dazes target.
 - Draconic rune on small pearl. Hurt at enemy, if it hits, enters the flesh, target must take a standard action in order to breath, savings throw to skip taking a breath one round.
 - Woven blanket depicts a brightly colored oasis, fruit trees, blue water. Smells of incense. Roll the blanket, a tent, campfire, and water spring from the blanket.
--
+- Vial of liquid, dark brown, shot with vertical threads of white and tan. Toughens your skin,  armor bonus, sprout needle-sharp quills form your body
+- Row of tiny runes, matte black circle of canvas, creates a hole when you place it that you can take cover in
+- Sooty black powder, small tin, set with pieces of jet, shape of goggles, cast powder into an area, creates a cloud in a 10-foot spread, blinds creatures in the cloud
+- Second skin, stainless white, bathes you in a shimmering golden halo. Grants damage reduction, darkvision, smite evil, spell resistance, cold, electricity, acid resistance
+- Second skin, iridescend white, golden halo. Disease immunity, good vs poison, damage reduciton, feathered wings let you fly, cold/acid/spell/electricity resistance
+- Second skin, adjusts color according to surroundings, good at hiding
+- Second skin, ripples with suppressed power once worn, transform hands into deadly claws
+- Second skin, thick, rough, body looks like tree bark, bonus to natural armor
+- Second skin, silvery, translucent, appears to surround you in crystalline plates. Like wearing light armor with a good bonus.
+- Second skin, deep red, tiny horns, damage reduction cold/fire/spell resistance, darkvision, smite good
+- Second skin, glistening, blood red, horns on forehead, darkvision, batlike wings let you fly, claws, msite good, resistances
+- Second skin, pulses with bursts of flame-colored energy, answers attacks with blasts of fire
+- Second skin, silvery hue, deflection bonus, saving bonus, attack bonus
+- Second skin, uniform gray color, grants "iron body" spell effect
+- Second skin, supportive, slightly tacky, bonus to tumble checks
+- Second skin, faint blue cast, translucent, all random numeric effects of spells targeting you are minimized
