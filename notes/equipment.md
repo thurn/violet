@@ -566,3 +566,16 @@
 - Second skin, uniform gray color, grants "iron body" spell effect
 - Second skin, supportive, slightly tacky, bonus to tumble checks
 - Second skin, faint blue cast, translucent, all random numeric effects of spells targeting you are minimized
+- Second skin, pale blue flow, extra powr points per day and spell resistance 21
+- Second skin, midnight-blue, highlighted with red spiderweb pattern, large black-rimmed eyes. Bonus to climb, move on water, fire webs at enemies.
+- Seocond skin, body appears rough, cracked, covered with blemishes. Heals 5 damage per minute. Regrows lost body parts.
+- Supple leather quiver, festooned with arcane symbols. Imbues ammunition with extra damage of a given energy type.
+- Bright yellow crystal globe, faintly warm to the touch. Continuously sheds bright light. Spend charges to create a ray of pure light which damages undead, recharge with a light spell or turn undead ability.
+- Vial, light gray liquid. Curling layers of lighter and darker colors, as if wrinkled. Skin turns gray, enhancement bonus to natural armor, bonus to attack rolls.
+- Dawn motifs on a leather-wrapped rod. Heals physical ability damage (str, dex, con).
+- Fragile in apperance, rod shaped like a thin ladder. Allows "jump" and "knock" spells and create a spherical ward that repels water.
+- Black iron rod, 18 inches long, hums with suppressed power. Activate for blade of force, blast of force, or wall of force.
+- 2-foot-long rod of steel-hard ice-blue glass, bound with iron bands. Emits a beam of cold that deals cold damage and extinguishes fire, freezes water.
+- Spiral groove runs the length of gray lacquered wooded rod. Instills clumsiness in nearby creature, drops everything it holds.
+- Star white ivory scepter adorned with carvings, twine to form a complex design. Deals damage to creatures that are already damaged.
+- Steel rod, looks like a length of thick chain, links fixed in place. Reflects next three levels of spells that target you. Turning a spell changes the rod's color to the color of its school. With divine connection, reflects 9 levels and gives improved counterspell feat.
