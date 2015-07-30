@@ -579,3 +579,26 @@
 - Spiral groove runs the length of gray lacquered wooded rod. Instills clumsiness in nearby creature, drops everything it holds.
 - Star white ivory scepter adorned with carvings, twine to form a complex design. Deals damage to creatures that are already damaged.
 - Steel rod, looks like a length of thick chain, links fixed in place. Reflects next three levels of spells that target you. Turning a spell changes the rod's color to the color of its school. With divine connection, reflects 9 levels and gives improved counterspell feat.
+- Black metal rod, impression of a cat's paw. Bonus to save vs sonic damage, surround self in field of silence, create shout effect.
+- Small magnets in iron rod. Push target creature away or pull it towards you.
+- Pale blue crystals on both ends of silvery rod. Allies gain insight bonus to next attack.
+- Bolts of lightning arc from engraved copper rod. Activate to exchange positions with creature.
+- Ooze of amber fluid leaks from sappy mahagony rod, carved with bumps and cysts. Fires sphere of entangling sticky glob.
+- Knotted rope, sticky to the touch, rope which is really good at climbing.
+- Silk rope, silvery sheen. Becomes as hard as stone when set.
+- Roughly carved staff made from heartwood of ancient tree. Cast a bunch of abjuration spells.
+- Staff of oak shod with iron. Cast a bunch of earth-changing spells.
+- Well-crafted staff, gilded in gold, rune of a hand, lots of creating stuff spells
+- Simple, slim staff, leather strap, small rune of a dagger, cast useful assassination spells
+- Thin, iron staff, forked at one end, rune of a musical note, cast sonic spells
+- Twisting and ornate staff, shaped from brightly colored tropical wood. Cast charm spells.
+- Ash staff, ornate runes of animals, cast conjuration spells.
+- Long marble staff. Light. Rune of a shattered mask. Cast destroying stuff spells.
+- Forked staff, supple willow, rune of an eye below the fork. Cast divination spells.
+- Short staff, carved on stone, tipped with fist-sized emerald. Move through earth or move earth.
+- Applewood staff, capped with clear zircon, rune of clasped hands. Cast enchantment spells.
+- Brass staff, ancient carvings, cast trap enemies spells.
+- Long staff, white wood, adorned with silver bands. Ghosttouch quarterstaff, can blink and turn ethereal.
+- Smooth yew staff, rune of an arrow, cast evocation spells.
+- Spiraling staff, covered with silver inlay, topped with piece of amber. Cast seeing good spells.
+- Staff of polished ebony, topped with tarnished iron claw at either end. Caast evil and necromancy spells.
