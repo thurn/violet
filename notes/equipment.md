@@ -602,3 +602,21 @@
 - Smooth yew staff, rune of an arrow, cast evocation spells.
 - Spiraling staff, covered with silver inlay, topped with piece of amber. Cast seeing good spells.
 - Staff of polished ebony, topped with tarnished iron claw at either end. Caast evil and necromancy spells.
+- Staff of bronzewood, rune-scribed brass bindings. Cast a bunch of fire spells.
+- Smooth alabaster staff, feels hollow, not fragile. Cast appy emotion spells.
+- Rune-covered staff, white wood and wilver, tipped with glittering diamonds. Cast frost and cold spells.
+- Slim silver staff, rune of sunburst, seems to reflect light like a polished mirror. Casts light-related spells.
+- Twisted ebony staff, rune of a half-mask near one end. Cast disguise and illusion spells.
+- Staff of wildly twisting rods of solid iron, bears numerous runes of cracked, warped human skulls. Cast insanity-producing spells.
+- Ebony, carved with bones and skulls, necromancy spells.
+- Black onyx end caps, carved with runes of darkness, stars, cast darkness spells.
+- Wooden staff, carved with images of doors, cast getting through doors spells.
+- Alternating sections of glass and mirror-polished steel on slender staff. Cast teleportation-type spells.
+- Smooth, jet-black staff, single glistening gem. Arcane runes etched into the crystal. Cast elemental type spells.
+- Sturdy oak staff, rune of mouse turning into elephant, staff thick at both ends. Cast size changing spells.
+- Staff, hard for eyes to focus on, as it it's constantly blurring. Allows you to cast time manipulation spells.
+- Petrified wood staff, rune depicting symbol for infinity, emblazoned over bars of lead and gold. Cast polymorph and transmutation spells.
+- Staff, Hollow coil of wire, mottled brown gemstones on ends, cast transportation-related spells.
+- Staff, formed from a solid piece of black marbe, veined with gold and silver. Allows you to cast anti-undead spells.
+- Staff, formed from human bones, bound together by copper wire. Bones bear small skull runes. Cast necromancy and skeleton raising type spells.
+- Slender staff, cut from bamboo, fitted with white leather straps elegantly inked with runes, delicate. Cast good seeing spells.
