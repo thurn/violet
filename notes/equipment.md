@@ -620,3 +620,15 @@
 - Staff, formed from a solid piece of black marbe, veined with gold and silver. Allows you to cast anti-undead spells.
 - Staff, formed from human bones, bound together by copper wire. Bones bear small skull runes. Cast necromancy and skeleton raising type spells.
 - Slender staff, cut from bamboo, fitted with white leather straps elegantly inked with runes, delicate. Cast good seeing spells.
+- Hardened leather scabbard, inscribed with depictions of different kinds of weapons, causes "bless weapon" effects
+- Glass cannister of gray salve, flecked with crushed bits of insects, gain spell resistance when spread on your skin
+- Steel baton, glyphs promising power over the undead, makes you 3+ better at turning undead
+- Button-sized black half sphere, apepars to be ebony or jet. Get clairvoyance centered on the stone.
+- Ever-shifting deep red swirls writhe within fist-sized pink crystal. Can cast scrying.
+- Fist-sized chunks of unworked stone, mirror images of one another. Bearer of one stone can send a message to bearer of the other.
+- Iron manacles look old, slightly rusted, heavily dented. Silence whoever is shackled, alarm effect if the creature escapes.
+- Brightly glowing holy symbol, hammered gold, set with diamonds. Emits light. Divine connection. Cast searing light spells.
+- Tiny fragment of cast-off crystal, glows with miuscule bit of power. Get competence bonus on next skill check.
+- Handful of thick, glassy, black sand fills small lizardskin sack. Fling it onto the ground, covers area with obsidian shards.
+- Twisted wooden spike, carved from misshapen limb of an ash tree. Plant on ground, becomes invisible, causes sleep when any creature comes near it.
+- Iron bands twine around jet-black obsidian to form the haft of a cruel-looking rod. Activate, creatures that fail a save can't move from their space.
