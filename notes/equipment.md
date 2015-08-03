@@ -632,3 +632,18 @@
 - Handful of thick, glassy, black sand fills small lizardskin sack. Fling it onto the ground, covers area with obsidian shards.
 - Twisted wooden spike, carved from misshapen limb of an ash tree. Plant on ground, becomes invisible, causes sleep when any creature comes near it.
 - Iron bands twine around jet-black obsidian to form the haft of a cruel-looking rod. Activate, creatures that fail a save can't move from their space.
+- Black, fist-sized orb, faintly greasy to the touch. Throw it, explodes, orange sparks, divest essentia spell.
+- Complex relief of webs and arachnids on silvery rod. Surface is sticky to the touch. Shoot silk strands or poison touch.
+- Stone reeks of rotting meat. Nauseates its target and sickens those nearby, throw at target.
+- Seven green pearls on silver chain, decreasing in size, slosh as though filled with liquid. Detach a pearl and throw it, acid splash of varying sizes.
+- Seven coils of polished copper wire dangle from strand of silver and copper threads. Coils explode into lightning when thrown.
+- Bronze spike sparks with static electricity. Becomes invisible when planted, explodes with a stun effect when creatures come near.
+- Convex lens of crystal dangles from a blue glass chain. Activate to create a floating disk.
+- Tarnished silver skull fits in hand comfortably. Makes you good at turning undead.
+- Plum-sized skull, carved from silver, tarnished black. Lets you become like the undead, immune to poison, sleep, paralysis, don't breathe etc etc.
+- Vines, creepy ivy, gnarled roots knot together to form dense tangle of vegetation. Throw it, creates an entangle effect at destination.
+- Greenish sack, sticky with sap. Bring forth thorns that cause entangle, spike growth, or wall of thorns.
+- Ancient, leather-bound book, stuffed with yellowing parchment. Perusing for an hour gives spellcraft bonus, can establish connection to prepare a single spell that isn't in your spellbook.
+- Thick, leather-bound manuscript, disgusting decoration, desiccated tongue nailed to cover. Increase effective caster level after studying for 1 hour, reduces your normal hit points.
+- Watchful eye of the uncaring one, affix to a spellbook, spend charges to get bonus to overcoming spell resistance.
+- Lantern, elaborately crafted from flame-touched iron, burnished into silvery hue. Continuous translucent white flame flickers within it. Continually emanates bright light. Speak word "reveal" in Celestial, "true viewing" on everything in its light.
