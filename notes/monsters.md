@@ -10,3 +10,11 @@
 - Thick-bodied reptile, eight legs, rows of bony spines, eyes glow with eerie incandescence. Petrifies creatures with its gaze. Dull brown body, yellowish underbelly. Bites, relatively slow, doesn't purusue enemies.
 - Huge, looks like armored snake, unfolds a dozen legs, slither or walk, pale blue belly, ultramarine color, curved horns, not used for fighting, hates dragons. Breath weapon, constrict, grab, rake with claws, swallow opponents, they can cut their way out.
 - Mass of dark smoke moves against breeze, shifting shape. Cloudlike, roiling, explodes into demonic creature of smoke, large bat wings, clawed tendrils, biting maw. Turn to smoke form. Smoke claaws, engulf opponents, solidifies claws inside them.
+- Big canine, yellow-brown fur. Disappears and reappears in a different location. Intelligent, limited teleportation ability. Hunt in packs, teleport to surround prey.
+- Gray-fleshed hairless humanoid, elongated head, noseless face, white empty eyes. Remains of humans destroyed by the touch of evil. Gaze kills enemies and turns them into. Sunlight burns them.
+- Muscular, savage humanoid, 7 feet tall. Coarse hair, long, sharp fangs. Nose like a bear. Ambush opponents. Tribes, lead by big one, love good and treasure, reverse a deity named Hruggek.
+- Ground shakes, rolls, bursts open, terrible armor-played, bullet-shaped creature, snapping maw bursts out. Solitary animal. Swallows enemies, acid. Hates eating elves. Jump through the air during combat.
+- Stink of rotten meat, multilegged creature, segmented body, writhing tentacles, clacking mandibles, tooth-filled maw. Scavenger. Tentacles secrete paralyzing substance. Fights to the death. Great at climbing.
+- Foul, terrible, no set form, constantly melts and forms, apparently drawing shapes from nightmares. Ten  eyes, viscious sack, smacking mouths. Constantly changes shape. Claw attacks. On hit, transforms enemies into spongy mass. Wisdom damage. Can't be transformed.
+- Hindquarters of a goat, forequarters of a lion. Dragon wings, three heads. Dragon head has breath weapon.
+- Perches in shadows, near ceiling, corner of chamber. Body resembles naked halfling, limbs are spindly and long. Hisses. Sharp teeth. Lurks underground, limbs are tentacles. Reach down to attakck prey from ceiling.Constrict, grab, quicknkess.
