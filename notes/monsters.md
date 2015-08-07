@@ -25,3 +25,10 @@
 - Stalactite breaks apart, revealing a creature, looks like squid or octopus, stonelike shell, tough membrane, tentacles. Hangs from ceiling, looks like stalactite. Drops onto prey from ceiling. Darkness creating ability. Grab, constrict, blindsight.
 - Huge creature, burrows through solid rock, teardrop shaped body, glistens with slime, blunt claws clear debris, corrosive slime secreted from skin. Eats rock. Fights from its tunnel. Can pop up to attack. Slime touch produces acid damage. Can soften stone.
 - Reeking of decay, black leathery skin, pointed ears, single curved horn, mouth of jagged teeth, aassasins, sneak attack, slimy red jelly on skin, causes acid damage.
+- Dark aura of power, towering humanoid, huge bat wings, lurid flames dance on skin, massive clawed hands, sword sharp enough to cut the soul, fire-licked whip. Love to join battle, teleport away if in trouble, fire spells from a distance. Gigantic fireball when it dies. Whip entangles enemies. Lots of spells. Flaming body, holds enemies against its body. Summons allies when threatened.
+- Enormous, misshapen spider, stalks out of darkness, forelegs end in wicked barbs, globs of foul goo from fanged mouth. Attacks on sight. Poisonous. Claws can tear apart armor. Throws a web at enemies.
+- Humanoid-looking, squat, blubbery, almost hairless body, sicky flesh, slack mouth, small fangs.  Slow, stupid. Rely on numbers, flee at the first sign of adversity.
+- Tall as a giant, broad, muscular body. Four arms end in weapons. Two clawed hands, two pincers. Doglike head, horns, muzzle drips with fangs. Cold eyes, penetrating. Lure victims with promise of power.Attack with confusion spells, grab enemies.
+- Massive, roughly humanoid toad, arms instead of forelegs. Mouth has rows of blunt, powerful teeth. Spines down back. Enjoy combat, spells, grab, stench that nauseates.
+- Otherworldly entity, appears like attractive female, six arms, lower body of a snake. Carries sixx longswords. Love combat, good at tactics though. Constrict, grab, spells, summoning, great at multiweapon fighting.
+-
