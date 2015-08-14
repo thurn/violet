@@ -1,3 +1,23 @@
+# General ideas
+- Organic/robotic is the key divide
+- Angels, demons, and devils are all robotic
+- Dragons exist, organic
+- Wild animals and hybrid versions of wild animals
+- Wide category of human variants with various genetic/mechanical modifications
+  - Human variants don't really have racial names, more location-based
+- Other possible 'famous monsters':
+  - Animal Hybrids: Centaur, Cockatrice, Hippogriff, Lammasu, Merfolk, Wyvern
+  - Mythical Beats: Hydra, Minotaur, Cyclops, Pegasus, Satyr, Sphinx, Unicorn, Manticore, Phoenix, Troll,
+  - Dire animals
+  - Elementals
+  - Formians
+  - Giants
+  - Golems
+  - Were-animals
+  - Giant animals
+  - Animal swarms
+
+# Monsters
 - Large creature, stiltlike legs, birdlike body, size of a small pony, feathers range from brown to red, terrible claws glint like burnished metal. Attacks with two of its legs in combat. Can release a toxic, choking black cloud.
 - Floats before you, thing of nightmare. Vaugelu humanoid, without features, distorted, bristles with madness, trails away below the waist, leaves a trace of fog as it moves. Remains of someone who commited suicide. Sonic babble causes hypnotism. Reading its mind causes madness. Drains wisdom on hit.
 - Huge, segmented insect, slender legs, each with a sharp claw. Tough citinous brown shell, blistening black eyes, powerful mandibles. Burrowing, taste for meat. Lies below surface and attacks. Grab victims, dragging them into its tunnel. Spits acid, but has a limited acid supply.
@@ -76,3 +96,20 @@
 - foul creature, more or less humanoid, mottled decaying flesh, clearly visible bones, mostly hairless, carnivore's sharp teeth, eyes burn like hot coals. Haunt graveyards and battlefields. Stench of death. Try to attack with surprise. Bite causes a fever disease. Bite or claws paralyze victims.
 - Combine great size and strength. Relish melee combat. Love throwing rocks, and can also catch them. Form larger bands and gangs.
 - Giant with a muscular humanoid build, handsome well-defined features. Skin is milk-white, tinged with blue, silvery white hair. Creative, master strategists. Skin from milky white to sky blue. Fight in well-organized units, battle plans, circle enemies, barage them with rocks. Live on cloudy mountains.
+- Giant resembling a huge dwarf, coal-black skin, flaming red hair, prognathous jaw, dirty ivory teeth. Bruth, militaristic. Sturdy leather garments. Carry throwing rocks. Heat their rocks in fire. Live in hot places, like near volcanoes. Like taking captives.
+- Beefy, muscular human, snow-white skin, light blue hair and eyes. Brutal, destructive. Start combat by throwing rocks, close with giant battleaxe. Ambush from up high.
+- Giant with oddly simian apperance, overlon arms, stooped shoulders, low forehead, thick limbs. Selfish, cunning, wear hides. Crude, worn possessions. Fight from rocky outcroppings. Strong, not smart.
+- Giant resembling a lean, muscular human. Hard, hairless flesh is smooth and gray. Gaunt facial features, deep-sunken black eyes, seems grim. Somewhat shy. Artistic. Playful. Fight from a distance if at all possible. Stand motionless against a background then attack.
+- Resembles a well-formed human of enormous proportions, light green skin, dark green hair, glittering emerald eyes. Tolerant of others, gentle, reclusive. Wear short, loose tunics. Don't throw rocks, use weapons and spells (lightning). Live in castles built on mountain peaks or underwater.
+- Unwholesome creature, body like a fluid amoeba. Surface is colored like human flesh. Countless eyes and tooth mouths constantly form and disappear all over the creature, often retreating into its body even as they become apparent. Gibbering noise causes confusion effect. Can fire a stream of spittle at an opponent. Can grab enemies, drains blood from enemies on contact, can engulf opponent, can manipulate the ground, amorphous, can't be critically hit.
+- Tall, gaunt humanoid, rough, yellow skin, russet hair, pair of topknots. Eyes with a sinister gleam. Ears are pointed and serrated in back. Gaunt, revere weapons and armor. Seasoned combatants. Psionics, spells. Special silver swords. Sunder enemy's weapons. Racial pact with red dragons.
+- Humanoid, slightly taller than a human, gray skin, furry body, head like a hyena, reddish gray mane. Evil humanoids, wander in loose tribes. Nocturnal carnivore. Rules by strongest tribe member. Attack with advantage of numbers, horde tactics. Flank enemies.
+- Magically created automaton of great power. Animating force. Tenacious, very strong.
+- Automaton, sculpted from soft clay. 18 inches taller than a human, features grossly distorted from the human norm. Chest is overly large, arms attached by thick knots of muscle. No neck, large head with broad, flat features. Legs are short and bowed, wide, flat feet, smells faintly of clay. Lots of immunities and pretty fast. Can go berserk if elemental spirit inside breaks free. Damage dealt is cursed wounds. Immune to any spell that allows resistance. 'Move earth' type effects are good against it.
+- Automaton from a grisly assortment of decaying body parts, stiched and bolted together, smells faintly of freshly dug earth and dead flesh. Stolen body parts. Bad at combat. Can go berserk. Magic immunity.
+- Metallic automatic, twice the height of a human, like an armored giant. Displays armor, short swords. Bodies are nearly invulnerable, breathe poisonous gas. Immune to magic. Electricity flows them down, fire heals them somewhat.
+- Automaton cut from stone, half again as tall as a normal human, resembles a roughly chiseled statue, slow enemies, magic immunity, weak to spells that interact with rock.
+- Dusky, metallic scales, bull-like body, silver horns. Guard territory fiercly. Breath weapon turns enemies into stone, trample enemies.
+- Hulking biped, mass of a giant, stooped frame, gray, hairless body, broad shoulders, sinewly arms, clawed hands scrape along the ground as it walks. Sloped forehead, six yellowish eyes. Wide, powerful mouth, black teeth. Dense muscle and bone, great strength, uproot trees and tear them apart, never in groups. Bonds with and protects other living creatures. Attacks to kill, rend flesh of opponent.
+- Wormlike monster, body long as a man is tall, four tentacles on head, segmented, like the body. Stealthy underground predators. Lair in sheltered spaces. Attack when hungry or theatened. Rubbery body sheds blows.
+- Muscular humanoid, thick gray scaly skin, eyeless eye sockets, leave deep beneath the earth, eat raw fresh meat, usually human. Xenophobic. Blind, exceptional smell and hearing. Immune to gaze attacks.
