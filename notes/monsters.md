@@ -5,6 +5,7 @@
 - Wild animals and hybrid versions of wild animals
 - Wide category of human variants with various genetic/mechanical modifications
   - Human variants don't really have racial names, more location-based
+- Inevitables
 - Other possible 'famous monsters':
   - Animal Hybrids: Centaur, Cockatrice, Hippogriff, Lammasu, Merfolk, Wyvern
   - Mythical Beats: Hydra, Minotaur, Cyclops, Pegasus, Satyr, Sphinx, Unicorn, Manticore, Phoenix, Troll,
@@ -113,3 +114,12 @@
 - Hulking biped, mass of a giant, stooped frame, gray, hairless body, broad shoulders, sinewly arms, clawed hands scrape along the ground as it walks. Sloped forehead, six yellowish eyes. Wide, powerful mouth, black teeth. Dense muscle and bone, great strength, uproot trees and tear them apart, never in groups. Bonds with and protects other living creatures. Attacks to kill, rend flesh of opponent.
 - Wormlike monster, body long as a man is tall, four tentacles on head, segmented, like the body. Stealthy underground predators. Lair in sheltered spaces. Attack when hungry or theatened. Rubbery body sheds blows.
 - Muscular humanoid, thick gray scaly skin, eyeless eye sockets, leave deep beneath the earth, eat raw fresh meat, usually human. Xenophobic. Blind, exceptional smell and hearing. Immune to gaze attacks.
+- Evil-faced old human, lower body, legs, and wings of a reptilian monster, hair is tangled, filthy, and crusted with blood. Takes glee in causing suffering and death. Wicked talons. Knotty fingers. Flyback attacks are its specialty. Insidious song, captivates creatures.
+- Creature resembling a powerful dog, short, rust-red fur, markings, teeth, and tongue are sooty black. Red, glowing eyes. Breathes fire. Serve evil beings. Surround prey. Firey bite.
+- Burly humanoid, 6 feet tall, hairy skin, feral eyes, flat nose and hin. Aggressive and organized. Hair from dark to reddish brown. Strong grasp of tactics. Hate elves. Great at moving silently.
+- Creature with a vaguely humanoid form, 18 inches tall, 2-foot wings. Skin is rough and warty, mouth full of needlelike teeth. Servant created by wizard. Not intelligent, linked telepathically to creator. Land on victims and bite with poison fangs.
+- Gaunt, bestial hound or feline, mane of bristling quills. Attack in groups, cowardly and cruel. Charge into combat, race out, charge in again. Quills deal damage, break off in flesh. Howl causes wisdom damage.
+- Construct, each designed to punish a particular type of transgression. Focus totally on the target, continues its efforts regardless of obstacles. Accomplices to prey are fair targets, not innocents. Gladly sacrifice themselves to complete their mission, or sacrifice allies, really do anything. Gears and pistons. Focus on target in combat but have self-defense. Have fast healing.
+- Looks like a red-skinned humanoid of mechanical parts. Dressed in ornate golden armor, flowing golden robe. Carries a gleaming sword, wears banded mail. Punish those who break bargains or oaths. Learns as much as possible about target, ensures major violation happened willingly. Carries a copy of the contract. Patient, study before striking. Turn invisible, vampiric touch its target. Fire enervation ray.
+- Creature in golden armor, onyx colored body, humanoid in shape, much larger, made of mechanical parts. Carries no weapons or equipment. Represent the inevitability of death. Spells like raise dead don't bother them that much. Hate unnatural extension of life (e.g. lich). Punishment is death or a compulsion to not practice necromancy. Circle of death ability, lots of counterspells. Fists are thunder and lighting.
+- Clockwork creature resembling a centaur. Ornate golden armor, alabaster skin. No weapons are equipment. Hunt down those who deny justice, e.g. flee punishment. Expert trackers. Spiked chains shoot out of forearms as a free action. Uses speed and spell-like abilities to cover escape routes.
