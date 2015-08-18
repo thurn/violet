@@ -2,6 +2,7 @@
 - Organic/robotic is the key divide
 - Angels, demons, and devils are all robotic
 - Dragons exist, organic
+- The Borg
 - Wild animals and hybrid versions of wild animals
 - Wide category of human variants with various genetic/mechanical modifications
   - Human variants don't really have racial names, more location-based
@@ -131,3 +132,10 @@
 - Tall humanoid, cross between a human and a lizard. Clawed hands, long tail, toothy jaws. Primitive reptilian humanoids. Unorganized individual fighters. Set snares, plan ambushes. Patriarchal society.
 - Glowing, humanoid creature, like a stumpy human sculpted from fire and flowing lava. Radiates heat, gleeful, almost malicious smile. Mischievous. Like to watch things burn. Tourch burns enemies and sets them on fire, even being nearby subjects you to heat, metal that strikes them can be melted.
 - Monster, head of a humanoid beast, body of a lion, wings of a dragon. Back set with curved barbs. Long tail ends in a cluster of deadly spikes. Fierce, hunt for flesh. Can shoot a volley of spikes from its tail. Usually flies during battle.
+- LIke a gaunt, nearly skeletal corpse, rib cage filled with horrid, writhing viscera. Creature's tongue is long, cartilaginous, clawed. Corpses of mass murderers, tortured by hatred of the living. Attack by slamming enemies with thier fists. Improved grab, paralyzing touch, creatures they kill become ones too.
+- Snake with human face, green-gold scales. Golden frill from top of head to tip of tail. Sweet scent of flowers accompanies it. Good, guardians, protect sacred places. Raises crest when angered. Spits venom when angered.
+- Like an immense worm covered with plates of dead black chitinous armor. Toothy maw, wider that a human is tall, teeth and gullet are black. Burrows through ground and emerges to strike. Swallows creatures and drains their energy. Poisons. Swallo whole. Summon undead.
+- Like a bloated ovoid covered with rocklike skin. Vinelike stalk about 2 feet long from top of body, two eyes, mouth, gash filled with razor sharp teeth, in the center of the mass. Shuffles about on thick, sturdy legs. Two long tentacles, rough, thorny protrusions. End in leaflike appendages, covered in more thorny growths. Grotesque monsters, live in refuse, livein lairs filled with carrion and trash. Covered with it, leaving only sensory stalk exposed. Slash and squeeze opponents with tentacles, drag them into its mouth. Can give a disease.
+- Soft, squelchiing footfalls, strange, moldy odor. Brown mass, cluster of nodules. Feeds an attacks with gaping law, rows of teeth, four stumpy legs. Ambulatory fungus which is invisible.
+- Resembles a giant wolf spider, larger head, variegated markings on legs and back. Eight eyes, silver-white. Aggressive predator, phases between material and etheral planes. Attempts to ambush victims from etheral plane then retreat. Has poison.
+- Slithering blob of multicolored goo, 5 feet wide, half that height. Amorphous, can shapeshift to look like another creature. Intelligent but unreliable, very spontaneous, may parley, retreat, or attack. Loves new experiences. Immune to shapechanging. Change forms. Sense objects via tremors.
