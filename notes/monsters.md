@@ -7,11 +7,13 @@
 - Wide category of human variants with various genetic/mechanical modifications
   - Human variants don't really have racial names, more location-based
 - Inevitables
+- Lots of unique legendary one-of-a-kind creatures
 - Other possible 'famous monsters':
   - Animal Hybrids: Centaur, Cockatrice, Hippogriff, Lammasu, Merfolk, Wyvern
   - Mythical Beats: Hydra, Minotaur, Cyclops, Pegasus, Satyr, Sphinx, Unicorn, Manticore, Phoenix, Troll,
   - Dire animals
   - Elementals
+  - Animal swarms
   - Formians
   - Giants
   - Golems
@@ -160,3 +162,23 @@
 - Like a small elf. Green skin, webbed fingers and toes, pointed ears, wide silver eyes. Dwell in ponds, suspicious of intruders. Slim, comely, dark green air. Loincloths. Charm person for combat.
 - Resembles a small elf, longer ears, gossamer wings. Pranksters, lead travellers astray. Cap, shoes with curled toes. Attack evil creatures ferociously. Invisibility, special arrows which cause memory loss or sleep.
 - Nasty-looking creature, cross between a bat and a mosquito. Membranous bat wings, short, hurry body, eight jointed legs, endin shapr pincers, needlelike proboscis. Batlike, feeds on blood of living beings. Multiple is a formidable threat. Attacsk by landing on victim, finding nulerable spot, plunging proboscis into flesh. Attach to opopnent, hard to shake off. Can drain blood.
+- Scaly biped, about as tall as a 5 storey building. Carries like a bird of prey, leaning well forward to awlk, using powerful tail for balance. Two horns, thick, reflective carapace on back. Only one exists. Sleeps a lot. Engine of destruction, rampages, eating everying in path. Attacks with claws, teeth, horns, tail. Frightful presence. Swallow enemies whole. Armorlike carapace, reflects spells. Regeneration, cannot be affeected by death magic. Can only be killed by knocking it out and using a wish or miracle to keep it down. Body parts regrow.
+- Looks like a mound of vegetation supported by vines and branches. Huge opening willed with teeth of thorns. Mutated plant. Can grow and regrow its vegetable body rapidly. Leaves and vines appear rapidly. Eats meat. Grabs enemies. Swallows enemies, interior paralyzes them and is acidic. Can climb out with a grapple check. Regenerates.
+- Creature with a sinuous body, segmented like an earthworm. Whole body glows with orange-white heat. Wormlike, body melts rock. Burrows through earth. Spring at foe by bursting out of earth of curling up and launching itself. Touching it deals heat damage, slame attack burns and starts stuff on fire.
+- Tall being like an animated tree. Thick skin, barklike texture. Gnarled arms liek branches, legs like the split trunk of a tree. Eyes and head, above that are dozens of small branches with great leaves. Peaceful by nature, hate fire. Watch foes carefully before attacking. Charge from cover. Animate trees to assist. Good at destroying objects.
+- Roughly human-sized. Lower half ends in finned legs, torso, head, and arms are human. Sea dwellers. Avoid combat, defend homes. Summon animal allies.
+- Reptillian creature, somewhat humanoid. Shorter than a human. Spindly, muscular arms, walks erect on squat legs. Long, slender tail. Head is lizardlike. Crowned with a frill, extends from forehead to base of neck. Eyes are black and beady. Revolting lizard creatures. Evil. Not that intelligent. Half are armed with claws and teeth, rest carry javelins and clubs. Launch volleys of javelins. Stench, creatures must save or be sickened.
+- Big, bipedal creature, one and half times as tall as a human. Long, ungainly arms and legs. End in great three-toed feet. Wide, powerful hands, sharpened claws. Hide is rubbery, hair is thick and ropy. Seems to write with its own energy. Horrid carnivores. Know no fear, attack when hungry. Uneven gait. Arms dangle, drag on ground. Launch into combat without hesitation. Rend with claws. Regenerate. Only hurt by fire or acid.
+- Hulking, powerfully built creature, cross between a giant ape and a beetle. Low, rounded head dominated by massive mandibles, rows of triangular teeth. Two big compound eyes, two smaller eyes. Armor plates of chitin cover almost entire body, scattered feelers resembling sparse hair. Curshing blows, mandibles bite through armor. Confusing gaze.
+- Hideous human head suspended from leathery wings. In place of hair, has writhing tentacles. Eyes burn with menacing green flame. Haunt graveyards and ruins. Shriek paralyzes enemies with fear. Kiss target starts turning them into one of them. Poison bite.
+- Nothing but a faintly glowing sphere of light. Evil, feeds on emotions panic, horror, and death, many colors. Avoid combat, bewilder adventurers. Immune to most spells, small electrical shocks, can become naturally invisible.
+- Looks like a white wolf, icy blue eyes. Stands as tall as a horse. Breath smokes with cold. Intelligent, rarely give up the chase. Typically hunt in packs. Trip enemies with bite.
+- Looks like a dark-colored wolf with malevolent intelligence. Sinister, associate with evil creatures. Stalk and kill young, sick, weak animals. Pairs work together. Trip with bite attack.
+- Two-legged lizard, bigger than an ogre. Long tail, tipped with a thick knot of cartilage, stringer protrudes. Leathery bat wings, huge jaws, long, sharp teeth. 15 feet long, wingspan is 20 feet. Stupid but aggressive. Attak anything, dives from the air. Slash with talons. Grab enemies. Poison.
+- Quasi-reptilian creature. Four arms, bright red scales, dark penetrating eyes. Not quite as tall as a human. Malevolent, brutal. Love cruelty. Lie in wait on ethereal plane then attack. Lay eggs inside a paralyzed creature. Grab. Paralyzing bite.
+- Bizzare creatue, wide body, pebbly, stonelike material. Large, powerful mouth. Three long arms. Sharp talons. Symmetrical. Stone-lidded eyes between arms that see in all directions. Three thick, short legs at base. Can't eat meat, don't attack unless to defend. Eat precious metals and gems, might attack for those, can smell them. All-around vision ability. Glide through stone, dirt, or earth like a fish through water.
+- Like an oversized greyhound. Dull black fur. Eyes glow cherry red. Fearsome flying hound, glides low over the countryside at night. Seeks likely prey. Hunt at night. Fear sun. Baying howl produces panic. Hitting with bite can trip. Can fly.
+- Resembles an eyeless, yellow-green flying reptile. Fleshy wings. Long tail. Large fin on back. Single honrlike protrusion. Crafty, devious. 20 feet long. Attack from the air, strafe the ground with sonic attacks. Sonic lance deals sonic damage. Fire at ground to cause an explosion. Blightsight.
+- Looks like a slim-hipped, lithe human with sharp features, unblinking eyes. Forked tongue, pointed teeth, scaly patches on neck. Appear human at first glance, subtle snakelike features. Plan elaborate traps, geniuses. Prefer ranged attacks. Can change forms to a snake.Disguise as humans, attack with spells and scimitars.
+- Body of a human, head of a snake. Long fangs, forked tongue. Skin covered in gleaming scales. Have e.g. a cobra hood. Poison enemies, produce acid, cast spells, camoflage themselves.
+- Looks like a big serpent. Eyes betray a baleful intelligence. Two burly humanoid arms. Masterminds of their society, urge others into battle from the rear. Watch the battle carefully to identify most dangerous foes and abilities, neutralize with their extensive spells. Create an intense fear of snakes in target. Constrict enemies. Grab enemies. Poison enemies. Acid. Camoflage.
