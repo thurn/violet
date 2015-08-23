@@ -221,27 +221,43 @@
 - When a creature dies, draw a card
 - Search your library for a blue instant spell, put it into your hand
 
+# Spell Compendium Again
+- Weapon you hold begins to fade from existence. With the last words, it disappears completely. Weapon-shaped red blotch on your arm. Weapon is absorbed into your body, cannot be detected, touch the spot to get it back out.
+- Intricate gestures, slight buzz at the edge of your hearing. Body feels warmer, feeling of security fills you. Spells that target you, their spell levels are absorbed up to a maximum. Use the captured energy to cast your own spells.
+- Hot fog rises from the ground, coils around you. Stepping out are a handful of squat, blubbery demons. Greather silhouettes behind them. Summons a pack of demons. Never attack you.
+- Azure glow surrounds you, unleash the spell, feel lighter of foot. Move at normal speed while climbing, hiding, moving silently, tumbling, etc.
+- Pop fire ants into your mouth, exhale quickly. Distill into drops of acid in midair, spatter against foes leaving smoking holes. Breath forth a cone of acid.
+- Crush fire ants between fingers, rub smashed mixture on your exposed flesh. They liqeufy and cover you with a thick, translucent sheath. Fluid sheath of acid protects you. Creatures that strike you take acid damage, your acid spells get extra acidy.
+- Dark green cloud whirls into being before unleashing a shower of foul-smelling yellow-green rain. Acid rain damages everywhere.
+- Hold holy symbol aloft, silvery radiance dances from your hands, leaping over nearby allies, strengthening them, temporary hitpoints and aid.
+- Intone words of power to release the spell, feel far more focused, increase your ability to concetrate, cast while maintaining concentration on another spell. Good at concentrating on that spell.
+- Tiny bubbles form on hands, complete spell, touch subject, heaves and shudders, can breathe air freely if they couldn't before.
+- Uttering a low chant, you ring a crystal bell, drumming with fingernails, create an invisible warded area. Sets an alarm on an area.
+- Kneel beside animal companion, press a spring of misletoe against forehead, call upon power of nature. Makes natural weapons have a particular alignment.
+- Hold holy symbol high, speak old words of power. Party's weapons take on a pale blue radiance. Gives weapons a particular alignment.
+- Quick wiggle of fingers, few arcane words, release feather. Translucent blue motes burst outward from you, collect on you an your allies, everybody within a 30 foot radius gets double movement speed.
+- Point at writing and move your hand as though holding a stylus or quill. Intone, script appears on a sheet of paper. Cause writing to be copied.
+- Dust you rally with gelatin, silently evoke the spell. Immediately, bones begin to soften and her belongings slump, becoming a malleable ooze. Subject and gear become amorphous and oozelike. Enables subject to pass through holes or narrow openeings.
+- Need to hear what's going on. Hand motion or two, voices become louder and clearer in your ears. Amplify all sounds. Decreases hear DC by 20. Counters and dispels silence, silence counters and dispels it.
+- Seeing with a magic eye, sense a portal. Study it, knowledge comes into mind. Tell if an area contains a magical portal. Can locate it. Longer you study, the more you learn, e.g. how to open it.
+- Call upon the powers of chaos, heavy rain falls around you, rainbow of soft radiance. Multicolored lightning bolt flashes. Penalties to spot, listen, search. Damages lawful creatures each round, lighting strikes a randomly selected lawful creature.
+- Speak the ancient, slippery words, pour iron and silver into a flash. More powder than room in the bottle, but it dissolves, flask of water swirling with motes of gold. Makes a flask of water that damages lawful creatures. Throw it as a splash weapon.
+- Touch you rally with a holy symbol, invoke blessed words. Opalescent glow spreads across their skin, imbuing it with a pearl-like sheen. Gains damage reduction against evil.
+- Your body explodes with radiance, bathes the area in sunlight. Any creature that can see you is blinded. Undead in the area get damaged, some undead especially sensitive to bright light are destroyed immediately.
+- Exhale a flaming tongue of fire, produces a creature made of flames which answers your bidding. Imbue breath weapon with life, creates a huge elemental with type matching your breath weapon.
+- Cast mixture in your hand at the fire, completing the spell. A part of the flame coalesces into a solid humanoid shape. Becomes a small fire elemental.
+- Nearby snow draws together with an audible crunch, coalescing into a human-shaped form. Snow becomes a group of animated objects, stronger if it's cold where they are.
+- Indicate a patch of water, hand shakes from pent-up divine spell power, the liquid rises into a humanoid shape. Turns into a water elemental.
+- Touch a piece of wood, release energy of the spell into it. Begins to writhe and twist, rises to move. Causes wood to have the semblance of life, attack and stuff.
+- Arcane words linger in the air, fade from hearing, become aware of surroundings. Aura anticipates and delays teleportation of creatures. Instantly aware of where teleporting creature will arrive, delays the teleport for one round.
+- Rosy color flickers into being in the air, feel sense of warmth and well-being. Everyone gets cold immunity, cold-type creatures can't come in.
+- Unleash power of spell, nugget of platinum vanishes from your palm. Companions bathed in white aura, silver scale pattern. Luck bonus vs dragons.
+- Invisible ray projects from fingers.Strikes foe, ripples across body like water across a calm pond. Target is inside an antimagic field, can't use spells.
+- No visible effect, channel divine power through your mind, shaping and transforming the energy into potential. Prepare any 2nd level or lower spell immediately.
+- Encircle eye with thumb and forefinger, speak arcane words. Objects seem clearer and in focus. Note blemishes and imperfections. Gain intuition into value. Insight bonus on appraise checks.
+- Static fills the air. Gesture creates conductivity between targets. Bolt of electricity arcs between them, shockingly loud crackle. Electricity damage to both creatures.
 
 # Spell Compendium
-- Absorb spell power into your own power
-- Breathe out acid
-- Surround self in acid
-- Rain acid down on enemies
-- Add bonus aim to another spell
-- Make weapons overcome a specific type of damage reduction
-- Everthing within a radius gets double movement
-- Turn self into semi-fluid form
-- Heavy rain in one area
-- Create a flask of water that damages lawful enemies
-- Glowing skin, resist evil damage
-- Body shines really bright, blinds enemies, hurts undead
-- Breathe out fire that makes a fire creature
-- Turn fire/snow/water/wood into a creature
-- Delay teleportation effects in a given area
-- Immunity to cold damage in a given radius
-- Aura which gives bonus defense vs. dragons
-- Create antimagic field around target
-- Instantly cast any low-level spell
 - Lightning arcs between two creatures
 - Armor made of shadows, bonus vs. holy/good spells
 - Don't provoke reactions with ranged attacks

@@ -108,7 +108,8 @@
 - Invisibility is a thing, rules for fighting invisible enemies
 - Various damage types, added as needed, fire, acid, electric, cold, sonic at minimum
 - Magical interactions: rain puts out fire
-  * Mana cost determines opposed effects, e.g. water vs. fire? Or distance from caster maybe?
+  * Stack-like system for effects, last write wins. E.g. casting a fire spell on some
+    water evaporates it, casting a water spell on some fire puts it out.
   * difficult terrain, slippery terrain, wet stones
   * Object/Tile Effects: On Fire, Ice-covered, Movable, In Darkness, Broken, Destroyed
     Waterlogged, water electrified, acid, snow-covered, oil-covered, metallic, wooden, living,
