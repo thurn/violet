@@ -256,21 +256,24 @@
 - No visible effect, channel divine power through your mind, shaping and transforming the energy into potential. Prepare any 2nd level or lower spell immediately.
 - Encircle eye with thumb and forefinger, speak arcane words. Objects seem clearer and in focus. Note blemishes and imperfections. Gain intuition into value. Insight bonus on appraise checks.
 - Static fills the air. Gesture creates conductivity between targets. Bolt of electricity arcs between them, shockingly loud crackle. Electricity damage to both creatures.
+- Envelops the creature in a shroud of flickering shadows. Bonus to AC, see through armor, save bonus vs holy/good/light spells. Undead get turn resistance.
+- Bow feels like an extension of your body, as if part of your arm. Creatures seem sharper, in focus. Threaten squares with your bow, attacks of opportunity, no attacks of opportunity provoked.
+- Complete long ritual, scribing arcane runes into item. Changes before your eyes into bone. Runes glow with dark magic. Weapon gets bonus, instantly kills (vs fortitude save) targets then disintigrates.
+- Bow glows blue, feels light as a feather. See arrows in quiver, hand feels drawn to them. Cast at beginning of turn, shoot bow at every enemy in range.
+- Call upon the world's primal energies. Disoriented, face elongates intoa snout, limbs thicken, skin turns into silvery chitin. Assume physical appearance of a bulette. Become huge, lose extraordinary abilities, cannot cast spells. Leap ability.
+- Howl, complete spell. Body instantly sprouts short, thick fur. Spine and neck bend, drop to hands and knees, they shorten into canine limbs. Assume physical apperance of a wolf. Low light vision, scent, bite attack, can't speak or cast spells.
+- Eyes glow with a pale blue radiance, understand how to overcome foe's resistance to your magic. +10 to checks to overcome spell resistance of that creature.
+- Fish out gem, float in Astral plane, cast spell. Pinprick of light appears, widening to form circular portal of bronze. Step though, begin healing. Portal to healing demiplane. Only lets you in.
+- Touch pebble against allies' flesh, bring them into attunement with the plane. Negate harmful effects of the plane.
+- Surrounded by cool, blue mist, clings to your body, dampening the heat of nearby flames. Proects against fire, absorbs 10 points of fire damage. Nonmagical flame is immediately extinguished. Can use the aura to dispel fire attacks.
+- Shout "Stay together", intone the words, cast crushed gemstone into the air. All bathed in silver-green nimbus of light. All get evasion bonus vs breath weapons.
+- Invoke holy words, soft golden light radiates from you. Feel sure of yourself, bolstered by beliefs. Channel divine power into your self, removing fear effects from all allies.
+- Speak curt words, face overlaid with violet skull. Fades, nimbus of violet light. When you attack, creatures with less HD than you save vs. being shaken.
+- Companions each bein to radiate a soft, golden glow. They breathe deepy, suffused with mystic power. All get morale bonus.
+- Shoot a black ray of from outstetched hand, foe purges blood vessels through its skin. Create a mass of bloody, adhesive tissue, traps nearby creatures. Entangle creatures nearby, gradually tightens.
+- Shoot black ray of energy, foe purges vital fluids through skin. Ranged touch attack, subject shoots out its blood, loses half HP, is stunned.
 
 # Spell Compendium
-- Lightning arcs between two creatures
-- Armor made of shadows, bonus vs. holy/good spells
-- Don't provoke reactions with ranged attacks
-- Turn into a giant bulette
-- Turn into a wolf
-- Bonus to overcoming spell resistance of a specific enemy
-- Teleport to a special healing plane
-- Blue mist that protects from fire damage
-- Evasion from breath weapons
-- Holy aura removes fear from enemies
-- Give self an aura that causes fear in enemies
-- Cause blood vessels to shot out of enemy and block its area
-- Blood shoots out of enemy
 - Turn trees into allies
 - Crushing guilt for sins in enemy
 - Turn skeleton into ally
