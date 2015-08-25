@@ -5,28 +5,31 @@ School Archetypes:
   - Assault
   - Fighter
   - Diamond
-  - Temporary Effects
-# Ignis
+  - Self-buff
+  - Self-centered area-of-effect attack
+# Ignar
   - Fire
   - Red
   - Heavy
   - Mage
   - Ruby
-  - Immediate Effects
+  - Area-of-effect attack
 # Petra:
   - Earth
   - Green
   - Support
   - Cleric
   - Emerald
-  - Ongoing Effects
+  - Team buff
+  - Help others
+  - General utility spells (non-combat)
 # Aquis
   - Water
   - Blue
   - Sniper
   - Thief
   - Sapphire
-  - Activated Effects
+  - Targeted attack
 
 Card Archetypes:
 "Kicker" - pay cost, add extra effect
