@@ -272,11 +272,11 @@
 - Companions each bein to radiate a soft, golden glow. They breathe deepy, suffused with mystic power. All get morale bonus.
 - Shoot a black ray of from outstetched hand, foe purges blood vessels through its skin. Create a mass of bloody, adhesive tissue, traps nearby creatures. Entangle creatures nearby, gradually tightens.
 - Shoot black ray of energy, foe purges vital fluids through skin. Ranged touch attack, subject shoots out its blood, loses half HP, is stunned.
+- Tendrils of writhing light cover hand and brain it holds, light disperses into construct. Awwakens a humanoid-shaped construct to sentience.
+- Command for repenetance from mouth, carrying power of spell. Crushing feeling of guilt within you lifts, projects towards target. Nonlethal damage and stun with guilt.
+- Whisper secret words, call wroth a glimmer of intelligence. Grants intelligence to mindless undead.
 
 # Spell Compendium
-- Turn trees into allies
-- Crushing guilt for sins in enemy
-- Turn skeleton into ally
 - Rainstorm which damages chaotic creatures
 - Flask of water which damages chaotic enemies
 - Protective slime around target which causes attacker to take damage

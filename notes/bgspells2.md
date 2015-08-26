@@ -32,6 +32,26 @@
 - drain life
 - death cloud
 
+# Abjuration
+  - Protective, create barriers, countermagic, harm trespassers
+# Conjuration
+  - Manifest objects, energy, creatures
+  - Calling, Creation, Healing, Summoning, Teleportation
+# Divination
+  - Scrying, find secrets and hidden things,
+# Enchantment
+  - Affect minds of others
+  - Charms, Compulsions
+# Evocation
+  - Manipulate energy
+# Illusion
+  - Deceive the senses or mind of others
+  - Figment, Glamer, Pattern, Phantasm, Shadow
+# Necromancy
+  - Manipulate power of death
+# Transmutation
+  - Change properties of things, creatures
+
 Abi-Dalzim's Horrid Wilting
 Absolute Immunity
 Agannazar’s Scorcher
